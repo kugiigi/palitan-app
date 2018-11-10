@@ -1,0 +1,13 @@
+[Desktop Entry]
+_Name=Tagatuos
+Exec=tagatuos2
+Icon=tagatuos2/icon.svg
+Terminal=false
+Type=Application
+Keywords=expense;money;pera;budget;debt;gastos;utang
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Image=tagatuos2/icon.svg
+X-Ubuntu-Splash-Show-Header=false
+X-Ubuntu-Splash-Title=Tagatuos
+X-Ubuntu-Splash-Color=#86DFFF
+Name[en_PH]=palitan
