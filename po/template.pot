@@ -1,0 +1,718 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-24 17:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddBottomEdge.qml:22
+msgid "Add Expense"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddBottomEdge.qml:39
+msgid "New Expense"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddBottomEdge.qml:68
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/QuickAddPage/AddQuickExpenseDialog.qml:31
+msgid "Quick Expense"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddBottomEdge.qml:101
+msgid "New Debt"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:11
+msgid "About"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:73
+msgid "Version"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:83
+msgid "Released under license"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:108
+msgid "Support"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:111
+msgid "Rate this App"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:127
+msgid "Ask a question"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:143
+msgid "Report a bug"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:159
+msgid "Contact Developer"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:190
+msgid "Donate"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:206
+msgid "Other apps by the developer"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:223
+msgid "Developers"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:260
+msgid "Powered by"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:264
+msgid "Money formatting"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AboutPage.qml:280
+msgid "Date and Time manipulation and formatting"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:27
+msgid "Add New Category"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:28
+msgid "Edit Category - "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:118
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddFullPage.qml:194
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:210
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:30
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:29
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:91
+msgid "Add"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:118
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddReport.qml:256
+msgid "Save"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:157
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddFullPage.qml:274
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddReport.qml:296
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:257
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:241
+msgid "Cancel"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:168
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddReport.qml:307
+msgid "Category already exists!"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddCategory.qml:169
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddReport.qml:309
+msgid "That category already exists. Please choose a different name."
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddFullPage.qml:194
+msgid "Update"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddFullPage.qml:245
+msgid "Add as Quick"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddFullPage.qml:294
+msgid "Quick expense successfully added!"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddReport.qml:224
+msgid "Filter"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/AddReport.qml:230
+msgid "Exception"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/Dashboard.qml:13
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:52
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:58
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:163
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:193
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:118
+msgid "Dashboard"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/Dashboard.qml:22
+msgid "Night-mode"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:220
+msgid "Sort / Filter"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:231
+msgid "Previous"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:260
+msgid "Next"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:291
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:150
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:40
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:90
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:491
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:132
+msgid "Today"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:294
+msgid "Recent Days"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:297
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:157
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:44
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:95
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:505
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:135
+msgid "Yesterday"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:300
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:171
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:48
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:100
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:519
+msgid "This Week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:303
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:178
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:52
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:105
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:533
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:156
+msgid "This Month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:306
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:185
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:64
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:115
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:561
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:144
+msgid "Last Week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:309
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:192
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:68
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:120
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:575
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:150
+msgid "Last Month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:312
+msgid "the specified date range"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:315
+msgid "No expense for "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:318
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/Dashboard/DashboardItem.qml:46
+msgid "Use the bottom edge to add expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:319
+msgid "Loading Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/DetailView.qml:320
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/Dashboard/DashboardItem.qml:48
+msgid "Please wait"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:49
+msgid "Statistics"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:55
+msgid "Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:173
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:13
+msgid "Settings"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/MainPage.qml:183
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/SingleItem.qml:38
+msgid "View Details"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:25
+msgid "Categories"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:140
+msgid "No Category Exists"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:141
+msgid "Tap/Click the '+' button to add categories"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:218
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:262
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:202
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:246
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:197
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/ActionDelegate.qml:49
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/SingleItem.qml:76
+msgid "Delete"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:232
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:216
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:177
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/SingleItem.qml:68
+msgid "Edit"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:251
+msgid "Delete Category"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:252
+msgid "Are you sure you want to delete this category?"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageCategory.qml:252
+msgid ""
+"If you continue, all expenses under this category will be moved under "
+"'Uncategorized'"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:24
+msgid "Reports"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:128
+msgid "No custom reports"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:129
+msgid "Use the '+' button to add custom reports"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:179
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/TypeField.qml:38
+msgid "Trends"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:182
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/TypeField.qml:42
+msgid "Breakdown"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:185
+msgid "Chart"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:235
+msgid "Delete Report"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/ManageReports.qml:236
+msgid "Are you sure you want to delete this report?"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:112
+msgid "Find"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:185
+msgid "Custom Add"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:228
+msgid "No data to display"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:252
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:164
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:60
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:110
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:547
+msgid "Recent"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:256
+msgid "Quick List"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/QuickAddPage.qml:260
+msgid "Most Used"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:67
+msgid "Interface"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:71
+msgid "Always start with Dashboard"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:73
+msgid "Disabling will load the page from previous session"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:83
+msgid "Theme"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:105
+msgid "Ambiance"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:109
+msgid "Suru Dark"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:210
+msgid "Manage Reports"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:212
+msgid "Create custom reports"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:216
+msgid "Manage Categories"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:218
+msgid "Add, edit, and delete categories"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:222
+msgid "About Tagatuos"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/ui/SettingsPage.qml:224
+msgid "Credits, report bugs, view source code, contact developer, donate"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddCategory/ColorField.qml:24
+msgid "Color"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddCategory/DescriptionField.qml:21
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/DescriptionField.qml:27
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DescriptionField.qml:21
+msgid "Description"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddCategory/DescriptionField.qml:33
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DescriptionField.qml:33
+msgid "Add description (optional)"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddCategory/NameField.qml:27
+msgid "Name"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddCategory/NameField.qml:38
+msgid "Enter category name "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/CategoryField.qml:23
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/CategoryField.qml:23
+msgid "Category"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/CommentsField.qml:21
+msgid "Details/Comments"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/CommentsField.qml:34
+msgid "Add details / comments"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/DateField.qml:18
+msgid "Date"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/DescriptionField.qml:38
+msgid "Enter expense description "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddFullPage/ValueField.qml:22
+msgid "Value"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateFromField.qml:18
+msgid "From"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateModeField.qml:40
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:71
+msgid "By Day"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateModeField.qml:44
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:68
+msgid "By Week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateModeField.qml:48
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:65
+msgid "By Month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:56
+msgid "This Year"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:72
+msgid "Last Year"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateRangeField.qml:76
+msgid "Custom Range"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/DateToField.qml:18
+msgid "To"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/FilterException.qml:29
+msgid "Expense Name"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/FilterException.qml:30
+msgid "Enter Expense Name"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/AddReport/NameField.qml:43
+msgid "Enter report name "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/Common/TextualButtonStyle.qml:48
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/Common/TextualButtonStyle.qml:51
+msgid "Pick"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/Dashboard/FlowItemExpandItem.qml:10
+msgid "View All"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/DetailsDialog.qml:33
+msgid "Name:"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/DetailsDialog.qml:39
+msgid "Description:"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/DetailsDialog.qml:40
+msgid "<No Description>"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/DetailsDialog.qml:45
+msgid "Category:"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/DetailsDialog.qml:51
+msgid "Date:"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/DetailsDialog.qml:57
+msgid "Value:"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:125
+msgid "Calendar (By Day)"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:130
+msgid "Calendar (By Week)"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:135
+msgid "Calendar (By Month)"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/PageHeaderExtensionBar.qml:140
+msgid "Calendar (Custom)"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/DetailView/ViewAllItem.qml:23
+msgid "See More"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:493
+msgid "No expense for Today"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:495
+msgid "Loading Today's Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:507
+msgid "No expense for Yesterday"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:509
+msgid "Loading Yesterday's Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:521
+msgid "No expense for This Week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:523
+msgid "Loading This Week's Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:535
+msgid "No expense for This Month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:537
+msgid "Loading This Month's Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:549
+msgid "No Recent Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:551
+msgid "Loading Recent Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:563
+msgid "No expense for Last Week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:565
+msgid "Loading Last Week's Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:577
+msgid "No expense for Last Month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/ListModels/ListModels.qml:579
+msgid "Loading Last Month's Expenses"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/QChart/Chart.qml:314
+msgid "Not enough data to display the report"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/QChart/Chart.qml:316
+msgid "Select different report criteria"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:14
+msgid "today"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:17
+msgid "yesterday"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:20
+msgid "this year"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:23
+msgid "this month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:26
+msgid "this week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:29
+msgid "last year"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:32
+msgid "last month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:35
+msgid "last week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:38
+msgid "for the past 7 days"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:41
+msgid "Default"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:50
+msgid "Your expense trends "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:53
+msgid "Your expense breakdown "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/components/StatisticsView/ChartHeader.qml:62
+msgid "By Year"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:138
+msgid "Tomorrow"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:141
+msgid "On "
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:147
+msgid "Next Week"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:153
+msgid "Next Month"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:159
+msgid "Older"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/Tagatuos_Reboot/tagatuos2/library/ProcessFunc.js:162
+msgid "In The Future"
+msgstr ""
+
+#: /home/kugi_igi/Documents/Development_Projects/build-Tagatuos_Reboot-Ubuntu_Device_GCC_armhf_ubuntu_sdk_15_04_builder_armhf-Release/tagatuos2/tagatuos2.desktop.h:1
+msgid "Tagatuos"
+msgstr ""

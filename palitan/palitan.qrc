@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>icon.svg</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>palitan.desktop</file>
+        <file>palitan.apparmor</file>
+        <file>data/rates.json</file>
+        <file>components/common/TumblerMouse.qml</file>
+        <file>components/common/KeyboardRectangle.qml</file>
+        <file>components/listmodels/BaseListModel.qml</file>
+        <file>components/listmodels/MainModels.qml</file>
+        <file>components/listmodels/SettingsModels.qml</file>
+        <file>ui/MainPage.qml</file>
+        <file>components/mainpage/ConvertPane.qml</file>
+        <file>components/mainpage/convertpane/SwapButton.qml</file>
+        <file>components/mainpage/convertpane/TumblerDelegate.qml</file>
+        <file>components/mainpage/FavoritesPane.qml</file>
+        <file>components/mainpage/FullViewPane.qml</file>
+        <file>ui/SettingsPage.qml</file>
+        <file>ui/AboutPage.qml</file>
+        <file>ui/DonatePage.qml</file>
+        <file>library/accounting.js</file>
+        <file>library/currencies.js</file>
+    </qresource>
+</RCC>

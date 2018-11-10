@@ -1,0 +1,54 @@
+[editor]
+line_wrapping=false
+line_break_column=72
+auto_continue_multiline=true
+
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=PalitanGeany
+base_path=/home/phablet/Documents/Projects/Palitan/GeanyProject
+description=
+file_patterns=*.qml;*.js;*.cpp;*.apparmor;*.desktop;*.qrc;*.conf;*.json.in;
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=5
+FILE_NAME_0=1855;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2FMain.qml;0;4
+FILE_NAME_1=562;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FMainPage.qml;0;4
+FILE_NAME_2=534;Conf;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fpalitan.qrc;0;4
+FILE_NAME_3=38;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Flibrary%2Fcurrencies.js;0;4
+FILE_NAME_4=443;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Flistmodels%2FMainModels.qml;0;4
+FILE_NAME_5=2701;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FConvertPane.qml;0;4
+FILE_NAME_6=227;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2FTumblerDelegate.qml;0;4
+FILE_NAME_7=719;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FSettingsPage.qml;0;4
+
+[VTE]
+last_dir=/home/phablet/Documents/Projects/Palitan/GeanyProject
+
+[build-menu]
+EX_00_LB=Build and Run
+EX_00_CM=qtcompilerun_geany palitan kugiigi
+EX_00_WD=%p
+EX_01_LB=Build and Run (Remote Device)
+EX_01_CM=qtcompilerun_remote palitan kugiigi 10.42.0.34
+EX_01_WD=%p
+JavascriptFT_02_LB=_Lint
+JavascriptFT_02_CM=jshint "%f"
+JavascriptFT_02_WD=
+filetypes=Javascript;
