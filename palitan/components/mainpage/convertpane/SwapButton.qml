@@ -7,9 +7,7 @@ Button {
 	id: swapbutton
 	
 	focusPolicy: Qt.NoFocus
-	
-	width: icon.implicitWidth
-	height: width
+
 	flat: true
 	
 	UT.Icon {
@@ -17,6 +15,7 @@ Button {
                                  
 		implicitWidth: units.gu(5)
 		implicitHeight: implicitWidth
-		name: "user-switch"//"swap" //"user-switch"
+		anchors.centerIn: parent
+		name: "user-switch"
 	}
 }

@@ -6,18 +6,53 @@
         <file>palitan.desktop</file>
         <file>palitan.apparmor</file>
         <file>data/rates.json</file>
+        <file>ui/SettingsComponent.qml</file>
+        <file>ui/BottomSwipeArea.qml</file>
+        <file>ui/MenuDrawer.qml</file>
         <file>components/common/TumblerMouse.qml</file>
         <file>components/common/KeyboardRectangle.qml</file>
+        <file>components/common/BaseAction.qml</file>
+        <file>components/common/BaseDialog.qml</file>
         <file>components/listmodels/BaseListModel.qml</file>
         <file>components/listmodels/MainModels.qml</file>
         <file>components/listmodels/SettingsModels.qml</file>
+        <file>ui/BasePage.qml</file>
+        <file>ui/ApplicationHeader.qml</file>
+        <file>components/applicationheader/HeaderTitle.qml</file>
+        <file>components/applicationheader/MenuActions.qml</file>
+        <file>components/applicationheader/HeaderActions.qml</file>
+        <file>components/applicationheader/HeaderToolButton.qml</file>
         <file>ui/MainPage.qml</file>
         <file>components/mainpage/ConvertPane.qml</file>
         <file>components/mainpage/convertpane/SwapButton.qml</file>
-        <file>components/mainpage/convertpane/TumblerDelegate.qml</file>
+        <file>components/mainpage/convertpane/CurrencySelector.qml</file>
+        <file>components/mainpage/convertpane/currencyselector/TumblerSelector.qml</file>
+        <file>components/mainpage/convertpane/currencyselector/TumblerDelegate.qml</file>
         <file>components/mainpage/FavoritesPane.qml</file>
+        <file>components/mainpage/favoritespane/FavoriteDelegate.qml</file>
+        <file>components/mainpage/favoritespane/DeleteDialog.qml</file>
+        <file>components/mainpage/favoritespane/AddDialog.qml</file>
+        <file>components/mainpage/favoritespane/adddialog/DialogContent.qml</file>
+        <file>components/mainpage/favoritespane/adddialog/ComboBoxItem.qml</file>
+        <file>components/mainpage/favoritespane/favoritedelegate/FlipableSurface.qml</file>
+        <file>components/mainpage/favoritespane/favoritedelegate/FlipableActions.qml</file>
+        <file>components/mainpage/favoritespane/favoritedelegate/FlipableActionButton.qml</file>
+        <file>components/mainpage/favoritespane/favoritedelegate/FlipableSurfaceHeader.qml</file>
+        <file>components/mainpage/favoritespane/favoritedelegate/FlipableSurfaceContent.qml</file>
+        <file>components/mainpage/favoritespane/favoritedelegate/HeaderLabels.qml</file>
         <file>components/mainpage/FullViewPane.qml</file>
+        <file>components/mainpage/fullviewpane/FullViewDelegate.qml</file>
+        <file>components/mainpage/fullviewpane/SortDialog.qml</file>
+        <file>components/mainpage/fullviewpane/sortdialog/DialogContent.qml</file>
+        <file>components/mainpage/fullviewpane/sortdialog/ComboBoxItem.qml</file>
+        <file>components/mainpage/fullviewpane/fullviewdelegate/DelegateActions.qml</file>
+        <file>components/mainpage/fullviewpane/fullviewdelegate/DelegateSurface.qml</file>
+        <file>components/mainpage/TabFooter.qml</file>
+        <file>components/mainpage/tabfooter/TabFooterButton.qml</file>
         <file>ui/SettingsPage.qml</file>
+        <file>components/settingspage/ComboBoxItem.qml</file>
+        <file>components/settingspage/CheckBoxItem.qml</file>
+        <file>components/settingspage/RadioButtonsItem.qml</file>
         <file>ui/AboutPage.qml</file>
         <file>ui/DonatePage.qml</file>
         <file>library/accounting.js</file>

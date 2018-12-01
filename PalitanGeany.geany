@@ -28,15 +28,17 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=5
-FILE_NAME_0=1855;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2FMain.qml;0;4
-FILE_NAME_1=562;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FMainPage.qml;0;4
-FILE_NAME_2=534;Conf;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fpalitan.qrc;0;4
-FILE_NAME_3=38;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Flibrary%2Fcurrencies.js;0;4
-FILE_NAME_4=443;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Flistmodels%2FMainModels.qml;0;4
-FILE_NAME_5=2701;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FConvertPane.qml;0;4
-FILE_NAME_6=227;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2FTumblerDelegate.qml;0;4
-FILE_NAME_7=719;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FSettingsPage.qml;0;4
+current_page=8
+FILE_NAME_0=2250;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2FMain.qml;0;4
+FILE_NAME_1=1552;Conf;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fpalitan.qrc;0;4
+FILE_NAME_2=19539;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Flistmodels%2FMainModels.qml;0;4
+FILE_NAME_3=5459;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FMainPage.qml;0;4
+FILE_NAME_4=214;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FFullViewPane.qml;0;4
+FILE_NAME_5=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FFavoritesPane.qml;0;4
+FILE_NAME_6=5467;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FConvertPane.qml;0;4
+FILE_NAME_7=342;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2FCurrencySelector.qml;0;4
+FILE_NAME_8=1692;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2Fcurrencyselector%2FTumblerSelector.qml;0;4
+FILE_NAME_9=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2Fcurrencyselector%2FTumblerDelegate.qml;0;4
 
 [VTE]
 last_dir=/home/phablet/Documents/Projects/Palitan/GeanyProject

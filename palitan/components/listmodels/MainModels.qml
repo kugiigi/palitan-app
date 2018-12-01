@@ -1,12 +1,34 @@
 import QtQuick 2.9
-
+import Ubuntu.Components 1.3 as UT
 
 Item{
 	id: mainModels
 	
 	property alias currencyModel2: currencyModel2
+	property alias sortedCurrencies: sortedCurrencies
 	property alias ratesDataModel: ratesDataModel
 	
+	UT.SortFilterModel {
+        id: sortedCurrencies
+        
+        model: currencyModel2
+        sort.property: settings.fullViewSortBy
+        sort.order: switch(settings.fullViewSortOrder){
+					case 0:
+						Qt.AscendingOrder
+						break
+					case 1: 
+						Qt.DescendingOrder
+						break
+					default:
+						Qt.AscendingOrder
+						break
+				}
+				
+        sortCaseSensitivity: Qt.CaseInsensitive
+        //~ filter.property: "producer"
+        //~ filter.pattern: /blender/
+    }
 	
     BaseListModel {
         id: currencyModel2
@@ -130,8 +152,8 @@ Item{
         id: ratesDataModel
 
         property var data: settings.ratesCacheJSON ? JSON.parse(settings.ratesCacheJSON) : ""
-        property string appID: "624288a2010b46efa678686799b33599" //openexchangerates app ID
-        property string requestURL: encodeURI("https://openexchangerates.org/api/latest.json?app_id=" + appID)
+        readonly property string appID: "624288a2010b46efa678686799b33599" //openexchangerates app ID
+        readonly property string requestURL: encodeURI("https://openexchangerates.org/api/latest.json?app_id=" + appID)
         
         function fetchCacheJSON(callback){
             var xhr = new XMLHttpRequest();
@@ -164,8 +186,8 @@ Item{
                 if (xhr.readyState == 4) {
                     if (xhr.status == 200) {
                         console.log("exchange rate fetch success")
-                        tempSettings.exchangeRateJSON = xhr.responseText
-                        tempSettings.exchangeRateDate = Process.getToday()
+                        settings.ratesCacheJSON = xhr.responseText
+                        settings.ratesAsOfDate = new Date()//Process.getToday()
                         callback(true)
                     }
                     else {

@@ -16,5 +16,16 @@ ListModel{
 	
 		return -1
 	}
+	
+	// gets the item from value
+	function getItem(value, role) {
+		var i = find(value, role)
+		return get(i)
+	}
+	
+	// gets the value of a specific index and role
+	function getValue(index, role){
+		return get(index)[role]
+	}
 }
 
