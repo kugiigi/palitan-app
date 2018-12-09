@@ -1,21 +1,116 @@
 import QtQuick 2.9
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
-import Ubuntu.Components 1.3 as UT
 import "../mainpage"
 import "../mainpage/convertpane"
 import "../common"
 import "../../library/currencies.js" as Currencies
 
-Pane {
+BasePane {
     id: convertPane
     
-    property var baseCurrency: Currencies.money(mainModels.currencyModel2.get(currencySelector.baseIndex), baseValue)
-    property var destinationCurrency: Currencies.money(mainModels.currencyModel2.get(currencySelector.destinationIndex), destinationValue)
-    property string baseValue
+    property var baseCurrency: Currencies.money(mainModels.currencyModel2.get(baseIndex), inputTextValue)
+    property var destinationCurrency: Currencies.money(mainModels.currencyModel2.get(destinationIndex), destinationValue)
+    property int baseIndex
+    property int destinationIndex
     property string destinationValue
     
     signal reloadData
+    
+    actions:  [addToFavoritesAction, swapAction, updateDataAction, helpAction]
+    
+    states: [
+        State {
+            name: "MINIMAL"
+            when: mainPage.height < 280
+            PropertyChanges { target: detailsRow; visible: false }
+            PropertyChanges { target: resultsComponent.fromLabel; visible: false }
+            PropertyChanges { target: currencySelector; compact: true; visible: false }
+            PropertyChanges { target: valueTextField; font.pixelSize: 20 }
+            PropertyChanges { target: resultsComponent.resultLabel; pixelSize: 40 }
+            PropertyChanges { target: resultsComponent.exchangeRatesLabel; font.pixelSize: 10 }
+        },
+        State {
+            name: "SMALL"
+            when: mainPage.height < 365
+            PropertyChanges { target: detailsRow; visible: false }
+            PropertyChanges { target: resultsComponent.fromLabel; visible: false }
+            PropertyChanges { target: currencySelector; compact: true; visible: true }
+            PropertyChanges { target: valueTextField; font.pixelSize: 20 }
+            PropertyChanges { target: resultsComponent.resultLabel; pixelSize: 40 }
+            PropertyChanges { target: resultsComponent.exchangeRatesLabel; font.pixelSize: 10 }
+        },
+        State {
+            name: "COMPACT"
+            when: mainPage.height < 450
+            PropertyChanges { target: detailsRow; visible: true }
+            PropertyChanges { target: resultsComponent.fromLabel; visible: true }
+            PropertyChanges { target: currencySelector; compact: true; visible: true }
+            PropertyChanges { target: valueTextField; font.pixelSize: 30 }
+            PropertyChanges { target: resultsComponent.resultLabel; pixelSize: 40 }
+            PropertyChanges { target: resultsComponent.exchangeRatesLabel; font.pixelSize: 10 }
+        },
+        State {
+            name: "NORMAL"
+            when: mainPage.height > 450
+            PropertyChanges { target: detailsRow; visible: true }
+            PropertyChanges { target: resultsComponent.fromLabel; visible: true }
+            PropertyChanges { target: currencySelector; compact: false; visible: true }
+            PropertyChanges { target: valueTextField; font.pixelSize: 30 }
+            PropertyChanges { target: resultsComponent.resultLabel; pixelSize: 50 }
+            PropertyChanges { target: resultsComponent.exchangeRatesLabel; font.pixelSize: 15 }
+        }
+    ]
+    
+    /****** Actions *****/
+    BaseAction{
+        id: addToFavoritesAction
+    
+        text: i18n.tr("Add to favorites")
+        iconName: "starred"
+    
+        onTrigger:{
+            var success = favoritesPane.addFavorite(baseCurrency.code, destinationCurrency.code)
+            var tooltipText
+            
+            if(success){
+                tooltipText = i18n.tr("Added to your favorites")
+            }else{
+                tooltipText = i18n.tr("Already in your favorites")
+            }
+            
+            if(isBottom){
+                tooltip.display(tooltipText, "BOTTOM")
+            }else{
+                tooltip.display(tooltipText, "TOP")
+            }
+        }
+    }
+    
+    BaseAction{
+        id: swapAction
+    
+        text: i18n.tr("Swap")
+        iconName: "user-switch"
+    
+        onTrigger:{
+            swap()
+        }
+    }
+    
+    BaseAction{
+        id: helpAction
+        
+        text: i18n.tr("Help")
+        iconName: "help"
+    
+        onTrigger:{
+            //Navigate to Main Page (Convert) section in the Help Page
+            stackView.gotToHelp([1, 1])
+        }
+    }
+    
+    /****** Functions *****/
     
     function swap(){
         var a = currencySelector.baseIndex
@@ -26,153 +121,47 @@ Pane {
     }
     
     function setCurrencies(code1, code2){
-        currencySelector.baseIndex = baseCurrencyTumbler.model.find(code1, "code")
-        currencySelector.destinationIndex = destinationCurrencyTumbler.model.find(code2, "code")
+        if(code1){
+            currencySelector.baseIndex = currencySelector.model.find(code1, "code")
+        }
+        if(code2){
+            currencySelector.destinationIndex = currencySelector.model.find(code2, "code")
+        }
     }
     
     function showResult(){
-        resultsColumn.showAnimation()
+        resultsComponent.showAnimation()
     }
     
     function hideResult(){
-        resultsColumn.opacity = 0
+        resultsComponent.opacity = 0
+    }
+    
+    //Used for delaying processing when changing the currency values from the Tumbler to avoid unnecessary processing
+    function syncCurrencies(){
+        baseIndex = currencySelector.baseIndex
+        destinationIndex = currencySelector.destinationIndex
     }
     
     ColumnLayout{
         id: mainColumn
         
         anchors.fill: parent
+        anchors.margins: 10
     
-        RowLayout{
-            Layout.alignment: Qt.AlignTop
-            Layout.preferredWidth: parent.width
-            Layout.preferredHeight: 10
-            
-            visible: convertPane.height < 400 ? false : true
-
-            Label{
-                id: asOfLabel
-                
-                property bool isUpdated: new Date() === new Date(settings.ratesAsOfDate)
-            
-                Layout.alignment: Qt.AlignLeft
-                Layout.preferredWidth: (mainColumn.width / 2.1)// - 2.5
-                Layout.preferredHeight: font.pixelSize
-                text: i18n.tr("Data as of") + ": " + Qt.formatDateTime(settings.ratesAsOfDate, "ddd, MMMM dd, yyyy")
-                font.pixelSize: 10
-                elide: Text.ElideRight
-                color: isUpdated ? theme.normal.backgroundTertiaryText : theme.normal.negative
-            }
-            Label{
-                id: sourceLabel
-            
-                Layout.alignment: Qt.AlignRight
-                //~ Layout.fillWidth: true
-                Layout.preferredWidth: (mainColumn.width/ 2.1)// - 2.5
-                Layout.preferredHeight: font.pixelSize
-                text: i18n.tr("Source") + ": " + "open exchange rates"
-                font.pixelSize: 10
-                elide: Text.ElideRight
-                horizontalAlignment: Text.AlignRight
-                color: theme.normal.backgroundTertiaryText
-            }
+        DataDetails{
+            id: detailsRow
         }
         
-        Item{
-            Layout.fillHeight: true
-            Layout.fillWidth: true
-
-            ColumnLayout{
-                id: resultsColumn    
-                
-                //~ Layout.preferredWidth: parent.width
-                //~ Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
-                //~ Layout.fillHeight: true
-                //~ anchors.fill: parent
-                //~ height: 100
-                anchors{
-                    left: parent.left
-                    right: parent.right
-                    verticalCenter: parent.verticalCenter
-                    
-                }
-                
-                function showAnimation(){
-                    if(opacity === 0)
-                    showAnimation.restart()
-                }        
-                
-                Label {
-                    id: fromLabel
-                    
-                    visible: convertPane.height < 400 ? false : true
-                    Layout.preferredWidth: parent.width
-                    Layout.preferredHeight: 15
-                    Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    text: baseCurrency.formattedValue() + " " + baseCurrency.code + " ="
-                    font.pixelSize: 15
-                    horizontalAlignment: Text.AlignHCenter
-                    verticalAlignment: Text.AlignVCenter
-                    fontSizeMode: Text.HorizontalFit
-                    elide: Label.ElideRight             
-                    minimumPixelSize: 10
-                    font.weight: Font.Medium
-                }
-                
-                Label {
-                    id: resultLabel
-                    
-                    Layout.preferredWidth: parent.width
-                    Layout.preferredHeight: 50
-                    Layout.alignment: Qt.AlignHCenter
-                    text: baseCurrency.convert(destinationCurrency.code)
-                    font.pixelSize: convertPane.height < 400 ? 40 : 50
-                    horizontalAlignment: Text.AlignHCenter | Qt.AlignVCenter
-                    verticalAlignment: Text.AlignVCenter
-                    fontSizeMode: Text.HorizontalFit
-                    minimumPixelSize: 20
-                    elide: Label.ElideRight
-                    color: theme.normal.positive
-                    font.weight: Font.Medium
-                }
-                
-                UT.UbuntuNumberAnimation on opacity{
-                    id: showAnimation
-                    
-                    from: 0
-                    to: 1
-                    easing: UT.UbuntuAnimation.StandardEasing
-                    duration: UT.UbuntuAnimation.SlowDuration
-                }
-                
-                Column{
-                    Layout.preferredWidth: parent.width
-                    Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    spacing: 5
-                    
-                
-                    Label{
-                        id: exchangeRatesLabel
-                    
-                        property real destinationValue
-                    
-                        text: "1 " + baseCurrency.code + " = " + baseCurrency.rate(destinationCurrency.code) + " " + destinationCurrency.code
-                        font.pixelSize: convertPane.height < 400 ? 10 : 15
-                        fontSizeMode: Text.HorizontalFit
-                        minimumPixelSize: 10
-                        height: 15
-                        anchors{
-                            left: parent.left
-                            right: parent.right
-                        }
-                        horizontalAlignment: Text.AlignHCenter
-                    }
-                }
-            }
+        ResultsComponent{
+            id: resultsComponent
         }
         
         CurrencySelector{
             id: currencySelector
+            
+            onBaseIndexChanged: delayTimer.restart()
+            onDestinationIndexChanged: delayTimer.restart()
         }
     }
 }

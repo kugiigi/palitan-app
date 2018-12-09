@@ -15,7 +15,8 @@ QML_FILES += $$files(*.qml,true) \
              $$files(*.js,true)
 
 CONF_FILES +=  palitan.apparmor \
-               icon.svg
+               icon.svg \
+               splash.svg
 
 AP_TEST_FILES += tests/autopilot/run \
                  $$files(tests/*.py,true)

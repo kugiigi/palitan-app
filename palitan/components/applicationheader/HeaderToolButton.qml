@@ -3,16 +3,16 @@ import QtQuick.Controls 2.2
 import Ubuntu.Components 1.3 as UT
 
 ToolButton {
-	id: headerToolButton
-	
-	property alias iconName: icon.name
-	
-	anchors.verticalCenter: parent.verticalCenter
+    id: headerToolButton
+    
+    property alias iconName: icon.name
+    
+    anchors.bottom: parent.bottom
 
-	contentItem: UT.Icon {
-		id: icon
-		
-		implicitWidth: 15//25//units.gu(3)
-		implicitHeight: implicitWidth
-	}
+    contentItem: UT.Icon {
+        id: icon
+        
+        implicitWidth: 15
+        implicitHeight: implicitWidth
+    }
 }

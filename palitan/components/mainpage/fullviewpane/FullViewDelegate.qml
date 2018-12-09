@@ -17,7 +17,9 @@ Rectangle{
     height: 50
     anchors{
         left: parent.left
+        leftMargin: 10
         right: parent.right
+        rightMargin: 10
     }
     border{
         width: 3

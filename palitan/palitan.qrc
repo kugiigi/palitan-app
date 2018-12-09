@@ -2,32 +2,46 @@
     <qresource prefix="/">
         <file>Main.qml</file>
         <file>icon.svg</file>
+        <file>splash.svg</file>
         <file>qtquickcontrols2.conf</file>
         <file>palitan.desktop</file>
         <file>palitan.apparmor</file>
         <file>data/rates.json</file>
+        <file>data/help.json</file>
         <file>ui/SettingsComponent.qml</file>
         <file>ui/BottomSwipeArea.qml</file>
         <file>ui/MenuDrawer.qml</file>
+        <file>components/JSONListModel/JSONListModel.qml</file>
+        <file>components/JSONListModel/jsonpath.js</file>
         <file>components/common/TumblerMouse.qml</file>
         <file>components/common/KeyboardRectangle.qml</file>
         <file>components/common/BaseAction.qml</file>
         <file>components/common/BaseDialog.qml</file>
+        <file>components/common/BasePane.qml</file>
         <file>components/listmodels/BaseListModel.qml</file>
         <file>components/listmodels/MainModels.qml</file>
         <file>components/listmodels/SettingsModels.qml</file>
         <file>ui/BasePage.qml</file>
+        <file>ui/GlobalTooltip.qml</file>
         <file>ui/ApplicationHeader.qml</file>
         <file>components/applicationheader/HeaderTitle.qml</file>
         <file>components/applicationheader/MenuActions.qml</file>
         <file>components/applicationheader/HeaderActions.qml</file>
         <file>components/applicationheader/HeaderToolButton.qml</file>
         <file>ui/MainPage.qml</file>
+        <file>components/mainpage/DataLoadingDisplay.qml</file>
         <file>components/mainpage/ConvertPane.qml</file>
         <file>components/mainpage/convertpane/SwapButton.qml</file>
         <file>components/mainpage/convertpane/CurrencySelector.qml</file>
+        <file>components/mainpage/convertpane/DataDetails.qml</file>
+        <file>components/mainpage/convertpane/ResultsComponent.qml</file>
+        <file>components/mainpage/convertpane/resultscomponent/FromLabel.qml</file>
+        <file>components/mainpage/convertpane/resultscomponent/ResultLabel.qml</file>
         <file>components/mainpage/convertpane/currencyselector/TumblerSelector.qml</file>
         <file>components/mainpage/convertpane/currencyselector/TumblerDelegate.qml</file>
+        <file>components/mainpage/convertpane/currencyselector/FindButton.qml</file>
+        <file>components/mainpage/convertpane/currencyselector/FindDialog.qml</file>
+        <file>components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml</file>
         <file>components/mainpage/FavoritesPane.qml</file>
         <file>components/mainpage/favoritespane/FavoriteDelegate.qml</file>
         <file>components/mainpage/favoritespane/DeleteDialog.qml</file>
@@ -53,8 +67,19 @@
         <file>components/settingspage/ComboBoxItem.qml</file>
         <file>components/settingspage/CheckBoxItem.qml</file>
         <file>components/settingspage/RadioButtonsItem.qml</file>
+        <file>components/settingspage/CustomPrecision.qml</file>
         <file>ui/AboutPage.qml</file>
-        <file>ui/DonatePage.qml</file>
+        <file>components/aboutpage/ExternalDialog.qml</file>
+        <file>components/aboutpage/IconComponent.qml</file>
+        <file>components/aboutpage/SectionItem.qml</file>
+        <file>components/aboutpage/NavigationItem.qml</file>
+        <file>ui/HelpPage.qml</file>
+        <file>components/helppage/DetailsPane.qml</file>
+        <file>components/helppage/NavigationPane.qml</file>
+        <file>components/helppage/detailspane/PaneFooter.qml</file>
+        <file>components/helppage/detailspane/ContentDelegate.qml</file>
+        <file>components/helppage/detailspane/contentdelegate/PaneHeader.qml</file>
+        <file>components/helppage/detailspane/contentdelegate/Delegate.qml</file>
         <file>library/accounting.js</file>
         <file>library/currencies.js</file>
     </qresource>

@@ -12,6 +12,7 @@ ApplicationWindow {
 
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
     property QtObject theme: settings.currentTheme === "SuruDark" ? suruDarkTheme : ambianceTheme
+    readonly property QtObject drawer: drawerLoader.item
 
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"
@@ -22,7 +23,7 @@ ApplicationWindow {
     
     //~ color: "black"//theme.normal.background
     
-    background: Rectangle{color: theme.normal.background}
+    //~ background: Rectangle{color: theme.normal.background}
 
     width: switch (displayMode) {
            case "Phone":
@@ -58,38 +59,13 @@ ApplicationWindow {
     Ambiance.Palette{id: ambianceTheme}
     SuruDark.Palette{id: suruDarkTheme}
     
-    ToolTip {
-		id: tooltip
-		
-		function display(customText, position, customTimeout){
-			switch(position){
-				case "TOP":
-					y = 10;
-				break;
-				case "BOTTOM":
-					y = mainView.height - 150;
-				break;
-				default:
-					y = 10;
-				break;
-			}
-			
-			if(customTimeout){
-				timeout = customTimeout
-			}
-			
-			text = customText
-			
-			visible = true
-		}
-		
-		timeout: 3000
+    GlobalTooltip{
+        id: tooltip
     }
 
-
-	SettingsComponent{
-		id: settings
-	}
+    SettingsComponent{
+        id: settings
+    }
 
     Connections {
         id: keyboard
@@ -97,95 +73,122 @@ ApplicationWindow {
     }
     
     MainModels{
-		id: mainModels
-	}
-	
-	SettingsModels{
-		id: settingsModels
-	}
+        id: mainModels
+    }
+    
+    SettingsModels{
+        id: settingsModels
+    }
 
     header: ApplicationHeader{
-		id: applicationHeader
-		
-		leftActions: BaseAction{
-			text: i18n.tr("Menu")
-			iconName: stackView.depth > 1 ? "back" : "navigation-menu"
-			
-			onTrigger:{
-				if (stackView.depth > 1) {
+        id: applicationHeader
+        
+        flickable: stackView.currentItem.flickable
+        leftActions: BaseAction{
+            visible: drawerLoader.visible
+            text: i18n.tr("Menu")
+            iconName: stackView.depth > 1 ? "back" : "navigation-menu"
+            
+            onTrigger:{
+                if (stackView.depth > 1) {
                         stackView.pop()
                         drawer.resetListIndex()
                     } else {
-						if(isBottom){
-							drawer.openBottom()
-						}else{
-							drawer.openTop()
-						}
+                        if(isBottom){
+                            drawer.openBottom()
+                        }else{
+                            drawer.openTop()
+                        }
                     }
-				}
-			}
-			
-		rightActions: stackView.currentItem ? stackView.currentItem.headerRightActions : 0
-	}
-	
-	MenuDrawer{
-		id: drawer
-		 
-		 model:  [
-			{ title: i18n.tr("Settings"), source: Qt.resolvedUrl("ui/SettingsPage.qml"), iconName: "settings" }
-			,{ title: i18n.tr("About"), source: Qt.resolvedUrl("ui/AboutPage.qml"), iconName: "info" }
-			,{ title: i18n.tr("Donate"), source: Qt.resolvedUrl("ui/DonatePage.qml"), iconName: "like" }
-		]
-	}
-	
-	StackView {
-        id: stackView
-        
-        anchors{
-			left: parent.left
-			right: parent.right
-			top: parent.top
-			bottom: keyboardRec.top
-		}  
+                }
+            }
+            
+        rightActions: stackView.currentItem ? stackView.currentItem.headerRightActions : 0
     }
     
     Loader {
-		id: mainPageLoader
-		active: true
-		asynchronous: true
-		source: "ui/MainPage.qml"
+        id: drawerLoader
+        
+        active: true
+        asynchronous: true
+        sourceComponent: MenuDrawer{
+                id: drawer
+                 
+                 model:  [
+                    { title: i18n.tr("Settings"), source: Qt.resolvedUrl("ui/SettingsPage.qml"), iconName: "settings" }
+                    ,{ title: i18n.tr("About"), source: Qt.resolvedUrl("ui/AboutPage.qml"), iconName: "info" }
+                    ,{ title: i18n.tr("Help"), source: Qt.resolvedUrl("ui/HelpPage.qml"), iconName: "help" }
+                ]
+            }
 
-		visible: status == Loader.Ready
+        visible: status == Loader.Ready
+    }
+    
+    StackView {
+        id: stackView
+        
+        function gotToHelp(navigation){
+            push(Qt.resolvedUrl("ui/HelpPage.qml"), {initialNavigation: navigation})
+        }
+        
+        anchors{
+            left: parent.left
+            right: parent.right
+            top: parent.top
+            bottom: keyboardRec.top
+        }  
+    }
+    
+    Loader {
+        id: mainPageLoader
+        
+        active: true
+        asynchronous: true
+        source: "ui/MainPage.qml"
 
-		onLoaded: {
-			stackView.push(item)
-			mainView.visible = true
-		}
-	}  
-	
-	KeyboardRectangle{
-		id: keyboardRec
-	}
-	
-	BottomSwipeArea{
-		id: rightSwipeArea
-		
-		//~ width: parent.width / 2
-		anchors{
-			right: parent.right
-			left: parent.horizontalCenter
-		}
-		onTriggered: applicationHeader.triggerRight(true)
-	}
-	
-	BottomSwipeArea{
-		id: leftSwipeArea
-		
-		width: parent.width / 2
-		anchors{
-			left: parent.left
-			right: parent.horizontalCenter
-		}
-		onTriggered: applicationHeader.triggerLeft(true)
-	}
+        visible: status == Loader.Ready
+
+        onLoaded: {
+            stackView.push(item)
+            mainView.visible = true
+        }
+    }  
+    
+    KeyboardRectangle{
+        id: keyboardRec
+    }
+    
+    Loader {
+        id: rightSwipeAreaLoader
+        
+        active: true
+        asynchronous: true
+        visible: status == Loader.Ready
+        sourceComponent: BottomSwipeArea{
+            onTriggered: applicationHeader.triggerRight(true)
+        }
+        
+        anchors{
+            right: parent.right
+            left: parent.horizontalCenter
+            bottom: parent.bottom
+        }
+    }  
+    
+    Loader {
+        id: leftSwipeAreaLoader
+        
+        active: true
+        asynchronous: true
+        visible: status == Loader.Ready
+        sourceComponent: BottomSwipeArea{
+            onTriggered: applicationHeader.triggerLeft(true)
+        }
+        
+        anchors{
+            left: parent.left
+            right: parent.horizontalCenter
+            bottom: parent.bottom
+        }
+    } 
 }

@@ -7,11 +7,11 @@ auto_continue_multiline=true
 final_new_line=true
 ensure_convert_new_lines=false
 strip_trailing_spaces=false
-replace_tabs=false
+replace_tabs=true
 
 [indentation]
 indent_width=4
-indent_type=1
+indent_type=0
 indent_hard_tab_width=8
 detect_indent=false
 detect_indent_width=false
@@ -29,16 +29,17 @@ long_line_column=72
 
 [files]
 current_page=8
-FILE_NAME_0=2250;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2FMain.qml;0;4
-FILE_NAME_1=1552;Conf;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fpalitan.qrc;0;4
-FILE_NAME_2=19539;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Flistmodels%2FMainModels.qml;0;4
-FILE_NAME_3=5459;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FMainPage.qml;0;4
-FILE_NAME_4=214;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FFullViewPane.qml;0;4
-FILE_NAME_5=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FFavoritesPane.qml;0;4
-FILE_NAME_6=5467;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FConvertPane.qml;0;4
-FILE_NAME_7=342;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2FCurrencySelector.qml;0;4
-FILE_NAME_8=1692;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2Fcurrencyselector%2FTumblerSelector.qml;0;4
-FILE_NAME_9=0;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2Fconvertpane%2Fcurrencyselector%2FTumblerDelegate.qml;0;4
+FILE_NAME_0=4888;Conf;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fpalitan.qrc;0;4
+FILE_NAME_1=79;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FMainPage.qml;0;4
+FILE_NAME_2=3546;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2FMain.qml;0;4
+FILE_NAME_3=128;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FConvertPane.qml;0;4
+FILE_NAME_4=1118;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FHelpPage.qml;0;4
+FILE_NAME_5=236;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fhelppage%2FDetailsPane.qml;0;4
+FILE_NAME_6=285;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FSettingsPage.qml;0;4
+FILE_NAME_7=0;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FMenuDrawer.qml;0;4
+FILE_NAME_8=3066;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fui%2FAboutPage.qml;0;4
+FILE_NAME_9=393;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FFavoritesPane.qml;0;4
+FILE_NAME_10=308;Javascript;0;EUTF-8;0;1;0;%2Fhome%2Fphablet%2FDocuments%2FProjects%2FPalitan%2FGeanyProject%2Fpalitan%2Fcomponents%2Fmainpage%2FFullViewPane.qml;0;4
 
 [VTE]
 last_dir=/home/phablet/Documents/Projects/Palitan/GeanyProject

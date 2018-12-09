@@ -1,18 +1,3 @@
-//#include <QGuiApplication>
-//#include <QQmlApplicationEngine>
-//#include <QQuickView>
-
-//int main(int argc, char *argv[])
-//{
-//    QGuiApplication app(argc, argv);
-
-//    QQuickView view;
-//    view.setSource(QUrl(QStringLiteral("qrc:///Main.qml")));
-//    view.setResizeMode(QQuickView::SizeRootObjectToView);
-//    view.show();
-//    return app.exec();
-//}
-
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
@@ -22,8 +7,6 @@
 
 int main(int argc, char *argv[])
 {
-    /*qputenv("QT_SCALE_FACTOR", "3");*/
-
     QGuiApplication::setApplicationName("Palitan");
     QGuiApplication::setOrganizationName("palitan.kugiigi");
     QGuiApplication::setApplicationName("palitan.kugiigi");
