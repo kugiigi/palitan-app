@@ -9,8 +9,11 @@ BasePane {
     id: fullViewPane
     
     property bool flippedAll: false
+    
     actions: [swapFullViewAction, sortFullViewAction, updateDataAction, helpAction]
     flickable: listView
+    label: i18n.tr("Full View")
+    iconName: "stock_document"
     
     /****** Actions *****/
     BaseAction{
@@ -105,6 +108,7 @@ BasePane {
             destinationValue: inputTextValue ? inputTextValue : 0
         }
         ScrollBar.vertical: ScrollBar { width: 10 }
+        ListViewPositioner{z: 5; mode: "Down"}
     }
     
     SortDialog{
