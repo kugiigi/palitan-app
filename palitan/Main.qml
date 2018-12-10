@@ -2,17 +2,19 @@ import QtQuick 2.9
 import Ubuntu.Components.Themes.Ambiance 1.3 as Ambiance
 import Ubuntu.Components.Themes.SuruDark 1.3 as SuruDark
 import QtQuick.Controls 2.2
+import QtQuick.Layouts 1.3
 import "components/listmodels"
 import "components/common"
+import "components/mainpage"
 import "ui"
 
 ApplicationWindow {
     id: mainView
 
-
+    readonly property QtObject drawer: drawerLoader.item
+    
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
     property QtObject theme: settings.currentTheme === "SuruDark" ? suruDarkTheme : ambianceTheme
-    readonly property QtObject drawer: drawerLoader.item
 
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"
@@ -54,7 +56,7 @@ ApplicationWindow {
                 break
             }
 
-    property string current_version: "0.01"
+    property string current_version: "1.0"
     
     Ambiance.Palette{id: ambianceTheme}
     SuruDark.Palette{id: suruDarkTheme}
@@ -131,6 +133,8 @@ ApplicationWindow {
             push(Qt.resolvedUrl("ui/HelpPage.qml"), {initialNavigation: navigation})
         }
         
+        initialItem: Rectangle{color: theme.normal.background}
+        
         anchors{
             left: parent.left
             right: parent.right
@@ -142,15 +146,15 @@ ApplicationWindow {
     Loader {
         id: mainPageLoader
         
-        active: true
+        active: true //mainModels.currencyModel2.ready //true
         asynchronous: true
         source: "ui/MainPage.qml"
 
         visible: status == Loader.Ready
 
         onLoaded: {
-            stackView.push(item)
             mainView.visible = true
+            stackView.replace(item)
         }
     }  
     

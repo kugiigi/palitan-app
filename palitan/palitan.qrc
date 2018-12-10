@@ -18,6 +18,7 @@
         <file>components/common/BaseAction.qml</file>
         <file>components/common/BaseDialog.qml</file>
         <file>components/common/BasePane.qml</file>
+        <file>components/common/ListViewPositioner.qml</file>
         <file>components/listmodels/BaseListModel.qml</file>
         <file>components/listmodels/MainModels.qml</file>
         <file>components/listmodels/SettingsModels.qml</file>

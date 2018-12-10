@@ -7,6 +7,8 @@ Pane{
     property var actions: []
     property string inputTextValue
     property Flickable flickable
+    property string label
+    property string iconName
     
     padding: 0
 }

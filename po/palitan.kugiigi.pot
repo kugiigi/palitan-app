@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-09 06:29+0000\n"
+"POT-Creation-Date: 2018-12-11 01:24+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,743 +17,992 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/Main.qml:89
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:91
 msgid "Menu"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/Main.qml:118
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:11
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:120
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/Main.qml:119
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:9
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:121
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/Main.qml:120
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:14
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/HelpPage.qml:14
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:16
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/ConvertPane.qml:104
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:61
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:66
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:122
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:14
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/HelpPage.qml:14
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:16
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:108
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:64
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:83
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:84
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:85
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:86
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:87
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:88
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:83
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:84
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:85
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:86
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:87
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:88
 msgid "Support"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:83
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:83
 msgid "Report a bug"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:84
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:84
 msgid "Contact Developer"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:85
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:85
 msgid "View source"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:86
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:86
 msgid "Donate"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:87
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:87
 msgid "View in OpenStore"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:88
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:88
 msgid "Other apps by the developer"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:89
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:89
 msgid "Developers"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:89
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:89
 msgid "Main developer"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:90
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:91
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:92
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:90
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:91
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:92
 msgid "Powered by"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:90
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:90
 msgid "Money formatting"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:91
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:91
 msgid "Exchange rates data: 1000 requests/month only"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/AboutPage.qml:92
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:92
 msgid "JSON models"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/MainPage.qml:14
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:14
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:17
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
 msgid "Favorites"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/MainPage.qml:43
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:43
 msgid "Refresh data"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/MainPage.qml:51
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:51
 msgid "Data successfully updated"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/MainPage.qml:53
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:53
 msgid "Failed. Please try again."
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:54
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:54
 msgid "Theme"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:67
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:67
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "Home currency"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:80
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:80
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "Alternate currency"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:92
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:92
 msgid "Currency format"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "None"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "Native"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:118
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:118
 msgid "Starting currencies"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:119
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
 msgid "Restore from previous session"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:119
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
 msgid "Home currency and Alternate Currency"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/ui/SettingsPage.qml:119
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
 msgid "First and second in the list"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:10
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:10
 msgid "Open external link"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:25
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:25
 msgid "You are about to open an external link. Do you wish to continue?"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/aboutpage/IconComponent.qml:32
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/IconComponent.qml:32
 msgid "Version"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/aboutpage/IconComponent.qml:41
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/IconComponent.qml:41
 msgid "Released under license"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/helppage/NavigationPane.qml:11
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/NavigationPane.qml:11
 msgid "Reach Me!"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/helppage/NavigationPane.qml:18
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/NavigationPane.qml:18
 msgid "Cool right?"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:45
-msgid "Albania Lek"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:47
+msgid "Emirati Dirham"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:46
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:48
 msgid "Afghanistan Afghani"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:47
-msgid "Argentina Peso"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:49
+msgid "Albania Lek"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:48
-msgid "Aruba Guilder"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:50
+msgid "Armenian Dram"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:49
-msgid "Australia Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:50
-msgid "Azerbaijan Manat"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:51
-msgid "Bahamas Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:52
-msgid "Barbados Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:53
-msgid "Belarus Ruble"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:54
-msgid "Belize Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:55
-msgid "Bermuda Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:56
-msgid "Bolivia Bolíviano"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:57
-msgid "Bosnia and Herzegovina Convertible Marka"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:58
-msgid "Botswana Pula"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:59
-msgid "Bulgaria Lev"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:60
-msgid "Brazil Real"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:61
-msgid "Brunei Darussalam Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:62
-msgid "Cambodia Riel"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:63
-msgid "Canada Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:64
-msgid "Cayman Islands Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:65
-msgid "Chile Peso"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:66
-msgid "China Yuan Renminbi"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:67
-msgid "Colombia Peso"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:68
-msgid "Costa Rica Colon"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:69
-msgid "Croatia Kuna"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:70
-msgid "Cuba Peso"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:71
-msgid "Czech Republic Koruna"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:72
-msgid "Denmark Krone"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:73
-msgid "Dominican Republic Peso"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:74
-msgid "East Caribbean Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:75
-msgid "Egypt Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:76
-msgid "El Salvador Colon"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:77
-msgid "Euro Member Countries"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:78
-msgid "Falkland Islands (Malvinas) Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:79
-msgid "Fiji Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:80
-msgid "Ghana Cedi"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:81
-msgid "Gibraltar Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:82
-msgid "Guatemala Quetzal"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:83
-msgid "Guernsey Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:84
-msgid "Guyana Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:85
-msgid "Honduras Lempira"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:86
-msgid "Hong Kong Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:87
-msgid "Hungary Forint"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:88
-msgid "Iceland Krona"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:89
-msgid "India Rupee"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:90
-msgid "Indonesia Rupiah"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:91
-msgid "Iran Rial"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:92
-msgid "Isle of Man Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:93
-msgid "Israel Shekel"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:94
-msgid "Jamaica Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:95
-msgid "Japan Yen"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:96
-msgid "Jersey Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:97
-msgid "Kazakhstan Tenge"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:98
-msgid "Korea (North) Won"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:99
-msgid "Korea (South) Won"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:100
-msgid "Kyrgyzstan Som"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:101
-msgid "Laos Kip"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:102
-msgid "Lebanon Pound"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:103
-msgid "Liberia Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:104
-msgid "Macedonia Denar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:105
-msgid "Malaysia Ringgit"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:106
-msgid "Mauritius Rupee"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:107
-msgid "Mexico Peso"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:108
-msgid "Mongolia Tughrik"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:109
-msgid "Mozambique Metical"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:110
-msgid "Namibia Dollar"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:111
-msgid "Nepal Rupee"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:112
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:51
 msgid "Netherlands Antilles Guilder"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:113
-msgid "New Zealand Dollar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:52
+msgid "Angolan Kwanza"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:114
-msgid "Nicaragua Cordoba"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:53
+msgid "Argentina Peso"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:115
-msgid "Nigeria Naira"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:54
+msgid "Australia Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:116
-msgid "Norway Krone"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:55
+msgid "Aruba Guilder"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:117
-msgid "Oman Rial"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:56
+msgid "Azerbaijan Manat"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:118
-msgid "Pakistan Rupee"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:57
+msgid "Bosnia and Herzegovina Convertible Marka"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:119
-msgid "Panama Balboa"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:58
+msgid "Barbados Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:120
-msgid "Paraguay Guarani"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:59
+msgid "Bangladeshi Taka"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:121
-msgid "Peru Sol"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:60
+msgid "Bulgaria Lev"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:122
-msgid "Philippines Piso"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:61
+msgid "Bahraini Dinar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:123
-msgid "Poland Zloty"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:62
+msgid "Burundian Franc"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:124
-msgid "Qatar Riyal"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:63
+msgid "Bermuda Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:125
-msgid "Romania Leu"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:64
+msgid "Brunei Darussalam Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:126
-msgid "Russia Ruble"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:65
+msgid "Bolivia Bolíviano"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:127
-msgid "Saint Helena Pound"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:66
+msgid "Brazil Real"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:128
-msgid "Saudi Arabia Riyal"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:67
+msgid "Bahamas Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:129
-msgid "Serbia Dinar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:68
+msgid "Bitcoin"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:130
-msgid "Seychelles Rupee"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:69
+msgid "Bhutanese Ngultrum"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:131
-msgid "Singapore Dollar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:70
+msgid "Botswana Pula"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:132
-msgid "Solomon Islands Dollar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:71
+msgid "Belarus Ruble"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:133
-msgid "Somalia Shilling"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:72
+msgid "Belize Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:134
-msgid "South Africa Rand"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:73
+msgid "Canada Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:135
-msgid "Sri Lanka Rupee"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:74
+msgid "Congolese Franc"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:136
-msgid "Sweden Krona"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:137
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:75
 msgid "Switzerland Franc"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:138
-msgid "Suriname Dollar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:76
+msgid "Chilean Unidad de Fomento"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:139
-msgid "Syria Pound"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:77
+msgid "Chile Peso"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:140
-msgid "Taiwan New Dollar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:78
+msgid "China Yuan Renminbi (Offshore)"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:141
-msgid "Thailand Baht"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:79
+msgid "China Yuan Renminbi (Onshore)"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:142
-msgid "Trinidad and Tobago Dollar"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:80
+msgid "Colombia Peso"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:143
-msgid "Turkey Lira"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:81
+msgid "Costa Rica Colon"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:145
-msgid "Ukraine Hryvnia"
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:82
+msgid "Cuban Convertible Peso"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:146
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:83
+msgid "Cuba Peso"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:84
+msgid "Cape Verdean Escudo"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:85
+msgid "Czech Republic Koruna"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:86
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:87
+msgid "Denmark Krone"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:88
+msgid "Dominican Republic Peso"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:89
+msgid "Algerian Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:90
+msgid "Egypt Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:91
+msgid "Eritrean Nakfa"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:92
+msgid "Ethiopian Birr"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:93
+msgid "Euro Member Countries"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:94
+msgid "Fiji Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:95
+msgid "Falkland Islands (Malvinas) Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:96
 msgid "United Kingdom Pound"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:147
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:97
+msgid "Georgian Lari"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:98
+msgid "Guernsey Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:99
+msgid "Ghana Cedi"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:100
+msgid "Gibraltar Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:101
+msgid "Gambian Dalasi"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:102
+msgid "Guinean Franc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:103
+msgid "Guatemala Quetzal"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:104
+msgid "Guyana Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:105
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:106
+msgid "Honduras Lempira"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:107
+msgid "Croatia Kuna"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:108
+msgid "Haitian Gourde"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:109
+msgid "Hungary Forint"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:110
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:111
+msgid "Israel Shekel"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:112
+msgid "Isle of Man Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:113
+msgid "India Rupee"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:114
+msgid "Iraqi Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:115
+msgid "Iran Rial"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:116
+msgid "Iceland Krona"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:117
+msgid "Jersey Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:118
+msgid "Jamaica Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:119
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:120
+msgid "Japan Yen"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:121
+msgid "Kenyan Shilling"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:122
+msgid "Kyrgyzstan Som"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:123
+msgid "Cambodia Riel"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:124
+msgid "Comorian Franc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:125
+msgid "Korea (North) Won"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:126
+msgid "Korea (South) Won"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:127
+msgid "Kuwaiti Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:128
+msgid "Cayman Islands Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:129
+msgid "Kazakhstan Tenge"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:130
+msgid "Laos Kip"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:131
+msgid "Lebanon Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:132
+msgid "Sri Lanka Rupee"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:133
+msgid "Liberia Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:134
+msgid "Basotho Loti"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:135
+msgid "Libyan Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:136
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:137
+msgid "Moldovan Leu"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:138
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:139
+msgid "Macedonia Denar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:140
+msgid "Burmese Kyat"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:141
+msgid "Mongolia Tughrik"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:142
+msgid "Macau Pataca"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:143
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:144
+msgid "Mauritanian Ouguiya"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:145
+msgid "Mauritius Rupee"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:146
+msgid "Maldivian Rufiyaa"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:147
+msgid "Malawian Kwacha"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:148
+msgid "Mexico Peso"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:149
+msgid "Malaysia Ringgit"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:150
+msgid "Mozambique Metical"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:151
+msgid "Namibia Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:152
+msgid "Nigeria Naira"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:153
+msgid "Nicaragua Cordoba"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:154
+msgid "Norway Krone"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:155
+msgid "Nepal Rupee"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:156
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:157
+msgid "Oman Rial"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:158
+msgid "Panama Balboa"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:159
+msgid "Peru Sol"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:160
+msgid "Papua New Guinean Kina"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:161
+msgid "Philippines Peso"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:162
+msgid "Pakistan Rupee"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:163
+msgid "Poland Zloty"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:164
+msgid "Paraguay Guarani"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:165
+msgid "Qatar Riyal"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:166
+msgid "Romania Leu"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:167
+msgid "Serbia Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:168
+msgid "Russia Ruble"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:169
+msgid "Rwandan Franc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:170
+msgid "Saudi Arabia Riyal"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:171
+msgid "Solomon Islands Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:172
+msgid "Seychelles Rupee"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:173
+msgid "Sudanese Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:174
+msgid "Sweden Krona"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:175
+msgid "Singapore Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:176
+msgid "Saint Helena Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:177
+msgid "Sierra Leonean Leone"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:178
+msgid "Somalia Shilling"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:179
+msgid "Suriname Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:180
+msgid "South Sudanese Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:181
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:182
+msgid "Sao Tomean Dobra"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:183
+msgid "El Salvador Colon"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:184
+msgid "Syria Pound"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:185
+msgid "Swazi Lilangeni"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:186
+msgid "Thailand Baht"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:187
+msgid "Tajikistani Somoni"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:188
+msgid "Turkmenistani Manat"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:189
+msgid "Tunisian Dinar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:190
+msgid "Tongan Pa'anga"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:191
+msgid "Turkey Lira"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:192
+msgid "Trinidad and Tobago Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:193
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:194
+msgid "Tanzanian Shilling"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:195
+msgid "Ukraine Hryvnia"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:196
+msgid "Ugandan Shilling"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:197
 msgid "United States Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:148
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:198
 msgid "Uruguay Peso"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:149
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:199
 msgid "Uzbekistan Som"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:150
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:200
 msgid "Venezuela Bolívar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:151
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:201
+msgid "Venezuelan Bolívar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:202
 msgid "Viet Nam Dong"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:152
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:203
+msgid "Ni-Vanuatu Vatu"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:204
+msgid "Samoan Tala"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:205
+msgid "Central African CFA Franc BEAC"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:206
+msgid "Silver Ounce"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:207
+msgid "Gold Ounce"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:208
+msgid "East Caribbean Dollar"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:209
+msgid "IMF Special Drawing Rights"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:210
+msgid "CFA Franc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:211
+msgid "Palladium Ounce"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:212
+msgid "CFP Franc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:213
+msgid "Platinum Ounce"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:214
 msgid "Yemen Rial"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/MainModels.qml:153
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:215
+msgid "South Africa Rand"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:216
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:217
 msgid "Zimbabwe Dollar"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/SettingsModels.qml:28
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:43
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:28
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:46
 msgid "Ascending"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/SettingsModels.qml:29
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:46
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:29
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:49
 msgid "Descending"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/SettingsModels.qml:39
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:22
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:28
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:39
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:25
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:31
 msgid "Name"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/listmodels/SettingsModels.qml:40
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:25
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:40
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:28
 msgid "Code"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/ConvertPane.qml:69
-msgid "Add to favorites"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/ConvertPane.qml:77
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:16
-msgid "Added to your favorites"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/ConvertPane.qml:79
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:18
-msgid "Already in your favorites"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/ConvertPane.qml:93
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:55
-msgid "Swap"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/DataLoadingDisplay.qml:40
-msgid "Trying to update data"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:26
-msgid "Add"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:37
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:19
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
-msgid "Sort"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:40
-msgid "Default"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:192
-msgid "You don't have any favorites"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:34
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:40
-msgid "Asc"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/FullViewPane.qml:37
-msgid "Desc"
-msgstr ""
-
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:19
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
 msgid "Convert"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/TabFooter.qml:49
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:73
+msgid "Add to favorites"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:81
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:16
+msgid "Added to your favorites"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:83
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:18
+msgid "Already in your favorites"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:97
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:58
+msgid "Swap"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/DataLoadingDisplay.qml:40
+msgid "Trying to update data"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:29
+msgid "Add"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:40
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:22
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
+msgid "Sort"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:43
+msgid "Default"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:195
+msgid "You don't have any favorites"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:15
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:49
 msgid "Full View"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:13
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:37
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:43
+msgid "Asc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:40
+msgid "Desc"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:13
 msgid "Custom max precision"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:77
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:77
 msgid "i.e."
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:14
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:14
 msgid "Previous"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:35
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:35
 msgid "Next"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:21
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:21
 msgid "Last Updated"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:33
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:33
 msgid "Source"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:8
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:8
 msgid "Add new favorite"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
 msgid "Unfavorite"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
 msgid "Deleted"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
 msgid "Are you sure you want to remove this from your favorites?"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
 msgid "By"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
 msgid "Order"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "No results"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "Type in the input box to search"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
 msgid "Cancel"
 msgstr ""
 
-#: /home/kugi/Documents/Developments/Palitan/Nexus5/GeanyProject/build/palitan/palitan.desktop.h:1
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/build/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr ""

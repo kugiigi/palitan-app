@@ -14,6 +14,9 @@ BasePane {
     
     actions: [addFavoriteAction, sortFavoritesAction, updateDataAction, helpAction]
     flickable: listView
+    label: i18n.tr("Favorites")
+    iconName: "starred"
+    
     onSortingChanged:{
         sortFavorites()
     }

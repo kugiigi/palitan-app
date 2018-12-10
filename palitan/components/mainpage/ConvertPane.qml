@@ -15,6 +15,10 @@ BasePane {
     property int destinationIndex
     property string destinationValue
     
+    
+    label: i18n.tr("Convert")
+    iconName: "swap"
+    
     signal reloadData
     
     actions:  [addToFavoritesAction, swapAction, updateDataAction, helpAction]

@@ -93,11 +93,11 @@ BasePage {
         }
     }
     
-    DataLoadingDisplay{
-        id: loadingDisplay
+    //~ DataLoadingDisplay{
+        //~ id: loadingDisplay
         
-        display: mainModels.ratesDataModel.loading
-    }
+        //~ display: mainModels.ratesDataModel.loading
+    //~ }
         
 
     SwipeView {
@@ -120,6 +120,7 @@ BasePage {
         FavoritesPane{
             id: favoritesPane
         }
+        
         ConvertPane{
             id: convertPane
             
@@ -127,6 +128,7 @@ BasePage {
                 delayTimer.restart()
             }
         }
+        
         FullViewPane{
             id: fullViewPane
         }
