@@ -7,6 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
+
 "POT-Creation-Date: 2019-01-07 19:49+0800\n"
 "PO-Revision-Date: 2018-12-17 09:49+0100\n"
 "Last-Translator:Josu \n"
@@ -16,18 +17,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.6\n"
+
+"Last-Translator:Josu \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
 
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:90
 msgid "Menu"
 msgstr "Menú"
 
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:119
+
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr "Configuración"
 
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:120
+
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr "Acerca de"
@@ -37,6 +43,7 @@ msgstr "Acerca de"
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/HelpPage.qml:14
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:16
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:120
+
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
@@ -101,6 +108,7 @@ msgstr "Tasa de cambio: sólo 1000 peticiones/mes"
 msgid "JSON models"
 msgstr "Modelos JSON"
 
+
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:15
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:17
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
@@ -116,6 +124,7 @@ msgid "Data successfully updated"
 msgstr "Datos actualizados correctamente"
 
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:54
+
 msgid "Failed. Please try again."
 msgstr "Error. Vuelva a intentarlo."
 
@@ -883,6 +892,7 @@ msgstr "Nombre"
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:28
 msgid "Code"
 msgstr "Código"
+
 
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:20
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
