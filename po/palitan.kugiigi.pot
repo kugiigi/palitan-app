@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-11 01:24+0800\n"
+"POT-Creation-Date: 2019-01-07 19:49+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,25 +17,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:91
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:90
 msgid "Menu"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:120
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:119
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:121
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:120
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:122
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:121
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:14
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/HelpPage.qml:14
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:16
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:108
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:120
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
@@ -100,21 +100,21 @@ msgstr ""
 msgid "JSON models"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:14
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:15
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:17
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
 msgid "Favorites"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:43
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:44
 msgid "Refresh data"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:51
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:52
 msgid "Data successfully updated"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:53
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:54
 msgid "Failed. Please try again."
 msgstr ""
 
@@ -883,28 +883,32 @@ msgstr ""
 msgid "Code"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:19
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:20
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
 msgid "Convert"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:73
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:74
 msgid "Add to favorites"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:81
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:82
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:16
 msgid "Added to your favorites"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:83
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:84
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:18
 msgid "Already in your favorites"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:97
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:98
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:58
 msgid "Swap"
+msgstr ""
+
+#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:109
+msgid "Copy result"
 msgstr ""
 
 #: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/DataLoadingDisplay.qml:40

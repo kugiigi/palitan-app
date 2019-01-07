@@ -37,6 +37,7 @@ Drawer {
         focus: true
         currentIndex: -1
         anchors.fill: parent
+        anchors.topMargin: applicationHeader.expanded ? applicationHeader.height - applicationHeader.defaultHeight : 0
 
         delegate: ItemDelegate {
             width: parent.width

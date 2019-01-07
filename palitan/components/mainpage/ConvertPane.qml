@@ -1,6 +1,7 @@
 import QtQuick 2.9
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
+import Ubuntu.Components 1.3 as UT
 import "../mainpage"
 import "../mainpage/convertpane"
 import "../common"
@@ -21,7 +22,7 @@ BasePane {
     
     signal reloadData
     
-    actions:  [addToFavoritesAction, swapAction, updateDataAction, helpAction]
+    actions:  [copyAction, addToFavoritesAction, swapAction, updateDataAction, helpAction]
     
     states: [
         State {
@@ -103,6 +104,17 @@ BasePane {
     }
     
     BaseAction{
+        id: copyAction
+        
+        text: i18n.tr("Copy result")
+        iconName: "edit-copy"
+    
+        onTrigger:{
+            UT.Clipboard.push(resultMimeData)
+        }
+    }
+    
+    BaseAction{
         id: helpAction
         
         text: i18n.tr("Help")
@@ -145,6 +157,12 @@ BasePane {
     function syncCurrencies(){
         baseIndex = currencySelector.baseIndex
         destinationIndex = currencySelector.destinationIndex
+    }
+    
+    UT.MimeData {
+        id: resultMimeData
+        
+        text: baseCurrency.convertedValue
     }
     
     ColumnLayout{
