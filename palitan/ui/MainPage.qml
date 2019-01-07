@@ -1,5 +1,6 @@
 import QtQuick 2.9
 import QtQuick.Controls 2.2
+import Ubuntu.Components 1.3 as UT
 import "../components/mainpage"
 import "../components/common"
 
@@ -161,9 +162,43 @@ BasePage {
         font.pixelSize: 30
         horizontalAlignment: TextInput.AlignHCenter
         text: "1"
+        rightPadding: pasteButton.width + 5
         
         onTextChanged: {
             delayTimer.restart()
+        }
+        
+        Button {
+            id: pasteButton
+            
+            focusPolicy: Qt.NoFocus
+            // TODO: Check why always false
+            //~ visible: valueTextField.canPaste
+            width: 30
+        
+            flat: true
+            
+            anchors{
+                right: parent.right
+                top: parent.top
+                bottom: parent.bottom
+                margins: 5
+                verticalCenter: parent.verticalCenter
+            }
+            
+            onClicked: {
+                valueTextField.selectAll()
+                valueTextField.paste()
+            }
+            
+            UT.Icon {
+                id: icon
+                                         
+                implicitWidth: 20
+                implicitHeight: implicitWidth
+                anchors.centerIn: parent
+                name: "edit-paste"
+            }
         }
     }
     

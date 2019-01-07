@@ -38,6 +38,7 @@ var money = function(data, moneyValue){
                 result = (this.value / ratesData.rates[this.code]) * ratesData.rates[destinationCode];
                 
                 if(!isNaN(result)){
+                    this.convertedValue = result
                     return displayMoney(result, destinationCode)
                 }else{
                     return null
@@ -49,6 +50,7 @@ var money = function(data, moneyValue){
             return (1 / ratesData.rates[this.code]) * ratesData.rates[destinationCode];
         }
         ,value: moneyValue
+        ,convertedValue: 0
     };
 
     return returnObj

@@ -1,4 +1,5 @@
 import QtQuick 2.9
+import QtQuick.Controls.Suru 2.2
 import Ubuntu.Components.Themes.Ambiance 1.3 as Ambiance
 import Ubuntu.Components.Themes.SuruDark 1.3 as SuruDark
 import QtQuick.Controls 2.2
@@ -12,6 +13,8 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
+    readonly property string current_version: "1.1"
+    readonly property var suruTheme: settings.currentTheme === "SuruDark" ? Suru.Dark : Suru.Light
     
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
     property QtObject theme: settings.currentTheme === "SuruDark" ? suruDarkTheme : ambianceTheme
@@ -23,9 +26,7 @@ ApplicationWindow {
     visible: false
     minimumWidth: 300
     
-    //~ color: "black"//theme.normal.background
-    
-    //~ background: Rectangle{color: theme.normal.background}
+    Suru.theme: suruTheme //Suru.Light //Suru.Dark
 
     width: switch (displayMode) {
            case "Phone":
@@ -55,8 +56,6 @@ ApplicationWindow {
                 units.gu(68)
                 break
             }
-
-    property string current_version: "1.0"
     
     Ambiance.Palette{id: ambianceTheme}
     SuruDark.Palette{id: suruDarkTheme}

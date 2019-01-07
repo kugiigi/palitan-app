@@ -1,2 +1,8 @@
+v1.1
+ - Spanish translation
+ - Menu drawer now adjusts layout when the header is expanded
+ - Proper theme support (Ambiance and SuruDark)
+ - Fixed #3: Add paste button in the input textbox
+ - Fixed #4: Add copy funtionality for the result
 v1.0
  - First release in the OpenStore
