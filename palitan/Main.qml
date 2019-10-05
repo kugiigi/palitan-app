@@ -13,7 +13,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.1"
+    readonly property string current_version: "1.2"
     readonly property var suruTheme: settings.currentTheme === "SuruDark" ? Suru.Dark : Suru.Light
     
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"

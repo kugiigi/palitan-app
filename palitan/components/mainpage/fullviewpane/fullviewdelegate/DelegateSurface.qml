@@ -7,8 +7,7 @@ import Ubuntu.Components 1.3 as UT
 RowLayout{
     
     id: delegateSurface
-    //~ property var currency1 
-    //~ property var currency2
+
 
     readonly property real surfaceMargins: 5
     readonly property bool showCurrencyCode: settings.currencyFormatting !== 1
@@ -69,7 +68,7 @@ RowLayout{
         name: "finish"
         
         transform:  Rotation {
-            angle: flipable.flipped ? 180 : 0
+            angle: !flipable.flipped ? 180 : 0
             origin.x: separator.width / 2
             origin.y: separator.height / 2
         }
@@ -91,18 +90,11 @@ RowLayout{
             text: flipable.flipped ? currency2.convert(currency1.code) : currency1.convert(currency2.code)
             font.pixelSize: 15
             horizontalAlignment: Text.AlignRight
-            //~ verticalAlignment: Text. AlignVCenter
             color: theme.normal.positive
-            //~ elide: Label.ElideRight
             fontSizeMode: Text.HorizontalFit
             minimumPixelSize: 10
             Layout.fillWidth: true
-            //~ Layout.fillHeight: true
-            Layout.alignment: Qt.AlignVCenter//  | Qt.AlignBaseline
-            
-            //~ anchors{
-                //~ top: parent.top
-            //~ }
+            Layout.alignment: Qt.AlignVCenter
         }
         
         Label{
@@ -112,16 +104,9 @@ RowLayout{
             visible: showCurrencyCode
             font.pixelSize: 10
             horizontalAlignment: Text.AlignRight
-            //~ verticalAlignment: Text. AlignVCenter
             color: theme.normal.positive
-            //~ elide: Label.ElideRight
             Layout.preferredWidth: 25
-            Layout.alignment: Qt.AlignBaseline //Qt.AlignVCenter
-            //~ Layout.fillHeight: true
-            
-            //~ anchors{
-                //~ baseline: valueLabel2.baseline
-            //~ }
+            Layout.alignment: Qt.AlignBaseline
         }
     }
 }

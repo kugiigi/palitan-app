@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-07 19:49+0800\n"
+"POT-Creation-Date: 2019-10-05 17:26+0000\n"
 "PO-Revision-Date: 2018-12-17 09:49+0100\n"
 "Last-Translator:Josu \n"
 "Language-Team:UBports Spanish Team \n"
@@ -18,997 +18,997 @@ msgstr ""
 "X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:90
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/Main.qml:90
 msgid "Menu"
 msgstr "Menú"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:119
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:11
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/Main.qml:119
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr "Configuración"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:120
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:9
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/Main.qml:120
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr "Acerca de"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/Main.qml:121
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:14
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/HelpPage.qml:14
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:16
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:120
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:64
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:69
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/Main.qml:121
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:14
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/HelpPage.qml:14
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:16
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:120
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:64
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
 msgstr "Ayuda"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:83
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:84
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:85
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:86
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:87
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:88
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:83
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:84
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:85
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:86
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:87
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:88
 msgid "Support"
 msgstr "Soporte"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:83
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:83
 msgid "Report a bug"
 msgstr "Reportar un fallo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:84
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:84
 msgid "Contact Developer"
 msgstr "Contactar con el desarrollador"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:85
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:85
 msgid "View source"
 msgstr "Ver código fuente"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:86
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:86
 msgid "Donate"
 msgstr "Donar"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:87
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:87
 msgid "View in OpenStore"
 msgstr "Ver en OpenStore"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:88
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:88
 msgid "Other apps by the developer"
 msgstr "Otras aplicaciones del desarrollador"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:89
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:89
 msgid "Developers"
 msgstr "Desarrolladores"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:89
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:89
 msgid "Main developer"
 msgstr "Desarrollador principal"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:90
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:91
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:92
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:90
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:91
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:92
 msgid "Powered by"
 msgstr "Proporcionado por"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:90
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:90
 msgid "Money formatting"
 msgstr "Formato de moneda"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:91
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:91
 msgid "Exchange rates data: 1000 requests/month only"
 msgstr "Tasa de cambio: sólo 1000 peticiones/mes"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/AboutPage.qml:92
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/AboutPage.qml:92
 msgid "JSON models"
 msgstr "Modelos JSON"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:15
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:17
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/MainPage.qml:15
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:17
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
 msgid "Favorites"
 msgstr "Favoritos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:44
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/MainPage.qml:44
 msgid "Refresh data"
 msgstr "Actualizar datos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:52
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/MainPage.qml:52
 msgid "Data successfully updated"
 msgstr "Datos actualizados correctamente"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/MainPage.qml:54
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/MainPage.qml:54
 msgid "Failed. Please try again."
 msgstr "Error. Vuelva a intentarlo."
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:54
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:54
 msgid "Theme"
 msgstr "Tema"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:67
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:67
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "Home currency"
 msgstr "Moneda principal"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:80
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:80
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "Alternate currency"
 msgstr "Moneda alternativa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:92
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:92
 msgid "Currency format"
 msgstr "Formato de moneda"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "None"
 msgstr "Ninguno"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:93
 msgid "Native"
 msgstr "Nativo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:118
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:118
 msgid "Starting currencies"
 msgstr "Monedas de partida"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
 msgid "Restore from previous session"
 msgstr "Restaurar desde la sesión anterior"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
 msgid "Home currency and Alternate Currency"
 msgstr "Moneda principal y moneda alternativa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/SettingsPage.qml:119
 msgid "First and second in the list"
 msgstr "Primera y segunda de la lista"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:10
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:10
 msgid "Open external link"
 msgstr "Abrir enlace externo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:25
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/aboutpage/ExternalDialog.qml:25
 msgid "You are about to open an external link. Do you wish to continue?"
 msgstr "Está a punto de abrir un enlace externo ¿Desea continuar?"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/IconComponent.qml:32
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/aboutpage/IconComponent.qml:32
 msgid "Version"
 msgstr "Versión"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/aboutpage/IconComponent.qml:41
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/aboutpage/IconComponent.qml:41
 msgid "Released under license"
 msgstr "Publicado bajo la licencia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/NavigationPane.qml:11
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/helppage/NavigationPane.qml:11
 msgid "Reach Me!"
 msgstr "¡Alcánceme!"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/NavigationPane.qml:18
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/helppage/NavigationPane.qml:18
 msgid "Cool right?"
 msgstr "Mola ¿Verdad?"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:47
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:47
 msgid "Emirati Dirham"
 msgstr "Dírham de los Emiratos Árabes Unidos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:48
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:48
 msgid "Afghanistan Afghani"
 msgstr "Afgani de Afganistan"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:49
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:49
 msgid "Albania Lek"
 msgstr "Lek albanés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:50
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:50
 msgid "Armenian Dram"
 msgstr "Dram armenio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:51
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:51
 msgid "Netherlands Antilles Guilder"
 msgstr "Florín antillano neerlandés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:52
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:52
 msgid "Angolan Kwanza"
 msgstr "Kwanza angoleño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:53
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:53
 msgid "Argentina Peso"
 msgstr "Peso argentino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:54
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:54
 msgid "Australia Dollar"
 msgstr "Dólar australiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:55
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:55
 msgid "Aruba Guilder"
 msgstr "Florín arubeño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:56
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:56
 msgid "Azerbaijan Manat"
 msgstr "Manat azerbaiyano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:57
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:57
 msgid "Bosnia and Herzegovina Convertible Marka"
 msgstr "Marco bosnioherzegovino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:58
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:58
 msgid "Barbados Dollar"
 msgstr "Dólar de Barbados"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:59
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:59
 msgid "Bangladeshi Taka"
 msgstr "Taka bangladesí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:60
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:60
 msgid "Bulgaria Lev"
 msgstr "Lev búlgaro"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:61
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:61
 msgid "Bahraini Dinar"
 msgstr "Dinar bareiní"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:62
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:62
 msgid "Burundian Franc"
 msgstr "Franco burundés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:63
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:63
 msgid "Bermuda Dollar"
 msgstr "Dólar bermudeño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:64
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:64
 msgid "Brunei Darussalam Dollar"
 msgstr "Dólar de Brunéi"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:65
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:65
 msgid "Bolivia Bolíviano"
 msgstr "Boliviano de Bolivia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:66
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:66
 msgid "Brazil Real"
 msgstr "Real brasileño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:67
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:67
 msgid "Bahamas Dollar"
 msgstr "Dólar bahameño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:68
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:68
 msgid "Bitcoin"
 msgstr "Bitcoin"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:69
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:69
 msgid "Bhutanese Ngultrum"
 msgstr "Ngultrum butanés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:70
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:70
 msgid "Botswana Pula"
 msgstr "Pula de Botswana"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:71
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:71
 msgid "Belarus Ruble"
 msgstr "Rublo bielorruso"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:72
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:72
 msgid "Belize Dollar"
 msgstr "Dólar beliceño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:73
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:73
 msgid "Canada Dollar"
 msgstr "Dólar canadiense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:74
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:74
 msgid "Congolese Franc"
 msgstr "Franco congoleño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:75
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:75
 msgid "Switzerland Franc"
 msgstr "Franco suizo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:76
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:76
 msgid "Chilean Unidad de Fomento"
 msgstr "Unidad de fomento chilena"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:77
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:77
 msgid "Chile Peso"
 msgstr "Peso chileno"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:78
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:78
 msgid "China Yuan Renminbi (Offshore)"
 msgstr "Yuan renminbi chino (extranjeros)"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:79
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:79
 msgid "China Yuan Renminbi (Onshore)"
 msgstr "Yuan renminbi chino (locales)"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:80
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:80
 msgid "Colombia Peso"
 msgstr "Peso colombiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:81
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:81
 msgid "Costa Rica Colon"
 msgstr "Colón costaricense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:82
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:82
 msgid "Cuban Convertible Peso"
 msgstr "Peso convertible cubano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:83
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:83
 msgid "Cuba Peso"
 msgstr "Peso cubano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:84
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:84
 msgid "Cape Verdean Escudo"
 msgstr "Escudo caboverdiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:85
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:85
 msgid "Czech Republic Koruna"
 msgstr "Corona Checa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:86
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:86
 msgid "Djiboutian Franc"
 msgstr "Franco yibutiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:87
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:87
 msgid "Denmark Krone"
 msgstr "Corona danesa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:88
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:88
 msgid "Dominican Republic Peso"
 msgstr "Peso de la República Dominicana"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:89
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:89
 msgid "Algerian Dinar"
 msgstr "Dinar argelino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:90
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:90
 msgid "Egypt Pound"
 msgstr "Libra egipcia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:91
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:91
 msgid "Eritrean Nakfa"
 msgstr "Nakfa de Eritrea"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:92
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:92
 msgid "Ethiopian Birr"
 msgstr "Birr etíope"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:93
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:93
 msgid "Euro Member Countries"
 msgstr "Euro"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:94
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:94
 msgid "Fiji Dollar"
 msgstr "Dólar fiyiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:95
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:95
 msgid "Falkland Islands (Malvinas) Pound"
 msgstr "Libra malvinense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:96
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:96
 msgid "United Kingdom Pound"
 msgstr "Libra esterlina"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:97
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:97
 msgid "Georgian Lari"
 msgstr "Lari georgiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:98
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:98
 msgid "Guernsey Pound"
 msgstr "Libra de Guernsey"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:99
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:99
 msgid "Ghana Cedi"
 msgstr "Cedi de Ghana"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:100
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:100
 msgid "Gibraltar Pound"
 msgstr "Libra gibraltareña"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:101
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:101
 msgid "Gambian Dalasi"
 msgstr "Dalasi de Gambia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:102
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:102
 msgid "Guinean Franc"
 msgstr "Franco guineano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:103
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:103
 msgid "Guatemala Quetzal"
 msgstr "Qetzal de Guatemala"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:104
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:104
 msgid "Guyana Dollar"
 msgstr "Dólar guyanés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:105
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:105
 msgid "Hong Kong Dollar"
 msgstr "Dólar de Hong Kong"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:106
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:106
 msgid "Honduras Lempira"
 msgstr "Lempira de Honduras"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:107
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:107
 msgid "Croatia Kuna"
 msgstr "Kuna croata"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:108
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:108
 msgid "Haitian Gourde"
 msgstr "Gourde de Haití"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:109
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:109
 msgid "Hungary Forint"
 msgstr "Forinto húngaro"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:110
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:110
 msgid "Indonesia Rupiah"
 msgstr "Rupia indonesia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:111
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:111
 msgid "Israel Shekel"
 msgstr "Nuevo séquel israelí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:112
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:112
 msgid "Isle of Man Pound"
 msgstr "Libra manesa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:113
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:113
 msgid "India Rupee"
 msgstr "Rupia india"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:114
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:114
 msgid "Iraqi Dinar"
 msgstr "Dinar iraquí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:115
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:115
 msgid "Iran Rial"
 msgstr "Rial iraní"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:116
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:116
 msgid "Iceland Krona"
 msgstr "Corona islandesa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:117
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:117
 msgid "Jersey Pound"
 msgstr "Libra de Jersey"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:118
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:118
 msgid "Jamaica Dollar"
 msgstr "Dólar jamaiquino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:119
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:119
 msgid "Jordanian Dinar"
 msgstr "Dinar jordano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:120
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:120
 msgid "Japan Yen"
 msgstr "Yen japonés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:121
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:121
 msgid "Kenyan Shilling"
 msgstr "Chelín keniano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:122
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:122
 msgid "Kyrgyzstan Som"
 msgstr "Som kirguís"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:123
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:123
 msgid "Cambodia Riel"
 msgstr "Riel camboyano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:124
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:124
 msgid "Comorian Franc"
 msgstr "Franco comorense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:125
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:125
 msgid "Korea (North) Won"
 msgstr "Won norcoreano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:126
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:126
 msgid "Korea (South) Won"
 msgstr "Won surcoerano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:127
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:127
 msgid "Kuwaiti Dinar"
 msgstr "Dinar kuwaití"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:128
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:128
 msgid "Cayman Islands Dollar"
 msgstr "Dólar de las islas Caimán"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:129
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:129
 msgid "Kazakhstan Tenge"
 msgstr "Tenge kazajo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:130
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:130
 msgid "Laos Kip"
 msgstr "Kip laosiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:131
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:131
 msgid "Lebanon Pound"
 msgstr "Libra libanesa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:132
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:132
 msgid "Sri Lanka Rupee"
 msgstr "Rupia de Sri Lanka"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:133
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:133
 msgid "Liberia Dollar"
 msgstr "Dólar liberiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:134
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:134
 msgid "Basotho Loti"
 msgstr "Loti del Reino de Lesoto"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:135
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:135
 msgid "Libyan Dinar"
 msgstr "Dinar libio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:136
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:136
 msgid "Moroccan Dirham"
 msgstr "Dirham marroquí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:137
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:137
 msgid "Moldovan Leu"
 msgstr "Leu moldavo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:138
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:138
 msgid "Malagasy Ariary"
 msgstr "Ariary malgache"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:139
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:139
 msgid "Macedonia Denar"
 msgstr "Denar macedonio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:140
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:140
 msgid "Burmese Kyat"
 msgstr "Kyat birmano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:141
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:141
 msgid "Mongolia Tughrik"
 msgstr "Tugrik mongol"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:142
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:142
 msgid "Macau Pataca"
 msgstr "Pataca macaense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:143
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:144
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:143
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:144
 msgid "Mauritanian Ouguiya"
 msgstr "Uguiya de Mauritania"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:145
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:145
 msgid "Mauritius Rupee"
 msgstr "Rupia de Mauricio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:146
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:146
 msgid "Maldivian Rufiyaa"
 msgstr "Rupia de Maldivas"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:147
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:147
 msgid "Malawian Kwacha"
 msgstr "Kwacha malauí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:148
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:148
 msgid "Mexico Peso"
 msgstr "Peso mexicano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:149
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:149
 msgid "Malaysia Ringgit"
 msgstr "Ringgit de Malasia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:150
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:150
 msgid "Mozambique Metical"
 msgstr "Metical mozanbiqueño"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:151
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:151
 msgid "Namibia Dollar"
 msgstr "Dólar namibio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:152
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:152
 msgid "Nigeria Naira"
 msgstr "Naira de Nigeria"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:153
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:153
 msgid "Nicaragua Cordoba"
 msgstr "Córdoba nicaragüense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:154
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:154
 msgid "Norway Krone"
 msgstr "Corona noruega"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:155
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:155
 msgid "Nepal Rupee"
 msgstr "Rupia nepalí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:156
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:156
 msgid "New Zealand Dollar"
 msgstr "Dólar neozelandés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:157
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:157
 msgid "Oman Rial"
 msgstr "Rial omaní"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:158
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:158
 msgid "Panama Balboa"
 msgstr "Balboa de Panamá"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:159
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:159
 msgid "Peru Sol"
 msgstr "Sol de Perú"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:160
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:160
 msgid "Papua New Guinean Kina"
 msgstr "Kina de Papúa Nueva Guinea"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:161
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:161
 msgid "Philippines Peso"
 msgstr "Peso filipino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:162
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:162
 msgid "Pakistan Rupee"
 msgstr "Rupia pakistaní"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:163
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:163
 msgid "Poland Zloty"
 msgstr "Zloty de Polonia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:164
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:164
 msgid "Paraguay Guarani"
 msgstr "Guaraní de Paraguay"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:165
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:165
 msgid "Qatar Riyal"
 msgstr "Riyal catarí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:166
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:166
 msgid "Romania Leu"
 msgstr "Leu rumano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:167
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:167
 msgid "Serbia Dinar"
 msgstr "Dinar serbio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:168
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:168
 msgid "Russia Ruble"
 msgstr "Rublo ruso"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:169
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:169
 msgid "Rwandan Franc"
 msgstr "Franco ruandés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:170
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:170
 msgid "Saudi Arabia Riyal"
 msgstr "Riyal saudí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:171
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:171
 msgid "Solomon Islands Dollar"
 msgstr "Dólar de las Islas Salomón"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:172
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:172
 msgid "Seychelles Rupee"
 msgstr "Rupia seychelense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:173
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:173
 msgid "Sudanese Pound"
 msgstr "Libra sudanesa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:174
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:174
 msgid "Sweden Krona"
 msgstr "Corona sueca"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:175
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:175
 msgid "Singapore Dollar"
 msgstr "Dólar de Singapur"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:176
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:176
 msgid "Saint Helena Pound"
 msgstr "Libra de Santa Elena"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:177
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:177
 msgid "Sierra Leonean Leone"
 msgstr "Leone de Sierra Leona"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:178
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:178
 msgid "Somalia Shilling"
 msgstr "Chelín somalí"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:179
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:179
 msgid "Suriname Dollar"
 msgstr "Dólar surinamés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:180
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:180
 msgid "South Sudanese Pound"
 msgstr "Libra sursudabesa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:181
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:182
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:181
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:182
 msgid "Sao Tomean Dobra"
 msgstr "Dobra santotomense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:183
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:183
 msgid "El Salvador Colon"
 msgstr "Colón de El Salvador"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:184
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:184
 msgid "Syria Pound"
 msgstr "Libra siria"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:185
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:185
 msgid "Swazi Lilangeni"
 msgstr "Lilangeni de Suazilandia"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:186
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:186
 msgid "Thailand Baht"
 msgstr "Baht tailandés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:187
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:187
 msgid "Tajikistani Somoni"
 msgstr "Somoni tayiko"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:188
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:188
 msgid "Turkmenistani Manat"
 msgstr "Manat turcomano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:189
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:189
 msgid "Tunisian Dinar"
 msgstr "Dinar tunecino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:190
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:190
 msgid "Tongan Pa'anga"
 msgstr "Pa'anga tongano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:191
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:191
 msgid "Turkey Lira"
 msgstr "Lira turca"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:192
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:192
 msgid "Trinidad and Tobago Dollar"
 msgstr "Dólar trinitense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:193
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:193
 msgid "Taiwan New Dollar"
 msgstr "Nuevo dólar taiwanés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:194
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:194
 msgid "Tanzanian Shilling"
 msgstr "Chelín tanzano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:195
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:195
 msgid "Ukraine Hryvnia"
 msgstr "Grivna ucraniana"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:196
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:196
 msgid "Ugandan Shilling"
 msgstr "Chelín ugandés"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:197
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:197
 msgid "United States Dollar"
 msgstr "Dólar estadounidense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:198
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:198
 msgid "Uruguay Peso"
 msgstr "Peso uruguayo"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:199
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:199
 msgid "Uzbekistan Som"
 msgstr "Som uzbeko"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:200
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:200
 msgid "Venezuela Bolívar"
 msgstr "Bolívar de Venezuela"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:201
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:201
 msgid "Venezuelan Bolívar"
 msgstr "Bolívar de Venezuela"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:202
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:202
 msgid "Viet Nam Dong"
 msgstr "Đồng vietnamita"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:203
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:203
 msgid "Ni-Vanuatu Vatu"
 msgstr "Vatu de Vanuatu"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:204
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:204
 msgid "Samoan Tala"
 msgstr "Tālā de Samoa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:205
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:205
 msgid "Central African CFA Franc BEAC"
 msgstr "Franco CFA de África Central"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:206
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:206
 msgid "Silver Ounce"
 msgstr "Onza de plata"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:207
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:207
 msgid "Gold Ounce"
 msgstr "Onza de oro"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:208
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:208
 msgid "East Caribbean Dollar"
 msgstr "Dólar del Caribe Oriental"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:209
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:209
 msgid "IMF Special Drawing Rights"
 msgstr "Derechos especiales de giro"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:210
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:210
 msgid "CFA Franc"
 msgstr "Franco CFA"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:211
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:211
 msgid "Palladium Ounce"
 msgstr "Onza de Paladio"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:212
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:212
 msgid "CFP Franc"
 msgstr "Franco CFP"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:213
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:213
 msgid "Platinum Ounce"
 msgstr "Onza de Platino"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:214
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:214
 msgid "Yemen Rial"
 msgstr "Rial Yemení"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:215
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:215
 msgid "South Africa Rand"
 msgstr "Rand Sudafricano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:216
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:216
 msgid "Zambian Kwacha"
 msgstr "Kwacha Zambiano"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:217
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/MainModels.qml:217
 msgid "Zimbabwe Dollar"
 msgstr "Dólar Zimbabuense"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:28
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:46
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:28
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:46
 msgid "Ascending"
 msgstr "Ascentente"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:29
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:49
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:29
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:49
 msgid "Descending"
 msgstr "Descendente"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:39
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:25
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:31
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:39
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:25
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:31
 msgid "Name"
 msgstr "Nombre"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:40
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:28
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/listmodels/SettingsModels.qml:40
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:28
 msgid "Code"
 msgstr "Código"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:20
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:20
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
 msgid "Convert"
 msgstr "Convertir"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:74
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:74
 msgid "Add to favorites"
 msgstr "Añadir a Favoritos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:82
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:16
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:82
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:16
 msgid "Added to your favorites"
 msgstr "Añadido a sus favoritos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:84
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:18
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:84
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:18
 msgid "Already in your favorites"
 msgstr "Ya se encuentra en sus favoritos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:98
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:58
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:98
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:58
 msgid "Swap"
 msgstr "Intercambiar"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:109
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:109
 #, fuzzy
 msgid "Copy result"
 msgstr "Sin resultados"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/DataLoadingDisplay.qml:40
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/DataLoadingDisplay.qml:40
 msgid "Trying to update data"
 msgstr "Intentando actualizar datos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:29
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:29
 msgid "Add"
 msgstr "Añadir"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:40
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:22
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:40
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:22
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
 msgid "Sort"
 msgstr "Ordenar"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:43
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:43
 msgid "Default"
 msgstr "Por defecto"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:195
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:185
 msgid "You don't have any favorites"
 msgstr "No tiene ningún favorito"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:15
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:49
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:15
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:49
 msgid "Full View"
 msgstr "Vista completa"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:37
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:43
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:37
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:43
 msgid "Asc"
 msgstr "Asc"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:40
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:40
 msgid "Desc"
 msgstr "Desc"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:13
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:13
 msgid "Custom max precision"
 msgstr "Máxima precisión personalizada"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:77
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/settingspage/CustomPrecision.qml:77
 msgid "i.e."
 msgstr "p. ej."
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:14
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:14
 msgid "Previous"
 msgstr "Anterior"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:35
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/helppage/detailspane/PaneFooter.qml:35
 msgid "Next"
 msgstr "SIguiente"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:21
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:21
 msgid "Last Updated"
 msgstr "Última Actualización"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:33
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/convertpane/DataDetails.qml:33
 msgid "Source"
 msgstr "Fuente"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:8
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/AddDialog.qml:8
 msgid "Add new favorite"
 msgstr "Añadir nuevo favorito"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
 msgid "Unfavorite"
 msgstr "Quitar de favoritos"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
 msgid "Deleted"
 msgstr "Borrado"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
 msgid "Are you sure you want to remove this from your favorites?"
 msgstr "¿Está seguro de eliminarlo de los favoritos?"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
 msgid "By"
 msgstr "Por"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
 msgid "Order"
 msgstr ""
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "No results"
 msgstr "Sin resultados"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "Type in the input box to search"
 msgstr "Escriba en el cuadro de texto para buscar"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: /home/phablet/Documents/Projects/Palitan/GeanyProject/build/palitan/palitan.desktop.h:1
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/build/arm-linux-gnueabihf/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr "Palitan"

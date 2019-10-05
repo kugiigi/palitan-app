@@ -15,7 +15,7 @@ BaseDialog {
     }
     
     Column{
-        spacing: 5
+        spacing: 20
         anchors{
             left: parent.left
             right: parent.right
@@ -27,6 +27,7 @@ BaseDialog {
                 left: parent.left
                 right: parent.right
             }
+            wrapMode: Text.Wrap
         }
         
         Label {
@@ -34,6 +35,7 @@ BaseDialog {
             font.weight: Font.Medium
             elide: Text.ElideRight
             maximumLineCount: 2
+            wrapMode: Text.Wrap
             anchors{
                 left: parent.left
                 right: parent.right

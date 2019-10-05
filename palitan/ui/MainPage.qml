@@ -109,6 +109,7 @@ BasePage {
             right: parent.right
             top: parent.top
             bottom: valueTextField.top
+            bottomMargin: 20
         }
         currentIndex: tabBar.currentIndex
         
@@ -172,8 +173,8 @@ BasePage {
             id: pasteButton
             
             focusPolicy: Qt.NoFocus
-            // TODO: Check why always false
-            //~ visible: valueTextField.canPaste
+            // TODO: Check why false intially even when there's text in the clipboard
+            // visible: valueTextField.canPaste
             width: 30
         
             flat: true
@@ -183,7 +184,6 @@ BasePage {
                 top: parent.top
                 bottom: parent.bottom
                 margins: 5
-                verticalCenter: parent.verticalCenter
             }
             
             onClicked: {

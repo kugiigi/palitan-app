@@ -71,16 +71,6 @@ BasePane {
     }
     
     /****** Functions *****/
-    //~ function getIndex(target){
-        //~ var targetKeys = Object.keys(target);
-        //~ var index = settings.favorites.findIndex(function(entry) {
-            //~ var keys = Object.keys(entry);
-            //~ return keys.length == targetKeys.length && keys.every(function(key) {
-                //~ return target.hasOwnProperty(key) && entry[key] === target[key];
-            //~ });
-        //~ });
-        //~ return index
-    //~ }
     
     function getIndex(target){
         var targetKeys = Object.keys(target);

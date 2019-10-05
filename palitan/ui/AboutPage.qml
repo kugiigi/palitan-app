@@ -81,7 +81,7 @@ BasePage {
     
             function fillData(){
                 append({"section": i18n.tr("Support"), "text": i18n.tr("Report a bug"), "subText": "", "icon": "mail-mark-important", "urlText": "https://github.com/kugiigi/palitan-app/issues"})
-                append({"section": i18n.tr("Support"), "text": i18n.tr("Contact Developer"), "subText": "", "icon": "stock_email", "urlText": "mailto:kugi_igi@yahoo.com"})
+                append({"section": i18n.tr("Support"), "text": i18n.tr("Contact Developer"), "subText": "", "icon": "stock_email", "urlText": "mailto:kugiigi@protonmail.com"})
                 append({"section": i18n.tr("Support"), "text": i18n.tr("View source"), "subText": "", "icon": "stock_document", "urlText": "https://github.com/kugiigi/palitan-app"})
                 append({"section": i18n.tr("Support"), "text": i18n.tr("Donate"), "subText": "", "icon": "like", "urlText": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2GBQRJGLZMBCL"})
                 append({"section": i18n.tr("Support"), "text": i18n.tr("View in OpenStore"), "subText": "", "icon": "ubuntu-store-symbolic", "urlText": "openstore://palitan.kugiigi"})
