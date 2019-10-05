@@ -1,7 +1,15 @@
+v1.2
+ - French translation
+ - Code cleanups
+ - Fixed #9: Reverse the Chevron in the Full View
+ - Fixed #10: Dialog vertical position does not adjust when rotating screen
+ - Fixed #11: Bottom tabs are always icon only even with enough width
+ - Fixed #12: Layout in the favorites page are not correct
+ - Changed email address to protonmail
 v1.1
  - Spanish translation
  - Menu drawer now adjusts layout when the header is expanded
- - Proper theme support (Ambiance and SuruDark)
+ - Complete SuruDark theme support
  - Fixed #3: Add paste button in the input textbox
  - Fixed #4: Add copy funtionality for the result
 v1.0

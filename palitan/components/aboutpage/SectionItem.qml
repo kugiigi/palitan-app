@@ -8,7 +8,7 @@ ColumnLayout{
     
     property alias text: label.text
     
-    spacing: 0
+    spacing: 5
     anchors{
         left: parent.left
         right: parent.right
