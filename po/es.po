@@ -7,7 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
+
 "POT-Creation-Date: 2019-10-05 17:26+0000\n"
+
 "PO-Revision-Date: 2018-12-17 09:49+0100\n"
 "Last-Translator:Josu \n"
 "Language-Team:UBports Spanish Team \n"
@@ -16,7 +18,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.6\n"
+
+"Last-Translator:Josu \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
 
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/Main.qml:90
 msgid "Menu"
@@ -39,6 +44,7 @@ msgstr "Acerca de"
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:120
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FullViewPane.qml:69
+
 msgid "Help"
 msgstr "Ayuda"
 
@@ -104,6 +110,7 @@ msgstr "Modelos JSON"
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/MainPage.qml:15
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/FavoritesPane.qml:17
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:35
+
 msgid "Favorites"
 msgstr "Favoritos"
 
@@ -116,6 +123,7 @@ msgid "Data successfully updated"
 msgstr "Datos actualizados correctamente"
 
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/ui/MainPage.qml:54
+
 msgid "Failed. Please try again."
 msgstr "Error. Vuelva a intentarlo."
 
@@ -886,6 +894,7 @@ msgstr "Código"
 
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/ConvertPane.qml:20
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/GeanyProject/palitan/components/mainpage/TabFooter.qml:42
+
 msgid "Convert"
 msgstr "Convertir"
 
