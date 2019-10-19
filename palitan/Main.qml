@@ -13,7 +13,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.2"
+    readonly property string current_version: "1.3"
     readonly property var suruTheme: settings.currentTheme === "SuruDark" ? Suru.Dark : Suru.Light
     
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
@@ -59,6 +59,13 @@ ApplicationWindow {
     
     Ambiance.Palette{id: ambianceTheme}
     SuruDark.Palette{id: suruDarkTheme}
+	
+	 MainView{
+        //Only for making translation work
+        id: dummyMainView
+        applicationName: "palitan.kugiigi"
+        visible: false
+    }
     
     GlobalTooltip{
         id: tooltip
@@ -145,7 +152,7 @@ ApplicationWindow {
     Loader {
         id: mainPageLoader
         
-        active: true //mainModels.currencyModel2.ready //true
+        active: true
         asynchronous: true
         source: "ui/MainPage.qml"
 
