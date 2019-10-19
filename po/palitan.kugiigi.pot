@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-19 08:11+0000\n"
+"POT-Creation-Date: 2019-10-19 08:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,21 +17,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:97
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:98
 msgid "Menu"
 msgstr ""
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:126
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:127
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr ""
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:127
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:128
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr ""
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:128
+#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/Main.qml:129
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/ui/AboutPage.qml:14
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/ui/HelpPage.qml:14
 #: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/master/palitan-app/palitan/ui/SettingsPage.qml:16

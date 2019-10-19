@@ -1,4 +1,5 @@
 import QtQuick 2.9
+import Ubuntu.Components 1.3
 import QtQuick.Controls.Suru 2.2
 import Ubuntu.Components.Themes.Ambiance 1.3 as Ambiance
 import Ubuntu.Components.Themes.SuruDark 1.3 as SuruDark
@@ -13,7 +14,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.3"
+    readonly property string current_version: "1.4"
     readonly property var suruTheme: settings.currentTheme === "SuruDark" ? Suru.Dark : Suru.Light
     
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
@@ -60,7 +61,7 @@ ApplicationWindow {
     Ambiance.Palette{id: ambianceTheme}
     SuruDark.Palette{id: suruDarkTheme}
 	
-	 MainView{
+    MainView{
         //Only for making translation work
         id: dummyMainView
         applicationName: "palitan.kugiigi"
