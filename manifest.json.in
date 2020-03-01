@@ -9,7 +9,7 @@
             "desktop": "palitan/palitan.desktop"
         }
     },
-    "version": "1.4",
+    "version": "1.5",
     "maintainer": "Kugi Eusebio <kugi_eusebio@protonmail.com>",
     "framework": "ubuntu-sdk-16.04"
 }

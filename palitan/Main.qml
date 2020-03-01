@@ -14,7 +14,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.4"
+    readonly property string current_version: "1.5"
     readonly property var suruTheme: settings.currentTheme === "SuruDark" ? Suru.Dark : Suru.Light
     
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
@@ -60,7 +60,7 @@ ApplicationWindow {
     
     Ambiance.Palette{id: ambianceTheme}
     SuruDark.Palette{id: suruDarkTheme}
-	
+    
     MainView{
         //Only for making translation work
         id: dummyMainView
