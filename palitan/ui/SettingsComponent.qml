@@ -35,7 +35,7 @@ Item{
     
         //Settings page
         property string style: "Suru"
-        property string currentTheme: "Ambiance"
+        property string currentTheme: "System"
         property string homeCurrency: "PHP"
         property string alternateCurrency: "USD"
         property int startingCurrencies: 2
@@ -52,17 +52,5 @@ Item{
         
         property string ratesAsOfDate: ""
         property string ratesCacheJSON: ""
-        
-        //~ Component.onCompleted:{
-            //~ if(ratesAsOfDate === "" || ratesCacheJSON === ""){
-                //~ mainModels.ratesDataModel.fetchCacheJSON(
-                //~ function(isSuccess, jsonData){
-                    //~ if(isSuccess){
-                        //~ ratesAsOfDate = jsonData.parsedData.date
-                        //~ ratesCacheJSON = jsonData.rawData
-                    //~ }
-                //~ });
-            //~ }
-        //~ }
     }
 }

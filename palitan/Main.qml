@@ -14,11 +14,21 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.5"
-    readonly property var suruTheme: settings.currentTheme === "SuruDark" ? Suru.Dark : Suru.Light
+    readonly property string current_version: "1.6"
+    readonly property var suruTheme: switch(settings.currentTheme) {
+            case "System":
+                undefined
+                break
+            case "Ambiance":
+                Suru.Light
+                break
+            case "SuruDark":
+                Suru.Dark
+                break
+        }
     
     property string displayMode: "Phone" //"Desktop" //"Phone" //"Tablet"
-    property QtObject theme: settings.currentTheme === "SuruDark" ? suruDarkTheme : ambianceTheme
+    property QtObject theme: Suru.theme === 1 ? suruDarkTheme : ambianceTheme
 
     // objectName for functional testing purposes (autopilot-qt5)
     objectName: "mainView"
