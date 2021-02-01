@@ -2,7 +2,7 @@ import QtQuick 2.9
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
         
-RowLayout{
+RowLayout {
     id: fromLabel
     
     readonly property bool showCurrencyCode: settings.currencyFormatting !== 1
@@ -14,7 +14,7 @@ RowLayout{
     spacing: 0
     
     
-    Label{
+    Label {
         id: valueLabel
         
         Layout.fillWidth: true
@@ -28,7 +28,7 @@ RowLayout{
         minimumPixelSize: 10
     }
     
-    Label{
+    Label {
         id: codeLabel
         
         Layout.preferredWidth: showCurrencyCode ? 35 : 10

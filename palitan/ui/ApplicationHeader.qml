@@ -103,6 +103,7 @@ ToolBar {
             id: leftHeaderActions
             
             model: leftActions
+            Layout.fillHeight: true
         }
         
         HeaderTitle{
@@ -116,6 +117,7 @@ ToolBar {
             id: rightHeaderActions
             
             model: rightActions.length === 1 ? rightActions : 0
+            Layout.fillHeight: true
             
             HeaderToolButton {
                 id: overflowRightButton

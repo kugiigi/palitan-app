@@ -8,7 +8,4 @@ Page{
     property list<UT.Action> headerLeftActions
     property list<UT.Action> headerRightActions
     property Flickable flickable
-    
-    //~ background: Item{}
-    
 }

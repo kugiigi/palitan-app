@@ -1,3 +1,4 @@
+import QtQuick 2.9
 import QtQuick.Controls 2.2
 
 Dialog {
@@ -7,7 +8,7 @@ Dialog {
     
     standardButtons: Dialog.Yes | Dialog.Cancel
     
-    function openDialog(){
+    function openDialog() {
         var mapped = listView.currentItem.mapToItem(favoritespPane, 0, 0)
         //~ var mapped = listView.currentItem.mapToItem(favoritespPane, -15,-15)
         
@@ -18,7 +19,7 @@ Dialog {
         open()
     }
     
-    onAboutToShow:{
+    onAboutToShow: {
         var base = listView.currentItem.currency1.code
         var destination = listView.currentItem.currency2.code
         
@@ -30,11 +31,20 @@ Dialog {
         tooltip.display(i18n.tr("Deleted"), "BOTTOM")
     }
 
-    Label {
-        text: i18n.tr("Are you sure you want to remove this from your favorites?")
-        anchors{
+    Item {
+        // Required for text wrapping to work
+        anchors {
             left: parent.left
             right: parent.right
+        }
+
+        Label {
+            text: i18n.tr("Are you sure you want to remove this from your favorites?")
+            wrapMode: Text.Wrap
+            anchors {
+                left: parent.left
+                right: parent.right
+            }
         }
     }
 }

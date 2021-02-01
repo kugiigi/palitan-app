@@ -5,13 +5,7 @@ import Ubuntu.Components 1.3 as UT
 Item{
     id: flipableSurfaceHeader
     
-    readonly property real spacing: 5
-    
-    anchors{
-        left: parent.left
-        right: parent.right
-    }
-    
+    readonly property real spacing: 5    
     
     HeaderLabels{
         id: baseColumn
@@ -32,7 +26,7 @@ Item{
         implicitWidth: 20
         implicitHeight: implicitWidth
         anchors.centerIn: parent
-        color: theme.normal.base
+        color: theme.normal.foregroundText
         name: "finish"
     }
     

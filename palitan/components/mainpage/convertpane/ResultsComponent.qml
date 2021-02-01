@@ -14,7 +14,7 @@ Item{
     Layout.fillHeight: true
     Layout.fillWidth: true
     
-    function showAnimation(){
+    function show() {
         if(opacity === 0)
         showAnimation.restart()
     } 

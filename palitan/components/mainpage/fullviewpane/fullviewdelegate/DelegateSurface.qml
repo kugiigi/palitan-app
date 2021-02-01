@@ -31,7 +31,7 @@ RowLayout{
         
         spacing: 0
                     
-        Label{
+        Label {
             id: codeLabel
             
             text: currency2.code
@@ -43,7 +43,7 @@ RowLayout{
             verticalAlignment: Text.AlignVCenter
         }
         
-        Label{
+        Label {
             id: nameLabel
                 
             text: currency2.name
@@ -64,7 +64,7 @@ RowLayout{
         Layout.preferredWidth: 15
         Layout.preferredHeight: Layout.preferredWidth
         Layout.alignment: Qt.AlignVCenter | Qt.AlignHCenter
-        color: theme.normal.base
+        color: theme.normal.foregroundText
         name: "finish"
         
         transform:  Rotation {
@@ -74,7 +74,7 @@ RowLayout{
         }
     }
     
-    RowLayout{
+    RowLayout {
         id: resultRow
         
         Layout.alignment: Qt.AlignVCenter | Qt.AlignRight
@@ -84,7 +84,7 @@ RowLayout{
         
         spacing: 1
         
-        Label{
+        Label {
             id: valueLabel2
             
             text: flipable.flipped ? currency2.convert(currency1.code) : currency1.convert(currency2.code)
@@ -94,10 +94,10 @@ RowLayout{
             fontSizeMode: Text.HorizontalFit
             minimumPixelSize: 10
             Layout.fillWidth: true
-            Layout.alignment: Qt.AlignVCenter
+            Layout.alignment: Qt.AlignBaseline | Qt.AlignHCenter
         }
         
-        Label{
+        Label {
             id: codeLabel2
             
             text: flipable.flipped ? currency1.code : currency2.code
@@ -106,7 +106,7 @@ RowLayout{
             horizontalAlignment: Text.AlignRight
             color: theme.normal.positive
             Layout.preferredWidth: 25
-            Layout.alignment: Qt.AlignBaseline
+            Layout.alignment: Qt.AlignBaseline | Qt.AlignHCenter
         }
     }
 }

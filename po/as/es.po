@@ -3,33 +3,34 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-01 07:41+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"POT-Creation-Date: 2021-02-01 04:27+0000\n"
+"PO-Revision-Date: 2018-12-17 09:49+0100\n"
+"Last-Translator:Josu \n"
+"Language-Team:UBports Spanish Team \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:108
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:137
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:138
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:9
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:139
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
@@ -39,7 +40,7 @@ msgstr ""
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:83
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:84
@@ -48,948 +49,949 @@ msgstr ""
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:87
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:88
 msgid "Support"
-msgstr ""
+msgstr "Soporte"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:83
 msgid "Report a bug"
-msgstr ""
+msgstr "Reportar un fallo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:84
 msgid "Contact Developer"
-msgstr ""
+msgstr "Contactar con el desarrollador"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:85
 msgid "View source"
-msgstr ""
+msgstr "Ver código fuente"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:86
 msgid "Donate"
-msgstr ""
+msgstr "Donar"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:87
 msgid "View in OpenStore"
-msgstr ""
+msgstr "Ver en OpenStore"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:88
 msgid "Other apps by the developer"
-msgstr ""
+msgstr "Otras aplicaciones del desarrollador"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:89
 msgid "Developers"
-msgstr ""
+msgstr "Desarrolladores"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:89
 msgid "Main developer"
-msgstr ""
+msgstr "Desarrollador principal"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:90
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:91
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:92
 msgid "Powered by"
-msgstr ""
+msgstr "Proporcionado por"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:90
 msgid "Money formatting"
-msgstr ""
+msgstr "Formato de moneda"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:91
 msgid "Exchange rates data: 1000 requests/month only"
-msgstr ""
+msgstr "Tasa de cambio: sólo 1000 peticiones/mes"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:92
 msgid "JSON models"
-msgstr ""
+msgstr "Modelos JSON"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:18
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:15
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:17
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:35
 msgid "Favorites"
-msgstr ""
+msgstr "Favoritos"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:47
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:44
 msgid "Refresh data"
-msgstr ""
+msgstr "Actualizar datos"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:55
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:52
 msgid "Data successfully updated"
-msgstr ""
+msgstr "Datos actualizados correctamente"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:57
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:54
 msgid "Failed. Please try again."
-msgstr ""
+msgstr "Error. Vuelva a intentarlo."
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:54
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:67
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "Home currency"
-msgstr ""
+msgstr "Moneda principal"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:80
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "Alternate currency"
-msgstr ""
+msgstr "Moneda alternativa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:92
 msgid "Currency format"
-msgstr ""
+msgstr "Formato de moneda"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "Native"
-msgstr ""
+msgstr "Nativo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:118
 msgid "Starting currencies"
-msgstr ""
+msgstr "Monedas de partida"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
 msgid "Restore from previous session"
-msgstr ""
+msgstr "Restaurar desde la sesión anterior"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
 msgid "Home currency and Alternate Currency"
-msgstr ""
+msgstr "Moneda principal y moneda alternativa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
 msgid "First and second in the list"
-msgstr ""
+msgstr "Primera y segunda de la lista"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/ExternalDialog.qml:10
 msgid "Open external link"
-msgstr ""
+msgstr "Abrir enlace externo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/ExternalDialog.qml:25
 msgid "You are about to open an external link. Do you wish to continue?"
-msgstr ""
+msgstr "Está a punto de abrir un enlace externo ¿Desea continuar?"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/IconComponent.qml:32
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/IconComponent.qml:41
 msgid "Released under license"
-msgstr ""
+msgstr "Publicado bajo la licencia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/NavigationPane.qml:11
 msgid "Reach Me!"
-msgstr ""
+msgstr "¡Alcánceme!"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/NavigationPane.qml:18
 msgid "Cool right?"
-msgstr ""
+msgstr "Mola ¿Verdad?"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:47
 msgid "Emirati Dirham"
-msgstr ""
+msgstr "Dírham de los Emiratos Árabes Unidos"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:48
 msgid "Afghanistan Afghani"
-msgstr ""
+msgstr "Afgani de Afganistan"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:49
 msgid "Albania Lek"
-msgstr ""
+msgstr "Lek albanés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:50
 msgid "Armenian Dram"
-msgstr ""
+msgstr "Dram armenio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:51
 msgid "Netherlands Antilles Guilder"
-msgstr ""
+msgstr "Florín antillano neerlandés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:52
 msgid "Angolan Kwanza"
-msgstr ""
+msgstr "Kwanza angoleño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:53
 msgid "Argentina Peso"
-msgstr ""
+msgstr "Peso argentino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:54
 msgid "Australia Dollar"
-msgstr ""
+msgstr "Dólar australiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:55
 msgid "Aruba Guilder"
-msgstr ""
+msgstr "Florín arubeño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:56
 msgid "Azerbaijan Manat"
-msgstr ""
+msgstr "Manat azerbaiyano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:57
 msgid "Bosnia and Herzegovina Convertible Marka"
-msgstr ""
+msgstr "Marco bosnioherzegovino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:58
 msgid "Barbados Dollar"
-msgstr ""
+msgstr "Dólar de Barbados"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:59
 msgid "Bangladeshi Taka"
-msgstr ""
+msgstr "Taka bangladesí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:60
 msgid "Bulgaria Lev"
-msgstr ""
+msgstr "Lev búlgaro"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:61
 msgid "Bahraini Dinar"
-msgstr ""
+msgstr "Dinar bareiní"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:62
 msgid "Burundian Franc"
-msgstr ""
+msgstr "Franco burundés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:63
 msgid "Bermuda Dollar"
-msgstr ""
+msgstr "Dólar bermudeño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:64
 msgid "Brunei Darussalam Dollar"
-msgstr ""
+msgstr "Dólar de Brunéi"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:65
 msgid "Bolivia Bolíviano"
-msgstr ""
+msgstr "Boliviano de Bolivia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:66
 msgid "Brazil Real"
-msgstr ""
+msgstr "Real brasileño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:67
 msgid "Bahamas Dollar"
-msgstr ""
+msgstr "Dólar bahameño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:68
 msgid "Bitcoin"
-msgstr ""
+msgstr "Bitcoin"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:69
 msgid "Bhutanese Ngultrum"
-msgstr ""
+msgstr "Ngultrum butanés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:70
 msgid "Botswana Pula"
-msgstr ""
+msgstr "Pula de Botswana"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:71
 msgid "Belarus Ruble"
-msgstr ""
+msgstr "Rublo bielorruso"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:72
 msgid "Belize Dollar"
-msgstr ""
+msgstr "Dólar beliceño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:73
 msgid "Canada Dollar"
-msgstr ""
+msgstr "Dólar canadiense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:74
 msgid "Congolese Franc"
-msgstr ""
+msgstr "Franco congoleño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:75
 msgid "Switzerland Franc"
-msgstr ""
+msgstr "Franco suizo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:76
 msgid "Chilean Unidad de Fomento"
-msgstr ""
+msgstr "Unidad de fomento chilena"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:77
 msgid "Chile Peso"
-msgstr ""
+msgstr "Peso chileno"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:78
 msgid "China Yuan Renminbi (Offshore)"
-msgstr ""
+msgstr "Yuan renminbi chino (extranjeros)"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:79
 msgid "China Yuan Renminbi (Onshore)"
-msgstr ""
+msgstr "Yuan renminbi chino (locales)"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:80
 msgid "Colombia Peso"
-msgstr ""
+msgstr "Peso colombiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:81
 msgid "Costa Rica Colon"
-msgstr ""
+msgstr "Colón costaricense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:82
 msgid "Cuban Convertible Peso"
-msgstr ""
+msgstr "Peso convertible cubano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:83
 msgid "Cuba Peso"
-msgstr ""
+msgstr "Peso cubano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:84
 msgid "Cape Verdean Escudo"
-msgstr ""
+msgstr "Escudo caboverdiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:85
 msgid "Czech Republic Koruna"
-msgstr ""
+msgstr "Corona Checa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:86
 msgid "Djiboutian Franc"
-msgstr ""
+msgstr "Franco yibutiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:87
 msgid "Denmark Krone"
-msgstr ""
+msgstr "Corona danesa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:88
 msgid "Dominican Republic Peso"
-msgstr ""
+msgstr "Peso de la República Dominicana"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:89
 msgid "Algerian Dinar"
-msgstr ""
+msgstr "Dinar argelino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:90
 msgid "Egypt Pound"
-msgstr ""
+msgstr "Libra egipcia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:91
 msgid "Eritrean Nakfa"
-msgstr ""
+msgstr "Nakfa de Eritrea"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:92
 msgid "Ethiopian Birr"
-msgstr ""
+msgstr "Birr etíope"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:93
 msgid "Euro Member Countries"
-msgstr ""
+msgstr "Euro"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:94
 msgid "Fiji Dollar"
-msgstr ""
+msgstr "Dólar fiyiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:95
 msgid "Falkland Islands (Malvinas) Pound"
-msgstr ""
+msgstr "Libra malvinense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:96
 msgid "United Kingdom Pound"
-msgstr ""
+msgstr "Libra esterlina"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:97
 msgid "Georgian Lari"
-msgstr ""
+msgstr "Lari georgiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:98
 msgid "Guernsey Pound"
-msgstr ""
+msgstr "Libra de Guernsey"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:99
 msgid "Ghana Cedi"
-msgstr ""
+msgstr "Cedi de Ghana"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:100
 msgid "Gibraltar Pound"
-msgstr ""
+msgstr "Libra gibraltareña"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:101
 msgid "Gambian Dalasi"
-msgstr ""
+msgstr "Dalasi de Gambia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:102
 msgid "Guinean Franc"
-msgstr ""
+msgstr "Franco guineano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:103
 msgid "Guatemala Quetzal"
-msgstr ""
+msgstr "Qetzal de Guatemala"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:104
 msgid "Guyana Dollar"
-msgstr ""
+msgstr "Dólar guyanés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:105
 msgid "Hong Kong Dollar"
-msgstr ""
+msgstr "Dólar de Hong Kong"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:106
 msgid "Honduras Lempira"
-msgstr ""
+msgstr "Lempira de Honduras"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:107
 msgid "Croatia Kuna"
-msgstr ""
+msgstr "Kuna croata"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:108
 msgid "Haitian Gourde"
-msgstr ""
+msgstr "Gourde de Haití"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:109
 msgid "Hungary Forint"
-msgstr ""
+msgstr "Forinto húngaro"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:110
 msgid "Indonesia Rupiah"
-msgstr ""
+msgstr "Rupia indonesia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:111
 msgid "Israel Shekel"
-msgstr ""
+msgstr "Nuevo séquel israelí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:112
 msgid "Isle of Man Pound"
-msgstr ""
+msgstr "Libra manesa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:113
 msgid "India Rupee"
-msgstr ""
+msgstr "Rupia india"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:114
 msgid "Iraqi Dinar"
-msgstr ""
+msgstr "Dinar iraquí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:115
 msgid "Iran Rial"
-msgstr ""
+msgstr "Rial iraní"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:116
 msgid "Iceland Krona"
-msgstr ""
+msgstr "Corona islandesa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:117
 msgid "Jersey Pound"
-msgstr ""
+msgstr "Libra de Jersey"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:118
 msgid "Jamaica Dollar"
-msgstr ""
+msgstr "Dólar jamaiquino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:119
 msgid "Jordanian Dinar"
-msgstr ""
+msgstr "Dinar jordano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:120
 msgid "Japan Yen"
-msgstr ""
+msgstr "Yen japonés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:121
 msgid "Kenyan Shilling"
-msgstr ""
+msgstr "Chelín keniano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:122
 msgid "Kyrgyzstan Som"
-msgstr ""
+msgstr "Som kirguís"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:123
 msgid "Cambodia Riel"
-msgstr ""
+msgstr "Riel camboyano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:124
 msgid "Comorian Franc"
-msgstr ""
+msgstr "Franco comorense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:125
 msgid "Korea (North) Won"
-msgstr ""
+msgstr "Won norcoreano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:126
 msgid "Korea (South) Won"
-msgstr ""
+msgstr "Won surcoerano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:127
 msgid "Kuwaiti Dinar"
-msgstr ""
+msgstr "Dinar kuwaití"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:128
 msgid "Cayman Islands Dollar"
-msgstr ""
+msgstr "Dólar de las islas Caimán"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:129
 msgid "Kazakhstan Tenge"
-msgstr ""
+msgstr "Tenge kazajo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:130
 msgid "Laos Kip"
-msgstr ""
+msgstr "Kip laosiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:131
 msgid "Lebanon Pound"
-msgstr ""
+msgstr "Libra libanesa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:132
 msgid "Sri Lanka Rupee"
-msgstr ""
+msgstr "Rupia de Sri Lanka"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:133
 msgid "Liberia Dollar"
-msgstr ""
+msgstr "Dólar liberiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:134
 msgid "Basotho Loti"
-msgstr ""
+msgstr "Loti del Reino de Lesoto"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:135
 msgid "Libyan Dinar"
-msgstr ""
+msgstr "Dinar libio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:136
 msgid "Moroccan Dirham"
-msgstr ""
+msgstr "Dirham marroquí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:137
 msgid "Moldovan Leu"
-msgstr ""
+msgstr "Leu moldavo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:138
 msgid "Malagasy Ariary"
-msgstr ""
+msgstr "Ariary malgache"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:139
 msgid "Macedonia Denar"
-msgstr ""
+msgstr "Denar macedonio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:140
 msgid "Burmese Kyat"
-msgstr ""
+msgstr "Kyat birmano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:141
 msgid "Mongolia Tughrik"
-msgstr ""
+msgstr "Tugrik mongol"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:142
 msgid "Macau Pataca"
-msgstr ""
+msgstr "Pataca macaense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:143
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:144
 msgid "Mauritanian Ouguiya"
-msgstr ""
+msgstr "Uguiya de Mauritania"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:145
 msgid "Mauritius Rupee"
-msgstr ""
+msgstr "Rupia de Mauricio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:146
 msgid "Maldivian Rufiyaa"
-msgstr ""
+msgstr "Rupia de Maldivas"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:147
 msgid "Malawian Kwacha"
-msgstr ""
+msgstr "Kwacha malauí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:148
 msgid "Mexico Peso"
-msgstr ""
+msgstr "Peso mexicano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:149
 msgid "Malaysia Ringgit"
-msgstr ""
+msgstr "Ringgit de Malasia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:150
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "Metical mozanbiqueño"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:151
 msgid "Namibia Dollar"
-msgstr ""
+msgstr "Dólar namibio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:152
 msgid "Nigeria Naira"
-msgstr ""
+msgstr "Naira de Nigeria"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:153
 msgid "Nicaragua Cordoba"
-msgstr ""
+msgstr "Córdoba nicaragüense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:154
 msgid "Norway Krone"
-msgstr ""
+msgstr "Corona noruega"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:155
 msgid "Nepal Rupee"
-msgstr ""
+msgstr "Rupia nepalí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:156
 msgid "New Zealand Dollar"
-msgstr ""
+msgstr "Dólar neozelandés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:157
 msgid "Oman Rial"
-msgstr ""
+msgstr "Rial omaní"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:158
 msgid "Panama Balboa"
-msgstr ""
+msgstr "Balboa de Panamá"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:159
 msgid "Peru Sol"
-msgstr ""
+msgstr "Sol de Perú"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:160
 msgid "Papua New Guinean Kina"
-msgstr ""
+msgstr "Kina de Papúa Nueva Guinea"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:161
 msgid "Philippines Peso"
-msgstr ""
+msgstr "Peso filipino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:162
 msgid "Pakistan Rupee"
-msgstr ""
+msgstr "Rupia pakistaní"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:163
 msgid "Poland Zloty"
-msgstr ""
+msgstr "Zloty de Polonia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:164
 msgid "Paraguay Guarani"
-msgstr ""
+msgstr "Guaraní de Paraguay"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:165
 msgid "Qatar Riyal"
-msgstr ""
+msgstr "Riyal catarí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:166
 msgid "Romania Leu"
-msgstr ""
+msgstr "Leu rumano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:167
 msgid "Serbia Dinar"
-msgstr ""
+msgstr "Dinar serbio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:168
 msgid "Russia Ruble"
-msgstr ""
+msgstr "Rublo ruso"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:169
 msgid "Rwandan Franc"
-msgstr ""
+msgstr "Franco ruandés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:170
 msgid "Saudi Arabia Riyal"
-msgstr ""
+msgstr "Riyal saudí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:171
 msgid "Solomon Islands Dollar"
-msgstr ""
+msgstr "Dólar de las Islas Salomón"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:172
 msgid "Seychelles Rupee"
-msgstr ""
+msgstr "Rupia seychelense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:173
 msgid "Sudanese Pound"
-msgstr ""
+msgstr "Libra sudanesa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:174
 msgid "Sweden Krona"
-msgstr ""
+msgstr "Corona sueca"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:175
 msgid "Singapore Dollar"
-msgstr ""
+msgstr "Dólar de Singapur"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:176
 msgid "Saint Helena Pound"
-msgstr ""
+msgstr "Libra de Santa Elena"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:177
 msgid "Sierra Leonean Leone"
-msgstr ""
+msgstr "Leone de Sierra Leona"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:178
 msgid "Somalia Shilling"
-msgstr ""
+msgstr "Chelín somalí"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:179
 msgid "Suriname Dollar"
-msgstr ""
+msgstr "Dólar surinamés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:180
 msgid "South Sudanese Pound"
-msgstr ""
+msgstr "Libra sursudabesa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:181
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:182
 msgid "Sao Tomean Dobra"
-msgstr ""
+msgstr "Dobra santotomense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:183
 msgid "El Salvador Colon"
-msgstr ""
+msgstr "Colón de El Salvador"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:184
 msgid "Syria Pound"
-msgstr ""
+msgstr "Libra siria"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:185
 msgid "Swazi Lilangeni"
-msgstr ""
+msgstr "Lilangeni de Suazilandia"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:186
 msgid "Thailand Baht"
-msgstr ""
+msgstr "Baht tailandés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:187
 msgid "Tajikistani Somoni"
-msgstr ""
+msgstr "Somoni tayiko"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:188
 msgid "Turkmenistani Manat"
-msgstr ""
+msgstr "Manat turcomano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:189
 msgid "Tunisian Dinar"
-msgstr ""
+msgstr "Dinar tunecino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:190
 msgid "Tongan Pa'anga"
-msgstr ""
+msgstr "Pa'anga tongano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:191
 msgid "Turkey Lira"
-msgstr ""
+msgstr "Lira turca"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:192
 msgid "Trinidad and Tobago Dollar"
-msgstr ""
+msgstr "Dólar trinitense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:193
 msgid "Taiwan New Dollar"
-msgstr ""
+msgstr "Nuevo dólar taiwanés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:194
 msgid "Tanzanian Shilling"
-msgstr ""
+msgstr "Chelín tanzano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:195
 msgid "Ukraine Hryvnia"
-msgstr ""
+msgstr "Grivna ucraniana"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:196
 msgid "Ugandan Shilling"
-msgstr ""
+msgstr "Chelín ugandés"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:197
 msgid "United States Dollar"
-msgstr ""
+msgstr "Dólar estadounidense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:198
 msgid "Uruguay Peso"
-msgstr ""
+msgstr "Peso uruguayo"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:199
 msgid "Uzbekistan Som"
-msgstr ""
+msgstr "Som uzbeko"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:200
 msgid "Venezuela Bolívar"
-msgstr ""
+msgstr "Bolívar de Venezuela"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:201
 msgid "Venezuelan Bolívar"
-msgstr ""
+msgstr "Bolívar de Venezuela"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:202
 msgid "Viet Nam Dong"
-msgstr ""
+msgstr "Đồng vietnamita"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:203
 msgid "Ni-Vanuatu Vatu"
-msgstr ""
+msgstr "Vatu de Vanuatu"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:204
 msgid "Samoan Tala"
-msgstr ""
+msgstr "Tālā de Samoa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:205
 msgid "Central African CFA Franc BEAC"
-msgstr ""
+msgstr "Franco CFA de África Central"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:206
 msgid "Silver Ounce"
-msgstr ""
+msgstr "Onza de plata"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:207
 msgid "Gold Ounce"
-msgstr ""
+msgstr "Onza de oro"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:208
 msgid "East Caribbean Dollar"
-msgstr ""
+msgstr "Dólar del Caribe Oriental"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:209
 msgid "IMF Special Drawing Rights"
-msgstr ""
+msgstr "Derechos especiales de giro"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:210
 msgid "CFA Franc"
-msgstr ""
+msgstr "Franco CFA"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:211
 msgid "Palladium Ounce"
-msgstr ""
+msgstr "Onza de Paladio"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:212
 msgid "CFP Franc"
-msgstr ""
+msgstr "Franco CFP"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:213
 msgid "Platinum Ounce"
-msgstr ""
+msgstr "Onza de Platino"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:214
 msgid "Yemen Rial"
-msgstr ""
+msgstr "Rial Yemení"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:215
 msgid "South Africa Rand"
-msgstr ""
+msgstr "Rand Sudafricano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:216
 msgid "Zambian Kwacha"
-msgstr ""
+msgstr "Kwacha Zambiano"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:217
 msgid "Zimbabwe Dollar"
-msgstr ""
+msgstr "Dólar Zimbabuense"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:29
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:46
 msgid "Ascending"
-msgstr ""
+msgstr "Ascentente"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:30
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:49
 msgid "Descending"
-msgstr ""
+msgstr "Descendente"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:40
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:25
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:31
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:41
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:28
 msgid "Code"
-msgstr ""
+msgstr "Código"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:20
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:42
 msgid "Convert"
-msgstr ""
+msgstr "Convertir"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:74
 msgid "Add to favorites"
-msgstr ""
+msgstr "Añadir a Favoritos"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:82
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:16
 msgid "Added to your favorites"
-msgstr ""
+msgstr "Añadido a sus favoritos"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:84
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:18
 msgid "Already in your favorites"
-msgstr ""
+msgstr "Ya se encuentra en sus favoritos"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:98
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:58
 msgid "Swap"
-msgstr ""
+msgstr "Intercambiar"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:109
+#, fuzzy
 msgid "Copy result"
-msgstr ""
+msgstr "Sin resultados"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/DataLoadingDisplay.qml:40
 msgid "Trying to update data"
-msgstr ""
+msgstr "Intentando actualizar datos"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:29
 msgid "Add"
-msgstr ""
+msgstr "Añadir"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:40
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:22
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
 msgid "Sort"
-msgstr ""
+msgstr "Ordenar"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:43
 msgid "Default"
-msgstr ""
+msgstr "Por defecto"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:185
 msgid "You don't have any favorites"
-msgstr ""
+msgstr "No tiene ningún favorito"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:15
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:49
 msgid "Full View"
-msgstr ""
+msgstr "Vista completa"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:37
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:43
 msgid "Asc"
-msgstr ""
+msgstr "Asc"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:40
 msgid "Desc"
-msgstr ""
+msgstr "Desc"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/settingspage/CustomPrecision.qml:13
 msgid "Custom max precision"
-msgstr ""
+msgstr "Máxima precisión personalizada"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/settingspage/CustomPrecision.qml:77
 msgid "i.e."
-msgstr ""
+msgstr "p. ej."
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/detailspane/PaneFooter.qml:14
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/detailspane/PaneFooter.qml:35
 msgid "Next"
-msgstr ""
+msgstr "SIguiente"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/DataDetails.qml:21
 msgid "Last Updated"
-msgstr ""
+msgstr "Última Actualización"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/DataDetails.qml:33
 msgid "Source"
-msgstr ""
+msgstr "Fuente"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:8
 msgid "Add new favorite"
-msgstr ""
+msgstr "Añadir nuevo favorito"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:26
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
 msgid "Unfavorite"
-msgstr ""
+msgstr "Quitar de favoritos"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:31
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
 msgid "Deleted"
-msgstr ""
+msgstr "Borrado"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:42
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
 msgid "Are you sure you want to remove this from your favorites?"
-msgstr ""
+msgstr "¿Está seguro de eliminarlo de los favoritos?"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
 msgid "By"
-msgstr ""
+msgstr "Por"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
 msgid "Order"
@@ -997,16 +999,16 @@ msgstr ""
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "No results"
-msgstr ""
+msgstr "Sin resultados"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "Type in the input box to search"
-msgstr ""
+msgstr "Escriba en el cuadro de texto para buscar"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/arm-linux-gnueabihf/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
-msgstr ""
+msgstr "Palitan"

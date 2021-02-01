@@ -146,7 +146,7 @@ BasePane {
     }
     
     function showResult(){
-        resultsComponent.showAnimation()
+        resultsComponent.show()
     }
     
     function hideResult(){
@@ -165,25 +165,30 @@ BasePane {
         text: baseCurrency.convertedValue
     }
     
-    ColumnLayout{
-        id: mainColumn
-        
+    Item {
+        // Added to avoid contentWidth loop warning in MainPage
         anchors.fill: parent
-        anchors.margins: 10
-    
-        DataDetails{
-            id: detailsRow
-        }
-        
-        ResultsComponent{
-            id: resultsComponent
-        }
-        
-        CurrencySelector{
-            id: currencySelector
+
+        ColumnLayout{
+            id: mainColumn
             
-            onBaseIndexChanged: delayTimer.restart()
-            onDestinationIndexChanged: delayTimer.restart()
+            anchors.fill: parent
+            anchors.margins: 10
+        
+            DataDetails{
+                id: detailsRow
+            }
+            
+            ResultsComponent{
+                id: resultsComponent
+            }
+            
+            CurrencySelector{
+                id: currencySelector
+                
+                onBaseIndexChanged: delayTimer.restart()
+                onDestinationIndexChanged: delayTimer.restart()
+            }
         }
     }
 }
