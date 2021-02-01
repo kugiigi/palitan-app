@@ -8,11 +8,6 @@ Column{
 
 	readonly property bool showCurrencyCode: settings.currencyFormatting !== 1
 	
-	anchors{
-		left: parent.left
-		right: parent.right
-	}
-	
 	RowLayout{
 		id: fromRow
 		
@@ -32,9 +27,7 @@ Column{
 			fontSizeMode: Text.HorizontalFit
 			minimumPixelSize: 10
 			Layout.fillWidth: true
-			anchors{
-				top: parent.top
-			}
+            Layout.alignment: Qt.AlignBaseline | Qt.AlignHCenter
 		}
 		Label{
 			id: codeLabel1
@@ -45,9 +38,7 @@ Column{
 			color: theme.normal.foregroundText
 			elide: Label.ElideRight
 			width: showCurrencyCode ? 30 : 10
-			anchors{
-				baseline: valueLabel.baseline
-			}
+            Layout.alignment: Qt.AlignBaseline | Qt.AlignHCenter
 		}
 	}
 	
@@ -59,7 +50,7 @@ Column{
 		spacing: 2
 		
 		
-		Label{
+		Label {
 			id: valueLabel2
 			
 			text: currency1.convert(currency2.code)
@@ -70,11 +61,10 @@ Column{
 			fontSizeMode: Text.HorizontalFit
 			minimumPixelSize: 20
 			Layout.fillWidth: true
-			anchors{
-				top: parent.top
-			}
+            Layout.alignment: Qt.AlignBaseline | Qt.AlignHCenter
 		}
-		Label{
+
+		Label {
 			id: codeLabel2
 			
 			text: currency2.code
@@ -84,9 +74,7 @@ Column{
 			color: theme.normal.positive
 			elide: Label.ElideRight
 			width: 30
-			anchors{
-				baseline: valueLabel2.baseline
-			}
+            Layout.alignment: Qt.AlignBaseline | Qt.AlignHCenter
 		}
 	}
 }

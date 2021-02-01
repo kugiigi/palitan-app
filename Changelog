@@ -1,3 +1,10 @@
+v1.7
+ - Updated splashscreenn
+ - Moved framework to 16.04.4
+ - Fixed all previous warnings and those that were introduced with Qt5.12
+ - Fixed #20: Results text is not displayed in Convert page
+ - Minor code cleanup and aliignment fixes
+
 v1.6
  - Dutch translation
  - System theme support

@@ -10,6 +10,9 @@ BasePage {
     property alias currentIndex: swipeView.currentIndex
     flickable: swipeView.currentItem.flickable
     
+    // Avoid binding loop warning
+    implicitWidth: parent.width
+    
     title: switch(currentIndex){
                 case 0:
                     i18n.tr("Favorites")
@@ -93,13 +96,6 @@ BasePage {
             }
         }
     }
-    
-    //~ DataLoadingDisplay{
-        //~ id: loadingDisplay
-        
-        //~ display: mainModels.ratesDataModel.loading
-    //~ }
-        
 
     SwipeView {
         id: swipeView

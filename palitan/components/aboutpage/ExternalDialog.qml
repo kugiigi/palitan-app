@@ -23,7 +23,7 @@ BaseDialog {
         
         Label {
             text: i18n.tr("You are about to open an external link. Do you wish to continue?")
-            anchors{
+            anchors {
                 left: parent.left
                 right: parent.right
             }
@@ -36,7 +36,7 @@ BaseDialog {
             elide: Text.ElideRight
             maximumLineCount: 2
             wrapMode: Text.Wrap
-            anchors{
+            anchors {
                 left: parent.left
                 right: parent.right
             }

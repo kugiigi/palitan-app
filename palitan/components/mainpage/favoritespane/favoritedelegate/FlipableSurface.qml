@@ -27,6 +27,7 @@ Item{
 			
 			Layout.alignment: Qt.AlignTop
 			Layout.preferredHeight: 40
+            Layout.fillWidth: true
 		}
 		
 		FlipableSurfaceContent{
@@ -34,6 +35,7 @@ Item{
 			
 			Layout.alignment: Qt.AlignTop
 			Layout.fillHeight: true
+            Layout.fillWidth: true
 		}
 		
 		Label{
@@ -41,10 +43,7 @@ Item{
 		
 			text: "1 " + currency1.code + " = " + currency1.rate(currency2.code) + " " + currency2.code
 			font.pixelSize: 10
-			anchors{
-				left: parent.left
-				right: parent.right
-			}
+			Layout.fillWidth: true
 			horizontalAlignment: Text.AlignRight
 		}
 	}

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-08 16:46+0000\n"
+"POT-Creation-Date: 2021-02-01 04:27+0000\n"
 "PO-Revision-Date: 2018-12-17 09:49+0100\n"
 "Last-Translator:Josu \n"
 "Language-Team:UBports Spanish Team \n"
@@ -18,997 +18,997 @@ msgstr ""
 "X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/Main.qml:108
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:108
 msgid "Menu"
 msgstr "Menú"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/Main.qml:137
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:11
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:137
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr "Configuración"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/Main.qml:138
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:9
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:138
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr "Acerca de"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/Main.qml:139
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/HelpPage.qml:14
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:16
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:120
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:64
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:69
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:139
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/HelpPage.qml:14
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:16
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:120
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:64
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
 msgstr "Ayuda"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:83
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:84
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:85
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:86
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:87
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:88
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:83
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:84
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:85
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:86
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:87
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:88
 msgid "Support"
 msgstr "Soporte"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:83
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:83
 msgid "Report a bug"
 msgstr "Reportar un fallo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:84
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:84
 msgid "Contact Developer"
 msgstr "Contactar con el desarrollador"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:85
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:85
 msgid "View source"
 msgstr "Ver código fuente"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:86
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:86
 msgid "Donate"
 msgstr "Donar"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:87
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:87
 msgid "View in OpenStore"
 msgstr "Ver en OpenStore"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:88
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:88
 msgid "Other apps by the developer"
 msgstr "Otras aplicaciones del desarrollador"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:89
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:89
 msgid "Developers"
 msgstr "Desarrolladores"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:89
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:89
 msgid "Main developer"
 msgstr "Desarrollador principal"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:90
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:91
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:92
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:90
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:91
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:92
 msgid "Powered by"
 msgstr "Proporcionado por"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:90
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:90
 msgid "Money formatting"
 msgstr "Formato de moneda"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:91
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:91
 msgid "Exchange rates data: 1000 requests/month only"
 msgstr "Tasa de cambio: sólo 1000 peticiones/mes"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/AboutPage.qml:92
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:92
 msgid "JSON models"
 msgstr "Modelos JSON"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/MainPage.qml:15
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:17
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:35
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:15
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:17
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:35
 msgid "Favorites"
 msgstr "Favoritos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/MainPage.qml:44
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:44
 msgid "Refresh data"
 msgstr "Actualizar datos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/MainPage.qml:52
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:52
 msgid "Data successfully updated"
 msgstr "Datos actualizados correctamente"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/MainPage.qml:54
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:54
 msgid "Failed. Please try again."
 msgstr "Error. Vuelva a intentarlo."
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:54
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:54
 msgid "Theme"
 msgstr "Tema"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:67
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:67
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "Home currency"
 msgstr "Moneda principal"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:80
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:80
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "Alternate currency"
 msgstr "Moneda alternativa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:92
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:92
 msgid "Currency format"
 msgstr "Formato de moneda"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "None"
 msgstr "Ninguno"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
 msgid "Native"
 msgstr "Nativo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:118
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:118
 msgid "Starting currencies"
 msgstr "Monedas de partida"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
 msgid "Restore from previous session"
 msgstr "Restaurar desde la sesión anterior"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
 msgid "Home currency and Alternate Currency"
 msgstr "Moneda principal y moneda alternativa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
 msgid "First and second in the list"
 msgstr "Primera y segunda de la lista"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/aboutpage/ExternalDialog.qml:10
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/ExternalDialog.qml:10
 msgid "Open external link"
 msgstr "Abrir enlace externo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/aboutpage/ExternalDialog.qml:25
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/ExternalDialog.qml:25
 msgid "You are about to open an external link. Do you wish to continue?"
 msgstr "Está a punto de abrir un enlace externo ¿Desea continuar?"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/aboutpage/IconComponent.qml:32
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/IconComponent.qml:32
 msgid "Version"
 msgstr "Versión"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/aboutpage/IconComponent.qml:41
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/aboutpage/IconComponent.qml:41
 msgid "Released under license"
 msgstr "Publicado bajo la licencia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/helppage/NavigationPane.qml:11
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/NavigationPane.qml:11
 msgid "Reach Me!"
 msgstr "¡Alcánceme!"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/helppage/NavigationPane.qml:18
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/NavigationPane.qml:18
 msgid "Cool right?"
 msgstr "Mola ¿Verdad?"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:47
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:47
 msgid "Emirati Dirham"
 msgstr "Dírham de los Emiratos Árabes Unidos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:48
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:48
 msgid "Afghanistan Afghani"
 msgstr "Afgani de Afganistan"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:49
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:49
 msgid "Albania Lek"
 msgstr "Lek albanés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:50
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:50
 msgid "Armenian Dram"
 msgstr "Dram armenio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:51
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:51
 msgid "Netherlands Antilles Guilder"
 msgstr "Florín antillano neerlandés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:52
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:52
 msgid "Angolan Kwanza"
 msgstr "Kwanza angoleño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:53
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:53
 msgid "Argentina Peso"
 msgstr "Peso argentino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:54
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:54
 msgid "Australia Dollar"
 msgstr "Dólar australiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:55
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:55
 msgid "Aruba Guilder"
 msgstr "Florín arubeño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:56
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:56
 msgid "Azerbaijan Manat"
 msgstr "Manat azerbaiyano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:57
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:57
 msgid "Bosnia and Herzegovina Convertible Marka"
 msgstr "Marco bosnioherzegovino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:58
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:58
 msgid "Barbados Dollar"
 msgstr "Dólar de Barbados"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:59
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:59
 msgid "Bangladeshi Taka"
 msgstr "Taka bangladesí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:60
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:60
 msgid "Bulgaria Lev"
 msgstr "Lev búlgaro"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:61
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:61
 msgid "Bahraini Dinar"
 msgstr "Dinar bareiní"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:62
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:62
 msgid "Burundian Franc"
 msgstr "Franco burundés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:63
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:63
 msgid "Bermuda Dollar"
 msgstr "Dólar bermudeño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:64
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:64
 msgid "Brunei Darussalam Dollar"
 msgstr "Dólar de Brunéi"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:65
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:65
 msgid "Bolivia Bolíviano"
 msgstr "Boliviano de Bolivia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:66
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:66
 msgid "Brazil Real"
 msgstr "Real brasileño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:67
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:67
 msgid "Bahamas Dollar"
 msgstr "Dólar bahameño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:68
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:68
 msgid "Bitcoin"
 msgstr "Bitcoin"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:69
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:69
 msgid "Bhutanese Ngultrum"
 msgstr "Ngultrum butanés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:70
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:70
 msgid "Botswana Pula"
 msgstr "Pula de Botswana"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:71
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:71
 msgid "Belarus Ruble"
 msgstr "Rublo bielorruso"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:72
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:72
 msgid "Belize Dollar"
 msgstr "Dólar beliceño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:73
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:73
 msgid "Canada Dollar"
 msgstr "Dólar canadiense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:74
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:74
 msgid "Congolese Franc"
 msgstr "Franco congoleño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:75
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:75
 msgid "Switzerland Franc"
 msgstr "Franco suizo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:76
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:76
 msgid "Chilean Unidad de Fomento"
 msgstr "Unidad de fomento chilena"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:77
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:77
 msgid "Chile Peso"
 msgstr "Peso chileno"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:78
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:78
 msgid "China Yuan Renminbi (Offshore)"
 msgstr "Yuan renminbi chino (extranjeros)"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:79
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:79
 msgid "China Yuan Renminbi (Onshore)"
 msgstr "Yuan renminbi chino (locales)"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:80
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:80
 msgid "Colombia Peso"
 msgstr "Peso colombiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:81
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:81
 msgid "Costa Rica Colon"
 msgstr "Colón costaricense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:82
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:82
 msgid "Cuban Convertible Peso"
 msgstr "Peso convertible cubano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:83
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:83
 msgid "Cuba Peso"
 msgstr "Peso cubano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:84
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:84
 msgid "Cape Verdean Escudo"
 msgstr "Escudo caboverdiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:85
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:85
 msgid "Czech Republic Koruna"
 msgstr "Corona Checa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:86
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:86
 msgid "Djiboutian Franc"
 msgstr "Franco yibutiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:87
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:87
 msgid "Denmark Krone"
 msgstr "Corona danesa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:88
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:88
 msgid "Dominican Republic Peso"
 msgstr "Peso de la República Dominicana"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:89
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:89
 msgid "Algerian Dinar"
 msgstr "Dinar argelino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:90
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:90
 msgid "Egypt Pound"
 msgstr "Libra egipcia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:91
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:91
 msgid "Eritrean Nakfa"
 msgstr "Nakfa de Eritrea"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:92
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:92
 msgid "Ethiopian Birr"
 msgstr "Birr etíope"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:93
 msgid "Euro Member Countries"
 msgstr "Euro"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:94
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:94
 msgid "Fiji Dollar"
 msgstr "Dólar fiyiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:95
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:95
 msgid "Falkland Islands (Malvinas) Pound"
 msgstr "Libra malvinense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:96
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:96
 msgid "United Kingdom Pound"
 msgstr "Libra esterlina"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:97
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:97
 msgid "Georgian Lari"
 msgstr "Lari georgiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:98
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:98
 msgid "Guernsey Pound"
 msgstr "Libra de Guernsey"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:99
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:99
 msgid "Ghana Cedi"
 msgstr "Cedi de Ghana"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:100
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:100
 msgid "Gibraltar Pound"
 msgstr "Libra gibraltareña"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:101
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:101
 msgid "Gambian Dalasi"
 msgstr "Dalasi de Gambia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:102
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:102
 msgid "Guinean Franc"
 msgstr "Franco guineano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:103
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:103
 msgid "Guatemala Quetzal"
 msgstr "Qetzal de Guatemala"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:104
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:104
 msgid "Guyana Dollar"
 msgstr "Dólar guyanés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:105
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:105
 msgid "Hong Kong Dollar"
 msgstr "Dólar de Hong Kong"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:106
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:106
 msgid "Honduras Lempira"
 msgstr "Lempira de Honduras"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:107
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:107
 msgid "Croatia Kuna"
 msgstr "Kuna croata"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:108
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:108
 msgid "Haitian Gourde"
 msgstr "Gourde de Haití"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:109
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:109
 msgid "Hungary Forint"
 msgstr "Forinto húngaro"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:110
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:110
 msgid "Indonesia Rupiah"
 msgstr "Rupia indonesia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:111
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:111
 msgid "Israel Shekel"
 msgstr "Nuevo séquel israelí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:112
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:112
 msgid "Isle of Man Pound"
 msgstr "Libra manesa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:113
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:113
 msgid "India Rupee"
 msgstr "Rupia india"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:114
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:114
 msgid "Iraqi Dinar"
 msgstr "Dinar iraquí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:115
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:115
 msgid "Iran Rial"
 msgstr "Rial iraní"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:116
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:116
 msgid "Iceland Krona"
 msgstr "Corona islandesa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:117
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:117
 msgid "Jersey Pound"
 msgstr "Libra de Jersey"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:118
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:118
 msgid "Jamaica Dollar"
 msgstr "Dólar jamaiquino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:119
 msgid "Jordanian Dinar"
 msgstr "Dinar jordano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:120
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:120
 msgid "Japan Yen"
 msgstr "Yen japonés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:121
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:121
 msgid "Kenyan Shilling"
 msgstr "Chelín keniano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:122
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:122
 msgid "Kyrgyzstan Som"
 msgstr "Som kirguís"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:123
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:123
 msgid "Cambodia Riel"
 msgstr "Riel camboyano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:124
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:124
 msgid "Comorian Franc"
 msgstr "Franco comorense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:125
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:125
 msgid "Korea (North) Won"
 msgstr "Won norcoreano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:126
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:126
 msgid "Korea (South) Won"
 msgstr "Won surcoerano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:127
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:127
 msgid "Kuwaiti Dinar"
 msgstr "Dinar kuwaití"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:128
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:128
 msgid "Cayman Islands Dollar"
 msgstr "Dólar de las islas Caimán"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:129
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:129
 msgid "Kazakhstan Tenge"
 msgstr "Tenge kazajo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:130
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:130
 msgid "Laos Kip"
 msgstr "Kip laosiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:131
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:131
 msgid "Lebanon Pound"
 msgstr "Libra libanesa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:132
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:132
 msgid "Sri Lanka Rupee"
 msgstr "Rupia de Sri Lanka"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:133
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:133
 msgid "Liberia Dollar"
 msgstr "Dólar liberiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:134
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:134
 msgid "Basotho Loti"
 msgstr "Loti del Reino de Lesoto"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:135
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:135
 msgid "Libyan Dinar"
 msgstr "Dinar libio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:136
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:136
 msgid "Moroccan Dirham"
 msgstr "Dirham marroquí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:137
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:137
 msgid "Moldovan Leu"
 msgstr "Leu moldavo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:138
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:138
 msgid "Malagasy Ariary"
 msgstr "Ariary malgache"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:139
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:139
 msgid "Macedonia Denar"
 msgstr "Denar macedonio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:140
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:140
 msgid "Burmese Kyat"
 msgstr "Kyat birmano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:141
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:141
 msgid "Mongolia Tughrik"
 msgstr "Tugrik mongol"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:142
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:142
 msgid "Macau Pataca"
 msgstr "Pataca macaense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:143
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:144
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:143
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:144
 msgid "Mauritanian Ouguiya"
 msgstr "Uguiya de Mauritania"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:145
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:145
 msgid "Mauritius Rupee"
 msgstr "Rupia de Mauricio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:146
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:146
 msgid "Maldivian Rufiyaa"
 msgstr "Rupia de Maldivas"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:147
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:147
 msgid "Malawian Kwacha"
 msgstr "Kwacha malauí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:148
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:148
 msgid "Mexico Peso"
 msgstr "Peso mexicano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:149
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:149
 msgid "Malaysia Ringgit"
 msgstr "Ringgit de Malasia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:150
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:150
 msgid "Mozambique Metical"
 msgstr "Metical mozanbiqueño"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:151
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:151
 msgid "Namibia Dollar"
 msgstr "Dólar namibio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:152
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:152
 msgid "Nigeria Naira"
 msgstr "Naira de Nigeria"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:153
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:153
 msgid "Nicaragua Cordoba"
 msgstr "Córdoba nicaragüense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:154
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:154
 msgid "Norway Krone"
 msgstr "Corona noruega"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:155
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:155
 msgid "Nepal Rupee"
 msgstr "Rupia nepalí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:156
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:156
 msgid "New Zealand Dollar"
 msgstr "Dólar neozelandés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:157
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:157
 msgid "Oman Rial"
 msgstr "Rial omaní"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:158
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:158
 msgid "Panama Balboa"
 msgstr "Balboa de Panamá"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:159
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:159
 msgid "Peru Sol"
 msgstr "Sol de Perú"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:160
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:160
 msgid "Papua New Guinean Kina"
 msgstr "Kina de Papúa Nueva Guinea"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:161
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:161
 msgid "Philippines Peso"
 msgstr "Peso filipino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:162
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:162
 msgid "Pakistan Rupee"
 msgstr "Rupia pakistaní"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:163
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:163
 msgid "Poland Zloty"
 msgstr "Zloty de Polonia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:164
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:164
 msgid "Paraguay Guarani"
 msgstr "Guaraní de Paraguay"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:165
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:165
 msgid "Qatar Riyal"
 msgstr "Riyal catarí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:166
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:166
 msgid "Romania Leu"
 msgstr "Leu rumano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:167
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:167
 msgid "Serbia Dinar"
 msgstr "Dinar serbio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:168
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:168
 msgid "Russia Ruble"
 msgstr "Rublo ruso"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:169
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:169
 msgid "Rwandan Franc"
 msgstr "Franco ruandés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:170
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:170
 msgid "Saudi Arabia Riyal"
 msgstr "Riyal saudí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:171
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:171
 msgid "Solomon Islands Dollar"
 msgstr "Dólar de las Islas Salomón"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:172
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:172
 msgid "Seychelles Rupee"
 msgstr "Rupia seychelense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:173
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:173
 msgid "Sudanese Pound"
 msgstr "Libra sudanesa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:174
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:174
 msgid "Sweden Krona"
 msgstr "Corona sueca"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:175
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:175
 msgid "Singapore Dollar"
 msgstr "Dólar de Singapur"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:176
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:176
 msgid "Saint Helena Pound"
 msgstr "Libra de Santa Elena"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:177
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:177
 msgid "Sierra Leonean Leone"
 msgstr "Leone de Sierra Leona"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:178
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:178
 msgid "Somalia Shilling"
 msgstr "Chelín somalí"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:179
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:179
 msgid "Suriname Dollar"
 msgstr "Dólar surinamés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:180
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:180
 msgid "South Sudanese Pound"
 msgstr "Libra sursudabesa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:181
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:182
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:181
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:182
 msgid "Sao Tomean Dobra"
 msgstr "Dobra santotomense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:183
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:183
 msgid "El Salvador Colon"
 msgstr "Colón de El Salvador"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:184
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:184
 msgid "Syria Pound"
 msgstr "Libra siria"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:185
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:185
 msgid "Swazi Lilangeni"
 msgstr "Lilangeni de Suazilandia"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:186
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:186
 msgid "Thailand Baht"
 msgstr "Baht tailandés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:187
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:187
 msgid "Tajikistani Somoni"
 msgstr "Somoni tayiko"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:188
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:188
 msgid "Turkmenistani Manat"
 msgstr "Manat turcomano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:189
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:189
 msgid "Tunisian Dinar"
 msgstr "Dinar tunecino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:190
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:190
 msgid "Tongan Pa'anga"
 msgstr "Pa'anga tongano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:191
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:191
 msgid "Turkey Lira"
 msgstr "Lira turca"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:192
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:192
 msgid "Trinidad and Tobago Dollar"
 msgstr "Dólar trinitense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:193
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:193
 msgid "Taiwan New Dollar"
 msgstr "Nuevo dólar taiwanés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:194
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:194
 msgid "Tanzanian Shilling"
 msgstr "Chelín tanzano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:195
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:195
 msgid "Ukraine Hryvnia"
 msgstr "Grivna ucraniana"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:196
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:196
 msgid "Ugandan Shilling"
 msgstr "Chelín ugandés"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:197
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:197
 msgid "United States Dollar"
 msgstr "Dólar estadounidense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:198
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:198
 msgid "Uruguay Peso"
 msgstr "Peso uruguayo"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:199
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:199
 msgid "Uzbekistan Som"
 msgstr "Som uzbeko"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:200
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:200
 msgid "Venezuela Bolívar"
 msgstr "Bolívar de Venezuela"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:201
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:201
 msgid "Venezuelan Bolívar"
 msgstr "Bolívar de Venezuela"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:202
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:202
 msgid "Viet Nam Dong"
 msgstr "Đồng vietnamita"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:203
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:203
 msgid "Ni-Vanuatu Vatu"
 msgstr "Vatu de Vanuatu"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:204
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:204
 msgid "Samoan Tala"
 msgstr "Tālā de Samoa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:205
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:205
 msgid "Central African CFA Franc BEAC"
 msgstr "Franco CFA de África Central"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:206
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:206
 msgid "Silver Ounce"
 msgstr "Onza de plata"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:207
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:207
 msgid "Gold Ounce"
 msgstr "Onza de oro"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:208
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:208
 msgid "East Caribbean Dollar"
 msgstr "Dólar del Caribe Oriental"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:209
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:209
 msgid "IMF Special Drawing Rights"
 msgstr "Derechos especiales de giro"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:210
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:210
 msgid "CFA Franc"
 msgstr "Franco CFA"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:211
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:211
 msgid "Palladium Ounce"
 msgstr "Onza de Paladio"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:212
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:212
 msgid "CFP Franc"
 msgstr "Franco CFP"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:213
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:213
 msgid "Platinum Ounce"
 msgstr "Onza de Platino"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:214
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:214
 msgid "Yemen Rial"
 msgstr "Rial Yemení"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:215
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:215
 msgid "South Africa Rand"
 msgstr "Rand Sudafricano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:216
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:216
 msgid "Zambian Kwacha"
 msgstr "Kwacha Zambiano"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:217
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:217
 msgid "Zimbabwe Dollar"
 msgstr "Dólar Zimbabuense"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:29
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:46
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:29
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:46
 msgid "Ascending"
 msgstr "Ascentente"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:30
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:49
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:30
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:49
 msgid "Descending"
 msgstr "Descendente"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:40
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:25
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:31
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:40
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:25
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:31
 msgid "Name"
 msgstr "Nombre"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:41
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:28
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/listmodels/SettingsModels.qml:41
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:28
 msgid "Code"
 msgstr "Código"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:20
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:42
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:20
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:42
 msgid "Convert"
 msgstr "Convertir"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:74
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:74
 msgid "Add to favorites"
 msgstr "Añadir a Favoritos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:82
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:16
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:82
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:16
 msgid "Added to your favorites"
 msgstr "Añadido a sus favoritos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:84
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:18
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:84
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:18
 msgid "Already in your favorites"
 msgstr "Ya se encuentra en sus favoritos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:98
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:58
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:98
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:58
 msgid "Swap"
 msgstr "Intercambiar"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:109
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:109
 #, fuzzy
 msgid "Copy result"
 msgstr "Sin resultados"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/DataLoadingDisplay.qml:40
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/DataLoadingDisplay.qml:40
 msgid "Trying to update data"
 msgstr "Intentando actualizar datos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:29
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:29
 msgid "Add"
 msgstr "Añadir"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:40
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:22
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:40
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:22
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/SortDialog.qml:8
 msgid "Sort"
 msgstr "Ordenar"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:43
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:43
 msgid "Default"
 msgstr "Por defecto"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:185
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:185
 msgid "You don't have any favorites"
 msgstr "No tiene ningún favorito"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:15
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:49
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:15
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:49
 msgid "Full View"
 msgstr "Vista completa"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:37
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:43
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:37
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:43
 msgid "Asc"
 msgstr "Asc"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:40
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:40
 msgid "Desc"
 msgstr "Desc"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/settingspage/CustomPrecision.qml:13
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/settingspage/CustomPrecision.qml:13
 msgid "Custom max precision"
 msgstr "Máxima precisión personalizada"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/settingspage/CustomPrecision.qml:77
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/settingspage/CustomPrecision.qml:77
 msgid "i.e."
 msgstr "p. ej."
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/helppage/detailspane/PaneFooter.qml:14
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/detailspane/PaneFooter.qml:14
 msgid "Previous"
 msgstr "Anterior"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/helppage/detailspane/PaneFooter.qml:35
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/helppage/detailspane/PaneFooter.qml:35
 msgid "Next"
 msgstr "SIguiente"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/convertpane/DataDetails.qml:21
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/DataDetails.qml:21
 msgid "Last Updated"
 msgstr "Última Actualización"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/convertpane/DataDetails.qml:33
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/DataDetails.qml:33
 msgid "Source"
 msgstr "Fuente"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:8
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/AddDialog.qml:8
 msgid "Add new favorite"
 msgstr "Añadir nuevo favorito"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
 msgid "Unfavorite"
 msgstr "Quitar de favoritos"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
 msgid "Deleted"
 msgstr "Borrado"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
 msgid "Are you sure you want to remove this from your favorites?"
 msgstr "¿Está seguro de eliminarlo de los favoritos?"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:18
 msgid "By"
 msgstr "Por"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/fullviewpane/sortdialog/DialogContent.qml:27
 msgid "Order"
 msgstr ""
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "No results"
 msgstr "Sin resultados"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:20
 msgid "Type in the input box to search"
 msgstr "Escriba en el cuadro de texto para buscar"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/convertpane/currencyselector/finddialog/DialogContent.qml:73
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: /home/kugi/Nextcloud/UbuntuHomeDesktop/Developments/Palitan/palitan-app/build/aarch64-linux-gnu/app/palitan/palitan.desktop.h:1
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/arm-linux-gnueabihf/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr "Palitan"
