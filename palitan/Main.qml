@@ -14,7 +14,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.7"
+    readonly property string current_version: "1.8"
     readonly property var suruTheme: switch(settings.currentTheme) {
             case "System":
                 undefined
@@ -172,6 +172,7 @@ ApplicationWindow {
         onLoaded: {
             mainView.visible = true
             stackView.replace(item)
+            item.focusTextField()
         }
     }  
     
