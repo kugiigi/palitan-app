@@ -40,6 +40,10 @@ BasePage {
             break
         }
     }
+
+    function focusTextField() {
+        valueTextField.forceActiveFocus()
+    }
         
     BaseAction{
         id: updateDataAction
@@ -160,6 +164,7 @@ BasePage {
         horizontalAlignment: TextInput.AlignHCenter
         text: "1"
         rightPadding: pasteButton.width + 5
+        focus: true
         
         onTextChanged: {
             delayTimer.restart()

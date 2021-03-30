@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-01 07:41+0000\n"
+"POT-Creation-Date: 2021-03-30 18:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,15 +106,15 @@ msgstr ""
 msgid "Favorites"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:47
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:51
 msgid "Refresh data"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:55
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:59
 msgid "Data successfully updated"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:57
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:61
 msgid "Failed. Please try again."
 msgstr ""
 

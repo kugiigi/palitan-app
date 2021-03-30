@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-02-01 04:27+0000\n"
+"POT-Creation-Date: 2021-03-30 18:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,21 +100,21 @@ msgstr "Données sur les taux d'échange : 1000 requêtes par mois uniquement"
 msgid "JSON models"
 msgstr "Modèles JSON"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:15
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:18
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:17
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/TabFooter.qml:35
 msgid "Favorites"
 msgstr "Favoris"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:44
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:51
 msgid "Refresh data"
 msgstr "Actualiser les données"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:52
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:59
 msgid "Data successfully updated"
 msgstr "Données mises à jour avec succès"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:54
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/MainPage.qml:61
 msgid "Failed. Please try again."
 msgstr "Échec. Veuillez réessayer."
 
@@ -976,15 +976,15 @@ msgstr "Source"
 msgid "Add new favorite"
 msgstr "Ajouter un nouveau favori"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:25
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:26
 msgid "Unfavorite"
 msgstr "Enlever des favoris"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:30
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:31
 msgid "Deleted"
 msgstr "Enlevé"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:34
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/favoritespane/DeleteDialog.qml:42
 msgid "Are you sure you want to remove this from your favorites?"
 msgstr "Êtes-vous sûr(e) de vouloir enlever ceci de vos favoris ?"
 
