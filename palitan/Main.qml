@@ -101,7 +101,8 @@ ApplicationWindow {
 
     header: ApplicationHeader{
         id: applicationHeader
-        
+
+        expandable: mainView.height >= units.gu(60)
         flickable: stackView.currentItem.flickable
         leftActions: BaseAction{
             visible: drawerLoader.visible

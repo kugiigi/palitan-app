@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-30 18:01+0000\n"
+"POT-Creation-Date: 2022-07-25 05:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,21 +17,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:108
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:109
 msgid "Menu"
 msgstr "Menu"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:137
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:138
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr "Paramètres"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:138
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:139
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr "À propos"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:139
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:140
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/HelpPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:16
@@ -1008,6 +1008,6 @@ msgstr "Écrivez dans le champ de saisie pour rechercher"
 msgid "Cancel"
 msgstr "Annuler"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/arm-linux-gnueabihf/app/palitan/palitan.desktop.h:1
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/aarch64-linux-gnu/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr "Palitan"

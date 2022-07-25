@@ -170,6 +170,8 @@ BasePage {
             delayTimer.restart()
         }
         
+        onActiveFocusChanged: if (activeFocus) selectAll()
+        
         Button {
             id: pasteButton
             
