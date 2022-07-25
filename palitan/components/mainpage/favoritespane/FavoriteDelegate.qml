@@ -1,4 +1,4 @@
-import QtQuick 2.9
+import QtQuick 2.12
 import QtQuick.Controls 2.2
 import Ubuntu.Components 1.3 as UT
 import "favoritedelegate"
@@ -11,7 +11,7 @@ Rectangle{
     property real baseValue
     property real destinationValue
     
-    color: "transparent"
+    color: hoverHandler.hovered || mouseArea.pressed ? theme.normal.foreground : "transparent"
     radius: 10
     height: 150
     anchors{
@@ -23,6 +23,10 @@ Rectangle{
     border{
         width: 3
         color: theme.normal.foreground
+    }
+
+    HoverHandler {
+        id: hoverHandler
     }
     
     Flipable {
@@ -66,6 +70,18 @@ Rectangle{
     
         transitions: Transition {
             UT.UbuntuNumberAnimation { target: rotation; property: "angle"; duration: UT.UbuntuAnimation.BriskDuration }
+        }
+
+        MouseArea {
+            id: mouseArea
+
+            anchors.fill: parent
+            onClicked: {
+                var code1 = flipable.flipped ? currency2.code : currency1.code
+				var code2 = flipable.flipped ? currency1.code : currency2.code
+				
+				setConvertPane(code1, code2)
+            }
         }
     }   
         

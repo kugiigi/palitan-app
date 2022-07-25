@@ -1,6 +1,8 @@
 v1.9
  - Select text when focusing on the input field
  - Disable header expansion when app height is not tall enough
+ - Increased required Qt version to 5.12
+ - Move selecting a favorite from a side button to the whole item.
 
 v1.8
  - Norwegian translation
