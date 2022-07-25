@@ -193,7 +193,6 @@ BasePane {
         id: listView
         
         visible: model.length > 0
-        //~ snapMode: ListView.SnapToItem 
         boundsBehavior: Flickable.DragOverBounds
         
         anchors{
