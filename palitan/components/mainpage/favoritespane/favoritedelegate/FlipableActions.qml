@@ -42,15 +42,5 @@ Rectangle{
 			iconName: "user-switch"
 			onClicked: flipable.flipped = !flipable.flipped
 		}
-		
-		FlipableActionButton{
-			iconName: "next"
-			onClicked: {
-				var code1 = flipable.flipped ? currency2.code : currency1.code
-				var code2 = flipable.flipped ? currency1.code : currency2.code
-				
-				setConvertPane(code1, code2)
-			}
-		}
 	}
 }

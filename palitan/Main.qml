@@ -14,7 +14,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "1.8"
+    readonly property string current_version: "1.9"
     readonly property var suruTheme: switch(settings.currentTheme) {
             case "System":
                 undefined
@@ -101,7 +101,8 @@ ApplicationWindow {
 
     header: ApplicationHeader{
         id: applicationHeader
-        
+
+        expandable: mainView.height >= units.gu(60)
         flickable: stackView.currentItem.flickable
         leftActions: BaseAction{
             visible: drawerLoader.visible

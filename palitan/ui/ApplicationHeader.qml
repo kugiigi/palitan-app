@@ -17,6 +17,7 @@ ToolBar {
     property list<BaseAction> rightActions
     property Flickable flickable
     property bool expanded: false
+    property bool expandable: true
     
     //WORKAROUND: Label "HorizontalFit" still uses the height of the unadjusted font size.
     implicitHeight: defaultHeight
@@ -43,35 +44,39 @@ ToolBar {
         }
     }
     
+    onExpandableChanged: if (!expandable) resetHeight()
+    
     Loader {
         id: flickableLoader
-        
+
         active: flickable
         asynchronous: true
         sourceComponent: Connections{
             target: flickable
             
             onVerticalOvershootChanged: {
-                if(target.verticalOvershoot < 0){
-                    if(applicationHeader.height < expansionThreshold){
-                        applicationHeader.height = 50 - target.verticalOvershoot
-                    }
-                    
-                    if(applicationHeader.height >= expansionThreshold){
-                        expanded = true
+                if (applicationHeader.expandable) {
+                    if (target.verticalOvershoot < 0) {
+                        if (applicationHeader.height < expansionThreshold) {
+                            applicationHeader.height = 50 - target.verticalOvershoot
+                        }
+                        
+                        if (applicationHeader.height >= expansionThreshold) {
+                            expanded = true
+                        }
                     }
                 }
             }
             
-            onContentYChanged:{
-                if(target.contentY > 0 && expanded && !target.dragging){
+            onContentYChanged: {
+                if (target.contentY > 0 && expanded && !target.dragging) {
                     resetHeight()
                 }
             }
         }
     }  
     
-    UT.UbuntuNumberAnimation on height{
+    UT.UbuntuNumberAnimation on height {
         id: expandAnimation
         
         running: expanded
@@ -82,7 +87,7 @@ ToolBar {
     }
     
     
-    UT.UbuntuNumberAnimation on height{
+    UT.UbuntuNumberAnimation on height {
         id: collapseAnimation
         
         running: (!expanded || !flickable)
@@ -99,21 +104,21 @@ ToolBar {
         spacing: 10
         anchors.fill: parent
         
-        HeaderActions{
+        HeaderActions {
             id: leftHeaderActions
             
             model: leftActions
             Layout.fillHeight: true
         }
         
-        HeaderTitle{
+        HeaderTitle {
             id: headerTitle
             
             text: stackView.currentItem ? stackView.currentItem.title : "Palitan"
             Layout.fillWidth: true
         }
         
-        HeaderActions{
+        HeaderActions {
             id: rightHeaderActions
             
             model: rightActions.length === 1 ? rightActions : 0
