@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-30 06:13+0000\n"
+"POT-Creation-Date: 2022-12-30 08:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgstr "À propos"
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/HelpPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:16
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:120
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:121
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
@@ -912,6 +912,10 @@ msgstr "Inverser"
 msgid "Copy result"
 msgstr "Copier le résultat"
 
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:114
+msgid "Result copied"
+msgstr ""
+
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/DataLoadingDisplay.qml:40
 msgid "Trying to update data"
 msgstr "Tentative de mise à jour des données"
@@ -1008,6 +1012,6 @@ msgstr "Écrivez dans le champ de saisie pour rechercher"
 msgid "Cancel"
 msgstr "Annuler"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/aarch64-linux-gnu/app/palitan/palitan.desktop.h:1
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/x86_64-linux-gnu/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr "Palitan"
