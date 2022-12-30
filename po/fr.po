@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-25 15:03+0000\n"
+"POT-Creation-Date: 2022-12-30 08:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,25 +17,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:109
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:113
 msgid "Menu"
 msgstr "Menu"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:138
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:142
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr "Paramètres"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:139
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:143
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr "À propos"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:140
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:144
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/HelpPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:16
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:120
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:121
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
@@ -911,6 +911,10 @@ msgstr "Inverser"
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:109
 msgid "Copy result"
 msgstr "Copier le résultat"
+
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:114
+msgid "Result copied"
+msgstr ""
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/DataLoadingDisplay.qml:40
 msgid "Trying to update data"

@@ -111,6 +111,7 @@ BasePane {
     
         onTrigger:{
             UT.Clipboard.push(resultMimeData)
+            tooltip.display(i18n.tr("Result copied"), isBottom ? "BOTTOM" : "TOP")
         }
     }
     
@@ -161,8 +162,8 @@ BasePane {
     
     UT.MimeData {
         id: resultMimeData
-        
-        text: baseCurrency.convertedValue
+
+        text: baseCurrency && destinationCurrency ? baseCurrency.convertedValue : ""
     }
     
     Item {
@@ -178,11 +179,14 @@ BasePane {
             DataDetails{
                 id: detailsRow
             }
-            
+
             ResultsComponent{
                 id: resultsComponent
+                onResultClicked: {
+                    copyAction.trigger(false)
+                }
             }
-            
+
             CurrencySelector{
                 id: currencySelector
                 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-25 15:03+0000\n"
+"POT-Creation-Date: 2022-12-30 08:47+0000\n"
 "PO-Revision-Date: 2018-12-17 09:49+0100\n"
 "Last-Translator:Josu \n"
 "Language-Team:UBports Spanish Team \n"
@@ -18,25 +18,25 @@ msgstr ""
 "X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:109
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:113
 msgid "Menu"
 msgstr "Menú"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:138
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:142
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:11
 msgid "Settings"
 msgstr "Configuración"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:139
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:143
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:9
 msgid "About"
 msgstr "Acerca de"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:140
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/Main.qml:144
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/AboutPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/HelpPage.qml:14
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:16
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:120
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:121
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FavoritesPane.qml:64
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/FullViewPane.qml:69
 msgid "Help"
@@ -912,6 +912,10 @@ msgstr "Intercambiar"
 #, fuzzy
 msgid "Copy result"
 msgstr "Sin resultados"
+
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/ConvertPane.qml:114
+msgid "Result copied"
+msgstr ""
 
 #: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/components/mainpage/DataLoadingDisplay.qml:40
 msgid "Trying to update data"

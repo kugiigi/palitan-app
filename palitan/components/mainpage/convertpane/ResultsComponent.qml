@@ -1,4 +1,4 @@
-import QtQuick 2.9
+import QtQuick 2.12
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
 import Ubuntu.Components 1.3 as UT
@@ -10,7 +10,9 @@ Item{
     property alias fromLabel: fromLabel
     property alias resultLabel: resultLabel
     property alias exchangeRatesLabel: exchangeRatesLabel
-    
+
+    signal resultClicked
+
     Layout.fillHeight: true
     Layout.fillWidth: true
     
@@ -46,6 +48,12 @@ Item{
         
         ResultLabel{
             id: resultLabel
+            TapHandler {
+                acceptedButtons: Qt.LeftButton | Qt.RightButton
+                onSingleTapped: {
+                    results.resultClicked()
+                }
+            }
         }
         
             
