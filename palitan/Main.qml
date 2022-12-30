@@ -1,8 +1,8 @@
 import QtQuick 2.9
-import Ubuntu.Components 1.3
+import Lomiri.Components 1.3
 import QtQuick.Controls.Suru 2.2
-import Ubuntu.Components.Themes.Ambiance 1.3 as Ambiance
-import Ubuntu.Components.Themes.SuruDark 1.3 as SuruDark
+import Lomiri.Components.Themes.Ambiance 1.3 as Ambiance
+import Lomiri.Components.Themes.SuruDark 1.3 as SuruDark
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
 import "components/listmodels"
