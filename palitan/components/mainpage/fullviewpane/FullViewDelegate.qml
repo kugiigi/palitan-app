@@ -1,4 +1,4 @@
-import QtQuick 2.9
+import QtQuick 2.12
 import QtQuick.Controls 2.2
 import Ubuntu.Components 1.3 as UT
 import "../fullviewpane/fullviewdelegate"
@@ -11,19 +11,23 @@ Rectangle{
     property real baseValue
     property real destinationValue
     property bool flippedGlobal: false
-    
-    color: "transparent"
+
+    color: hoverHandler.hovered || mouseArea.pressed ? theme.normal.foreground : "transparent"
     radius: 5
     height: 50
-    anchors{
+    anchors {
         left: parent.left
         leftMargin: 10
         right: parent.right
         rightMargin: 10
     }
-    border{
+    border {
         width: 3
         color: theme.normal.foreground
+    }
+
+    HoverHandler {
+        id: hoverHandler
     }
     
     onBaseValueChanged: currency1.value = baseValue
@@ -70,6 +74,18 @@ Rectangle{
     
         transitions: Transition {
             UT.UbuntuNumberAnimation { target: rotation; property: "angle"; duration: UT.UbuntuAnimation.BriskDuration }
+        }
+
+        MouseArea {
+            id: mouseArea
+
+            anchors.fill: parent
+            onClicked: {
+                var code1 = flipable.flipped ? currency2.code : currency1.code
+				var code2 = flipable.flipped ? currency1.code : currency2.code
+
+				setConvertPane(code1, code2)
+            }
         }
     }   
         

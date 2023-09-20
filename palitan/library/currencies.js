@@ -1,4 +1,3 @@
-//~ .pragma library
 .import "accounting.js"  as Accounting
 
 var money = function(data, moneyValue){

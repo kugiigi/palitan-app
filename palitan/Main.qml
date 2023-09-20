@@ -14,7 +14,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "2.0"
+    readonly property string current_version: "2.1"
     readonly property var suruTheme: switch(settings.currentTheme) {
             case "System":
                 if (Theme.name == "Ubuntu.Components.Themes.SuruDark") {
@@ -106,13 +106,13 @@ ApplicationWindow {
     header: ApplicationHeader{
         id: applicationHeader
 
-        expandable: mainView.height >= units.gu(60)
+        expandable: mainView.height >= units.gu(60) && settings.enableHeaderExpand
         flickable: stackView.currentItem.flickable
         leftActions: BaseAction{
             visible: drawerLoader.visible
             text: i18n.tr("Menu")
             iconName: stackView.depth > 1 ? "back" : "navigation-menu"
-            
+
             onTrigger:{
                 if (stackView.depth > 1) {
                         stackView.pop()
