@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-30 12:13+0000\n"
+"POT-Creation-Date: 2023-09-20 07:55+0000\n"
 "PO-Revision-Date: 2020-07-07 13:36+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: \n"
@@ -1012,6 +1012,6 @@ msgstr "Typ een zoekopdracht in het zoekvak"
 msgid "Cancel"
 msgstr "Annuleren"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/x86_64-linux-gnu/app/palitan/palitan.desktop.h:1
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/aarch64-linux-gnu/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr "Palitan"
