@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 07:55+0000\n"
+"POT-Creation-Date: 2023-09-20 08:16+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,41 +122,45 @@ msgstr ""
 msgid "Theme"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:67
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:64
+msgid "Header expansion"
+msgstr ""
+
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:82
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "Home currency"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:80
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:95
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "Alternate currency"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:92
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:107
 msgid "Currency format"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "None"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "Native"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:118
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:133
 msgid "Starting currencies"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:134
 msgid "Restore from previous session"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:134
 msgid "Home currency and Alternate Currency"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:134
 msgid "First and second in the list"
 msgstr ""
 
@@ -1011,6 +1015,6 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/aarch64-linux-gnu/app/palitan/palitan.desktop.h:1
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/x86_64-linux-gnu/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr ""

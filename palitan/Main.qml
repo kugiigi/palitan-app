@@ -106,13 +106,13 @@ ApplicationWindow {
     header: ApplicationHeader{
         id: applicationHeader
 
-        expandable: mainView.height >= units.gu(60)
+        expandable: mainView.height >= units.gu(60) && settings.enableHeaderExpand
         flickable: stackView.currentItem.flickable
         leftActions: BaseAction{
             visible: drawerLoader.visible
             text: i18n.tr("Menu")
             iconName: stackView.depth > 1 ? "back" : "navigation-menu"
-            
+
             onTrigger:{
                 if (stackView.depth > 1) {
                         stackView.pop()
