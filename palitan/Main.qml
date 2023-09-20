@@ -14,7 +14,7 @@ ApplicationWindow {
     id: mainView
 
     readonly property QtObject drawer: drawerLoader.item
-    readonly property string current_version: "2.0"
+    readonly property string current_version: "2.1"
     readonly property var suruTheme: switch(settings.currentTheme) {
             case "System":
                 if (Theme.name == "Ubuntu.Components.Themes.SuruDark") {
