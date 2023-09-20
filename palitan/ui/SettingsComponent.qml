@@ -14,7 +14,8 @@ Item{
     property alias startingCurrencies: settings.startingCurrencies
     property alias currencyFormatting: settings.currencyFormatting
     property alias customPrecision: settings.customPrecision
-    
+    property alias enableHeaderExpand: settings.enableHeaderExpand
+
     //Saved data
     property alias previousBaseCurrency: settings.previousBaseCurrency
     property alias previousDestinationCurrency: settings.previousDestinationCurrency
@@ -52,5 +53,7 @@ Item{
         
         property string ratesAsOfDate: ""
         property string ratesCacheJSON: ""
+
+        property bool enableHeaderExpand: true
     }
 }

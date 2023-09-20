@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-30 08:47+0000\n"
+"POT-Creation-Date: 2023-09-20 10:58+0000\n"
 "PO-Revision-Date: 2020-07-07 13:36+0200\n"
 "Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
 "Language-Team: \n"
@@ -123,41 +123,45 @@ msgstr "Mislukt. Probeer het opnieuw."
 msgid "Theme"
 msgstr "Thema"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:67
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:64
+msgid "Header expansion"
+msgstr ""
+
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:82
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "Home currency"
 msgstr "Valuta van thuisland"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:80
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:95
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "Alternate currency"
 msgstr "Alternatieve valuta"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:92
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:107
 msgid "Currency format"
 msgstr "Valuta-opmaak"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "None"
 msgstr "Geen"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:93
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:108
 msgid "Native"
 msgstr "Inheems"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:118
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:133
 msgid "Starting currencies"
 msgstr "Bij opstarten"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:134
 msgid "Restore from previous session"
 msgstr "Vorige sessie herstellen"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:134
 msgid "Home currency and Alternate Currency"
 msgstr "Valuta van thuisland en alternatieve tonen"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:119
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/palitan/ui/SettingsPage.qml:134
 msgid "First and second in the list"
 msgstr "Eerste en tweede op de lijst"
 

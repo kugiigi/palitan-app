@@ -59,6 +59,21 @@ BasePage {
                         settings.currentTheme = model.get(currentIndex).text
                 }
             }
+
+            CheckBoxItem {
+                text: i18n.tr("Header expansion")
+                checkState: settings.enableHeaderExpand ? Qt.Checked : Qt.Unchecked
+                onCheckStateChanged: {
+                    switch (checkState) {
+                        case Qt.Checked:
+                            settings.enableHeaderExpand = true
+                            break;
+                        case Qt.Unchecked:
+                            settings.enableHeaderExpand = false
+                            break;
+                    }
+                }
+            }
             
             ComboBoxItem{       
                 id: homeCurrencySettings

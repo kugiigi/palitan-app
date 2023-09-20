@@ -1,3 +1,8 @@
+v2.1
+ - Fix on-screen keyboard height
+ - Ability to enable or disable page header expansion
+ - You can now select an item from Full View to set the current currencies
+
 v2.0
  - Initial Ubuntu 20.04 (Focal) support
  - Change theme in real time when set to system theme
