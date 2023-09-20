@@ -84,12 +84,19 @@ BasePane {
             sortDialog.openNormal()
         }
     }
+
+    function setConvertPane(code1, code2){
+        convertPane.setCurrencies(code1, code2)
+        
+        //Switch to Convert pane
+        mainPage.goTo("CONVERT")
+    }
     
     ListView {
         id: listView
         
         boundsBehavior: Flickable.DragOverBounds
-        //~ snapMode: ListView.SnapToItem 
+        snapMode: ListView.SnapToItem 
         anchors{
             top: parent.top
             topMargin: 10
