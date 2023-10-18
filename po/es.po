@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-20 11:03+0000\n"
+"POT-Creation-Date: 2023-10-18 07:26+0000\n"
 "PO-Revision-Date: 2018-12-17 09:49+0100\n"
 "Last-Translator:Josu \n"
 "Language-Team:UBports Spanish Team \n"
@@ -1017,6 +1017,6 @@ msgstr "Escriba en el cuadro de texto para buscar"
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/aarch64-linux-gnu/app/palitan/palitan.desktop.h:1
+#: /home/kugiigi/Documents/Development/Palitan/palitan-app/build/arm-linux-gnueabihf/app/palitan/palitan.desktop.h:1
 msgid "Palitan"
 msgstr "Palitan"
