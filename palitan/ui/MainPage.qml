@@ -176,8 +176,7 @@ BasePage {
             id: pasteButton
             
             focusPolicy: Qt.NoFocus
-            // TODO: Check why false intially even when there's text in the clipboard
-            // visible: valueTextField.canPaste
+            visible: UT.Clipboard.data.text !== "" && UT.Clipboard.data.text !== "0"
             width: 30
         
             flat: true
