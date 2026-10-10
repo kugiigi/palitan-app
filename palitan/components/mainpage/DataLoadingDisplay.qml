@@ -1,7 +1,7 @@
 import QtQuick 2.9
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
-import Ubuntu.Components 1.3 as UT
+import Lomiri.Components 1.3 as UT
 
 Item{
     property bool display: false
@@ -13,7 +13,7 @@ Item{
     
     Rectangle{
         z: -1
-        color: UT.UbuntuColors.inkstone //theme.normal.raisedText
+        color: UT.LomiriColors.inkstone //theme.normal.raisedText
         anchors.fill: parent
         opacity: 0.7
     }
@@ -52,13 +52,13 @@ Item{
         onTriggered: hideAnimation.restart()
     }
 
-    UT.UbuntuNumberAnimation on opacity{
+    UT.LomiriNumberAnimation on opacity{
         id: hideAnimation
         
         running: false
         from: 1
         to: 0
-        easing: UT.UbuntuAnimation.StandardEasing
-        duration: UT.UbuntuAnimation.SlowDuration
+        easing: UT.LomiriAnimation.StandardEasing
+        duration: UT.LomiriAnimation.SlowDuration
     }
 }
