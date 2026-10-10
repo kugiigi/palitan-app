@@ -60,7 +60,7 @@ ColumnLayout{
             id: findTextField
             
             Layout.fillWidth: true
-            placeholderText: "Find..."
+            placeholderText: i18n.tr("Find...")
             font.pixelSize: 15
             inputMethodHints: Qt.ImhNoPredictiveText
             
