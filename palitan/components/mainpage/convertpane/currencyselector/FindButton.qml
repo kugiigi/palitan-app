@@ -1,5 +1,5 @@
 import QtQuick.Controls 2.2
-import Ubuntu.Components 1.3 as UT
+import Lomiri.Components 1.3 as UT
 
 ToolButton{
     id: findButton

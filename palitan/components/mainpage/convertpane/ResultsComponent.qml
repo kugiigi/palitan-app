@@ -1,7 +1,7 @@
 import QtQuick 2.12
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
-import Ubuntu.Components 1.3 as UT
+import Lomiri.Components 1.3 as UT
 import "resultscomponent"
 
 Item{
@@ -21,14 +21,14 @@ Item{
         showAnimation.restart()
     } 
     
-    UT.UbuntuNumberAnimation on opacity{
+    UT.LomiriNumberAnimation on opacity{
         id: showAnimation
         
         running: false
         from: 0
         to: 1
-        easing: UT.UbuntuAnimation.StandardEasing
-        duration: UT.UbuntuAnimation.SlowDuration
+        easing: UT.LomiriAnimation.StandardEasing
+        duration: UT.LomiriAnimation.SlowDuration
     }
 
     ColumnLayout{
