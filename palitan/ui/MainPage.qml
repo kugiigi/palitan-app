@@ -18,7 +18,7 @@ BasePage {
                     i18n.tr("Favorites")
                 break;
                 case 1:
-                    convertPane.baseCurrency.name + " to " + convertPane.destinationCurrency.name
+                    convertPane.baseCurrency.name + i18n.tr(" to ") + convertPane.destinationCurrency.name
                 break;
                 case 2:
                     convertPane.baseCurrency.name
