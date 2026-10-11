@@ -1,7 +1,7 @@
 import QtQuick 2.9
 import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
-import Ubuntu.Components 1.3 as UT
+import Lomiri.Components 1.3 as UT
 import "../components/common"
 import "../components/applicationheader"
 
@@ -76,25 +76,25 @@ ToolBar {
         }
     }  
     
-    UT.UbuntuNumberAnimation on height {
+    UT.LomiriNumberAnimation on height {
         id: expandAnimation
         
         running: expanded
         from: height
         to: maxHeight
-        easing: UT.UbuntuAnimation.StandardEasing
-        duration: UT.UbuntuAnimation.BriskDuration
+        easing: UT.LomiriAnimation.StandardEasing
+        duration: UT.LomiriAnimation.BriskDuration
     }
     
     
-    UT.UbuntuNumberAnimation on height {
+    UT.LomiriNumberAnimation on height {
         id: collapseAnimation
         
         running: (!expanded || !flickable)
         from: height
         to: defaultHeight
-        easing: UT.UbuntuAnimation.StandardEasing
-        duration: UT.UbuntuAnimation.BriskDuration
+        easing: UT.LomiriAnimation.StandardEasing
+        duration: UT.LomiriAnimation.BriskDuration
         
         onRunningChanged: if(!running) expanded = false
     }

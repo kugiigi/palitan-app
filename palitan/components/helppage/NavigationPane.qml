@@ -1,6 +1,6 @@
 import QtQuick 2.9
 import QtQuick.Controls 2.2
-import Ubuntu.Components 1.3 as UT
+import Lomiri.Components 1.3 as UT
 
 DetailsPane{
     id: navigationPane
@@ -22,7 +22,7 @@ DetailsPane{
         id: edgeHint
         
         visible: currentIndex === 1
-        color: UT.UbuntuColors.blue
+        color: UT.LomiriColors.blue
         height: 10
         anchors{
             left: parent.left
@@ -38,8 +38,8 @@ DetailsPane{
             alwaysRunToEnd: true
             property: "opacity"
             to: 1
-            duration: UT.UbuntuAnimation.SlowDuration
-            easing: UT.UbuntuAnimation.StandardEasing
+            duration: UT.LomiriAnimation.SlowDuration
+            easing: UT.LomiriAnimation.StandardEasing
             onStopped: hideAnimation.start()
         }
         
@@ -50,8 +50,8 @@ DetailsPane{
              alwaysRunToEnd: true
              property: "opacity"
              to: 0
-             duration: UT.UbuntuAnimation.SlowDuration
-             easing: UT.UbuntuAnimation.StandardEasing
+             duration: UT.LomiriAnimation.SlowDuration
+             easing: UT.LomiriAnimation.StandardEasing
              onStopped: appearAnimation.start()
          }
     }
