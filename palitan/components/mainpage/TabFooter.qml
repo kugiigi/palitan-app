@@ -5,9 +5,14 @@ import "tabfooter"
         
 TabBar {
     id: tabBar
-    
+
+    property real maxWidth: 600
+    readonly property real sidePadding: width > maxWidth ? (width - maxWidth) / 2 : 0
+
     visible: !keyboard.target.visible
     currentIndex: 1
+    leftPadding: sidePadding
+    rightPadding: sidePadding
     
     //WORKAROUND: For issue when layout is wrong on width change
     onWidthChanged: {

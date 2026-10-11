@@ -87,6 +87,21 @@ BasePage {
                     settings.homeCurrency = model.get(currentIndex).code
                 }
             }
+
+            CheckBoxItem {
+                text: i18n.tr("Use home currency format for the input")
+                checkState: settings.useHomeCurrencyInputFormat ? Qt.Checked : Qt.Unchecked
+                onCheckStateChanged: {
+                    switch (checkState) {
+                        case Qt.Checked:
+                            settings.useHomeCurrencyInputFormat = true
+                            break;
+                        case Qt.Unchecked:
+                            settings.useHomeCurrencyInputFormat = false
+                            break;
+                    }
+                }
+            }
             
             ComboBoxItem{       
                 id: alternateCurrencySettings

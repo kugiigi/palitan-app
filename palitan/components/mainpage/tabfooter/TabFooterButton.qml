@@ -7,41 +7,43 @@ TabButton {
     id: tabFooterButton
     
     property alias iconName: icon.name
-    
+
+    padding: 0
+    //topPadding: 0
+
     anchors{
         top: parent.top
         bottom: parent.bottom
     }
 
-    contentItem: GridLayout {
-        columns: 2
-        anchors{
-            top: parent.top
-            bottom: parent.bottom
-            horizontalCenter: parent.horizontalCenter
-        }
-        
-        UT.Icon {
-            id: icon
-            
-            Layout.preferredWidth: 20
-            Layout.preferredHeight: Layout.preferredWidth
-            Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-            color: checked ? theme.normal.foregroundText : theme.disabled.foregroundText
-        }
-        
-        Label {
-            id: label
-            
+    contentItem: ColumnLayout {
+        ColumnLayout {
+            Layout.alignment: Qt.AlignCenter
             Layout.fillWidth: true
-            text: tabFooterButton.text
-            horizontalAlignment: Text.AlignHCenter
-            verticalAlignment: Text.AlignVCenter
-            visible: tabFooterButton.width > 110 //!truncated
-            elide: Text.ElideRight
-            maximumLineCount: 1
-            font.pixelSize: 15
-            color: checked ? theme.normal.foregroundText : theme.disabled.foregroundText
+            spacing: 2
+
+            UT.Icon {
+                id: icon
+                
+                Layout.preferredWidth: 20
+                Layout.preferredHeight: Layout.preferredWidth
+                Layout.alignment: Qt.AlignCenter
+                color: checked ? theme.normal.foregroundText : theme.disabled.foregroundText
+            }
+            
+            Label {
+                id: label
+                
+                Layout.fillWidth: true
+                text: tabFooterButton.text
+                horizontalAlignment: Text.AlignHCenter
+                verticalAlignment: Text.AlignVCenter
+                visible: tabFooterButton.width > 110 //!truncated
+                elide: Text.ElideRight
+                maximumLineCount: 1
+                font.pixelSize: 15
+                color: checked ? theme.normal.foregroundText : theme.disabled.foregroundText
+            }
         }
     }
 }
