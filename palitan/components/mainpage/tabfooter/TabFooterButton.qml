@@ -9,7 +9,6 @@ TabButton {
     property alias iconName: icon.name
 
     padding: 0
-    //topPadding: 0
 
     anchors{
         top: parent.top
