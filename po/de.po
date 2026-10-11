@@ -138,7 +138,7 @@ msgstr "Heimatwährung"
 
 #: /home/phablet/Documents/Dev/Palitan/palitan-app/palitan/ui/SettingsPage.qml:92
 msgid "Use home currency format for the input"
-msgstr ""
+msgstr "Verwende Heimatwährung für die Eingabe"
 
 #: /home/phablet/Documents/Dev/Palitan/palitan-app/palitan/ui/SettingsPage.qml:110
 #: /home/phablet/Documents/Dev/Palitan/palitan-app/palitan/ui/SettingsPage.qml:123
@@ -383,7 +383,7 @@ msgstr "Äthiopischer Birr"
 
 #: /home/phablet/Documents/Dev/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:93
 msgid "Euro Member Countries"
-msgstr "Euro-Länder"
+msgstr "Euro"
 
 #: /home/phablet/Documents/Dev/Palitan/palitan-app/palitan/components/listmodels/MainModels.qml:94
 msgid "Fiji Dollar"
