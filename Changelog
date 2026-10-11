@@ -1,3 +1,11 @@
+v2.3
+ - Better logic for displaying and hiding the paste button (Thanks sornsoksamnang)
+ - Updated framework and other technical details of the app (Thanks Danfro)
+ - German translation (Thanks Danfro)
+ - New bottom tabs bar design that's better for devices with rounded corners
+ - Better handling of input with invalid characters i.e. commas
+ - Option to input number based on home currency format i.e. using comma as decimal point in currencies such as Euro
+
 v2.2
  - Updated Dutch translation (Thanks to Heimen Stoffels)
 

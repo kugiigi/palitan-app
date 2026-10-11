@@ -9,7 +9,7 @@
             "desktop": "palitan/palitan.desktop"
         }
     },
-    "version": "2.2",
+    "version": "2.3",
     "maintainer": "Kugi Eusebio <kugi_eusebio@protonmail.com>",
     "framework": "@CLICK_FRAMEWORK@"
 }

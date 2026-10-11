@@ -15,6 +15,7 @@ Item{
     property alias currencyFormatting: settings.currencyFormatting
     property alias customPrecision: settings.customPrecision
     property alias enableHeaderExpand: settings.enableHeaderExpand
+    property alias useHomeCurrencyInputFormat: settings.useHomeCurrencyInputFormat
 
     //Saved data
     property alias previousBaseCurrency: settings.previousBaseCurrency
@@ -55,5 +56,6 @@ Item{
         property string ratesCacheJSON: ""
 
         property bool enableHeaderExpand: true
+        property bool useHomeCurrencyInputFormat: false
     }
 }

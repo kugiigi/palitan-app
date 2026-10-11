@@ -44,6 +44,23 @@ BasePage {
     function focusTextField() {
         valueTextField.forceActiveFocus()
     }
+
+    function processInputText(_text) {
+        if (settings.useHomeCurrencyInputFormat) {
+            // Convert input into universal format
+            const _thousand = settings.homeCurrencyData.thousand;
+            const _decimal = settings.homeCurrencyData.decimal;
+            _text = _text.replace(new RegExp("\\" + _thousand, "gi"), "");
+            _text = _text.replace(new RegExp("\\" + _decimal, "gi"), ".");
+        } else {
+            // Remove invalid characters based on universal format
+            _text = _text.replace(/,/gi, "");
+        }
+
+        _text = _text.replace(/ /gi, "");
+
+        return _text;
+    }
         
     BaseAction{
         id: updateDataAction
@@ -85,14 +102,14 @@ BasePage {
         
         onTriggered: {
             var currentValue = swipeView.currentItem.inputTextValue
-            var newValue = valueTextField.text
-            
+            var newValue = mainPage.processInputText(valueTextField.text)
+
             if(currentValue != newValue){
                 swipeView.currentItem.inputTextValue = newValue
             }
-            
+
             convertPane.syncCurrencies()
-            
+
             if(currentIndex === 1){
                 settings.previousBaseCurrency = convertPane.baseCurrency.code
                 settings.previousDestinationCurrency = convertPane.destinationCurrency.code
@@ -206,5 +223,6 @@ BasePage {
     
     footer: TabFooter{
         id: tabBar
+        height: 60
     }
 }
